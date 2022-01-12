@@ -6,7 +6,7 @@ Page for mirroring things i do, not the best or most anonymate but for now i'll 
 
 Links:
 [![]("https://gamebanana.com/mods/embeddables/346576?type=large")](https://gamebanana.com/mods/346576)
-*   [GitHub Mirror]https://github.com/Z-Infinity/mods/blob/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z
+*   [GitHub Mirror](https://github.com/Z-Infinity/mods/blob/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z)
 
 ### Ishtar - Newborn
 

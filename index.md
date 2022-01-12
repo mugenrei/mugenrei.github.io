@@ -4,21 +4,24 @@ Page for mirroring things i do, not the best or most anonymate but for now i'll 
 
 ### Cleopatra - Newborn
 
-[![Gamebanana](https://gamebanana.com/mods/embeddables/346576?type=large)](https://gamebanana.com/mods/346576)
 Links:
+
+[![Gamebanana](https://gamebanana.com/mods/embeddables/346576?type=large)](https://gamebanana.com/mods/346576)
 *   [GitHub Mirror](https://github.com/Z-Infinity/mods/blob/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z)
 
 ### Ishtar - Newborn
 
 Links:
-[![]("https://gamebanana.com/mods/embeddables/348219?type=large")](https://gamebanana.com/mods/348219)
+
+[![Gamebanana](https://gamebanana.com/mods/embeddables/348219?type=large)](https://gamebanana.com/mods/348219)
 *   [GitHub Mirror Part 1](https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.001)
 *   [GitHub Mirror Part 2](https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.002)
 
 ### Joka 1st Phase - Newborn
 
 Links:
-[![]("https://gamebanana.com/mods/embeddables/349175?type=large")](https://gamebanana.com/mods/349175)
+
+[![Gamebanana](https://gamebanana.com/mods/embeddables/349175?type=large)](https://gamebanana.com/mods/349175)
 *   [GitHub Mirror Part 1](https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.001)
 *   [GitHub Mirror Part 2](https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.002)
 

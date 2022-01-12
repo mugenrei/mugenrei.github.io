@@ -14,7 +14,6 @@ Links:
 [![]("https://gamebanana.com/mods/embeddables/348219?type=large")](https://gamebanana.com/mods/348219)
 *   [GitHub Mirror Part 1](https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.001)
 *   [GitHub Mirror Part 2](https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.002)
-*   https://gamebanana.com/mods/346576
 
 ### Joka 1st Phase - Newborn
 

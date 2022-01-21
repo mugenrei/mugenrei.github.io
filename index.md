@@ -1,6 +1,6 @@
 ## What's this?
 
-Page for mirroring things i do, not the best or most anonymate but for now i'll use this. Also if i create something that some sites are against it will, maybe, appear here.
+Page for mirroring things i do, not the best but for now i'll use this. Also if i create something that some sites are against, it will maybe, appear here.
 
 ### Cleopatra - Newborn
 
@@ -29,5 +29,21 @@ Links:
 
 Links:
 
-*   https://github.com/Z-Infinity/mods/blob/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z
-*   https://gamebanana.com/mods/346576
+[![Gamebanana](https://gamebanana.com/mods/embeddables/349945?type=large)](https://gamebanana.com/mods/349945)
+
+*   [GitHub Mirror](https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka2nd_NewbornMod.7z)
+
+### Mecha Juri Han as Abdiel 2nd Form
+
+Links:
+
+[![Gamebanana](https://gamebanana.com/mods/embeddables/350584?type=large)](https://gamebanana.com/mods/350584)
+
+### Succubus - Newborn
+
+Links:
+
+[![Gamebanana](https://gamebanana.com/mods/embeddables/351930?type=large)](https://gamebanana.com/mods/351930)
+
+*   [GitHub Mirror](https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Succubus_NewbornMod.7z)
+

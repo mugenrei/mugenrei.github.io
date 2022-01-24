@@ -47,3 +47,11 @@ Links:
 
 *   [GitHub Mirror](https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Succubus_NewbornMod.7z)
 
+### Mermaid - Newborn
+
+Links:
+
+[![Gamebanana](https://gamebanana.com/mods/embeddables/352748?type=large)](https://gamebanana.com/mods/352748)
+
+*   [GitHub Mirror](https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornMod.7z)
+*   [GitHub Mirror Plus Version](https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornModPlus.7z)

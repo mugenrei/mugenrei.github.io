@@ -1,345 +1,156 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="mugenrei">
-    <title>mugenrei</title>
 
-    <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="">
+  <meta name="author" content="mugenrei">
+  <title>mugenrei</title>
+  <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/">
+  <script src="./assets/dist/js/jquery-3.3.1.min.js"></script>
+  <!-- Bootstrap core CSS -->
+  <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    .bd-placeholder-img {
+      font-size: 1.125rem;
+      text-anchor: middle;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      user-select: none;
+    }
 
-    
-
-    <!-- Bootstrap core CSS -->
-<link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
-
-    <style>
-      .bd-placeholder-img {
-        font-size: 1.125rem;
-        text-anchor: middle;
-        -webkit-user-select: none;
-        -moz-user-select: none;
-        user-select: none;
+    @media (min-width: 768px) {
+      .bd-placeholder-img-lg {
+        font-size: 3.5rem;
       }
+    }
+  </style>
+</head>
 
-      @media (min-width: 768px) {
-        .bd-placeholder-img-lg {
-          font-size: 3.5rem;
-        }
-      }
-    </style>
-
-    
-  </head>
-  <body>
-    
-<header>
-  <div class="collapse bg-dark" id="navbarHeader">
-    <div class="container">
-      <div class="row">
-        <div class="col-sm-8 col-md-7 py-4">
-          <h4 class="text-white">About</h4>
-          <p class="text-muted">
-            Sometimes admins doesn't want some mods on their websites because it either hurts
-            ad revenue or their subjective views on the world, this usually applies for mods
-            that are too spicy (nsfw), too kawaii (with cutey girls) or both, that's when you 
-            have to split where your mods will be hosted, i plan to do all types of mods,
-            that's why i've made this "hub".
-          </p>
-        </div>
-        <div class="col-sm-4 offset-md-1 py-4">
-          <h4 class="text-white">Pages</h4>
-          <ul class="list-unstyled">
-            <li><a href="https://ko-fi.com/mugenrei" class="text-white">Ko-fi</a></li>
-            <li><a href="https://gamebanana.com/members/2054898" class="text-white">Gamebanana</a></li>
-          </ul>
+<body>
+  <header>
+    <div class="collapse bg-dark" id="navbarHeader">
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-8 col-md-7 py-4">
+            <h4 class="text-white">About</h4>
+            <p class="text-muted">
+              Sometimes admins doesn't want some mods on their websites because it either hurts
+              ad revenue or their subjective views on the world, this usually applies for mods
+              that are too spicy (nsfw), too kawaii (with cutey girls) or both, that's when you
+              have to split where your mods will be hosted, i plan to do all types of mods,
+              that's why i've made this "hub".
+            </p>
+          </div>
+          <div class="col-sm-4 offset-md-1 py-4">
+            <h4 class="text-white">Pages</h4>
+            <ul class="list-unstyled">
+              <li><a href="https://ko-fi.com/mugenrei" class="text-white">Ko-fi</a></li>
+              <li><a href="https://gamebanana.com/members/2054898" class="text-white">Gamebanana</a></li>
+            </ul>
+          </div>
         </div>
       </div>
     </div>
-  </div>
-  <div class="navbar navbar-dark bg-dark shadow-sm">
-    <div class="container">
-      <a href="#" class="navbar-brand d-flex align-items-center">
-        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2" viewBox="0 0 24 24"><path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z"/><circle cx="12" cy="13" r="4"/></svg>
-        <strong>mugenrei</strong>
-      </a>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
+    <div class="navbar navbar-dark bg-dark shadow-sm">
+      <div class="container">
+        <a href="#" class="navbar-brand d-flex align-items-center">
+          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor"
+            stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2"
+            viewBox="0 0 24 24">
+            <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z" />
+            <circle cx="12" cy="13" r="4" />
+          </svg>
+          <strong>mugenrei</strong>
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
+          aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+      </div>
     </div>
-  </div>
-</header>
-
-<main>
-
-  <section class="py-5 text-center container">
-    <div class="row py-lg-5">
-      <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">Mods Gallery</h1>
-        <p class="lead text-muted">
-          Here you can find an unified list for any mod i did and decided to list here
-          alongside (or not) other mods website(s).
-          <br>Why? Because i like messing with html.
-        </p>
-        <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Commissions or Donations!', '#29abe0', 'K3K07OGNB');kofiwidget2.draw();</script> 
-        <!--
+  </header>
+  <main>
+    <section class="py-5 text-center container">
+      <div class="row py-lg-5">
+        <div class="col-lg-6 col-md-8 mx-auto">
+          <h1 class="fw-light">Mods Gallery</h1>
+          <p class="lead text-muted">
+            Here you can find an unified list for any mod i did and decided to list here
+            alongside (or not) other mods website(s).
+            <br>Why? Because i like messing with html.
+          </p>
+          <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
+          <script
+            type='text/javascript'>kofiwidget2.init('Commissions or Donations!', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
+          <!--
         <p>
           <a href="#" class="btn btn-primary my-2">Main call to action</a>
           <a href="#" class="btn btn-secondary my-2">Secondary action</a>
         </p>
       -->
+        </div>
       </div>
-    </div>
-  </section>
-
-  <div class="album py-5 bg-light">
+    </section>
+    <div class="album py-5 bg-light">
+      <div class="container">
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="myData">
+          <script>
+            fetch('./assets/mods.json')
+              .then(function (response) {
+                return response.json();
+              })
+              .then(function (data) {
+                appendData(data);
+              })
+              .catch(function (err) {
+                console.log('error: ' + err);
+              });
+            function appendData(data) {
+              var mainContainer = document.getElementById("myData");
+              //alert(data.length);
+              for (var i = data.length - 1; i >= 0; i--) {
+                //console.log(i);
+                if (data[i].modSeries == "Commission") {
+                  modDescription = 'This commissioned mod replaces ' + data[i].targetDemon + ' with ' + data[i].newModel + '!<br><strong>Sincere thanks to ' + data[i].modCommissioner + '.';
+                } else {
+                  modDescription = 'An entry on the ' + data[i].modSeries + ' series of mods! It replaces ' + data[i].targetDemon + ' with ' + data[i].newModel + '.';
+                }
+                if (data[i])
+                  //console.log(modDescription);
+                  $(".modHub").append(
+                    "<div class='col'>" +
+                    "<div class='card shadow-sm'>" +
+                    "<img src=" + data[i].thumbnail + " alt='Mod thumbnail'>" +
+                    "<div class='card-body'>" +
+                    "<p class='card-text'>" + modDescription + "</p>" +
+                    "<div class='d-flex justify-content-between align-items-center'>" +
+                    "<div class='btn-group'>" +
+                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror1 + "</a>" +
+                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror2 + "</a>" +
+                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror3 + "</a>" +
+                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror4 + "</a>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>" +
+                    "</div>");
+              }
+            }
+          </script>
+        </div>
+      </div>
+  </main>
+  <footer class="text-muted py-5">
     <div class="container">
-
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/13_artemis-newb-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Newborn series of mods: Artemis.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/362023" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/12_ahri-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                Model replacement commission: Ahri.
-                Replaces Joka 1st Phase.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/359625" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/11_nemesis-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                Model replacement commission: Zeus NEMESIS.
-                Replaces Zeus.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/356586" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/10_cufate-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                Model replacement commission: Cu Chulainn from Fate.
-                Replaces Cu Chulainn.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/355539" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/09_bowsette-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                Model replacement commission: Bowsette and Bowser.
-                Replaces Mother Harlot.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/354227" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/08_mermaid-newb-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Newborn series of mods: Mermaid.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/352748" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornMod.7z" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                  <a href="https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornModPlus.7z" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/07_succ-newb-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Newborn series of mods: Succubus.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/351930" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Succubus_NewbornMod.7z" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/06_joka-recl-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Re-Clothing series of mods: Joka 1st Phase.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/346576" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="https://github.com/Z-Infinity/mods/blob/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/05_juri-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                Model replacement commission: Mecha Juri Han from SFV.
-                Replaces Abdiel 2nd Form.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/350584" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/04_joka2-newb-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Newborn series of mods: Joka 2nd Phase.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/349945" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka2nd_NewbornMod.7z" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/03_joka1-newb-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Newborn series of mods: Joka 1st Phase.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/349175" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.001" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                  <a href="https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.002" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/02_ishtar-newb-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Newborn series of mods: Ishtar.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/348219" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.001" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                  <a href="https://github.com/Z-Infinity/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.002" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="col">
-          <div class="card shadow-sm">
-            <img src="assets/img/01_cleo-newb-1.jpg" alt="Mod thumbnail">
-            <div class="card-body">
-              <p class="card-text">
-                An entry on the Newborn series of mods: Cleopatra.
-              </p>
-              <div class="d-flex justify-content-between align-items-center">
-                <div class="btn-group">
-                  <a href="https://gamebanana.com/mods/346576" role="button" class="btn btn-sm btn-outline-secondary">Gamebanana</a>
-                  <a href="https://github.com/Z-Infinity/mods/blob/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z" role="button" class="btn btn-sm btn-outline-secondary">Mirror</a>
-                </div>
-                
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
+      <p class="float-end mb-1">
+        <a href="#">Back to top</a>
+      </p>
+      <p class="mb-1">Page by mugenrei, made using Bootstrap.</p>
     </div>
-  </div>
+  </footer>
+  <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+</body>
 
-</main>
-
-<footer class="text-muted py-5">
-  <div class="container">
-    <p class="float-end mb-1">
-      <a href="#">Back to top</a>
-    </p>
-    <p class="mb-1">Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-    <p class="mb-0">New to Bootstrap? <a href="/">Visit the homepage</a> or read our <a href="../getting-started/introduction/">getting started guide</a>.</p>
-  </div>
-</footer>
-
-
-    <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
-
-      
-  </body>
 </html>

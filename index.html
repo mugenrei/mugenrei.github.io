@@ -117,25 +117,35 @@
                 } else {
                   modDescription = 'An entry on the ' + data[i].modSeries + ' series of mods! It replaces ' + data[i].targetDemon + ' with ' + data[i].newModel + '.';
                 }
-                if (data[i])
-                  //console.log(modDescription);
-                  $(".modHub").append(
-                    "<div class='col'>" +
-                    "<div class='card shadow-sm'>" +
-                    "<img src=" + data[i].thumbnail + " alt='Mod thumbnail'>" +
-                    "<div class='card-body'>" +
-                    "<p class='card-text'>" + modDescription + "</p>" +
-                    "<div class='d-flex justify-content-between align-items-center'>" +
-                    "<div class='btn-group'>" +
-                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror1 + "</a>" +
-                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror2 + "</a>" +
-                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror3 + "</a>" +
-                    "<a role='button' class='btn btn-sm btn-outline-secondary' href=" + data[i].mirror4 + "</a>" +
-                    "</div>" +
-                    "</div>" +
-                    "</div>" +
-                    "</div>" +
-                    "</div>");
+                
+                //console.log(modDescription);
+                $(".modHub").append(
+                  "<div class='col'>" +
+                  "<div class='card shadow-sm'>" +
+                  "<img src=" + data[i].thumbnail + " alt='Mod thumbnail'>" +
+                  "<div class='card-body'>" +
+                  "<p class='card-text'>" + modDescription + "</p>" +
+                  "<div class='d-flex justify-content-between align-items-center'>" +
+                  "<div class='btn-group'>" +
+                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror1' href=" + data[i].mirror1 + "</a>" +
+                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror2' href=" + data[i].mirror2 + "</a>" +
+                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror3' href=" + data[i].mirror3 + "</a>" +
+                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror4' href=" + data[i].mirror4 + "</a>" +
+                  "</div>" +
+                  "</div>" +
+                  "</div>" +
+                  "</div>" +
+                  "</div>"
+                  );
+                if (data[i].mirror1 == ""){
+                  $("a[class*='mirror1']").remove();
+                } else if (data[i].mirror2 == ""){
+                  $("a[class*='mirror2']").remove();
+                } else if (data[i].mirror3 == ""){
+                  $("a[class*='mirror3']").remove();
+                } else if (data[i].mirror4 == ""){
+                  $("a[class*='mirror4']").remove();
+                }
               }
             }
           </script>

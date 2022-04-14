@@ -26,6 +26,7 @@
       }
     }
   </style>
+  
 </head>
 
 <body>
@@ -82,19 +83,16 @@
             <br>Why? Because i like messing with html.
           </p>
           <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-          <script
-            type='text/javascript'>kofiwidget2.init('Commissions or Donations!', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
-          <!--
-        <p>
-          <a href="#" class="btn btn-primary my-2">Main call to action</a>
-          <a href="#" class="btn btn-secondary my-2">Secondary action</a>
-        </p>
-      -->
+          <script type='text/javascript'>kofiwidget2.init('Commissions or Donations!', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
         </div>
       </div>
     </section>
     <div class="album py-5 bg-light">
       <div class="container">
+        <!--<div class="form-check form-switch">
+          <input class="form-check-input" type="checkbox" role="switch" id="nsfwSwitch">
+          <label class="form-check-label" for="nsfwSwitch">Show NSFW</label>
+        </div>-->
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="myData">
           <script>
             fetch('./assets/mods.json')
@@ -109,20 +107,18 @@
               });
             function appendData(data) {
               var mainContainer = document.getElementById("myData");
-              //alert(data.length);
+              
               for (var i = data.length - 1; i >= 0; i--) {
-                //console.log(i);
                 if (data[i].modSeries == "Commission") {
                   modDescription = 'This commissioned mod replaces ' + data[i].targetDemon + ' with ' + data[i].newModel + '!<br><strong>Sincere thanks to ' + data[i].modCommissioner + '.';
                 } else {
                   modDescription = 'An entry on the ' + data[i].modSeries + ' series of mods! It replaces ' + data[i].targetDemon + ' with ' + data[i].newModel + '.';
                 }
-                
-                //console.log(modDescription);
+                id = 1+i;
                 $(".modHub").append(
                   "<div class='col'>" +
-                  "<div class='card shadow-sm'>" +
-                  "<img src=" + data[i].thumbnail + " alt='Mod thumbnail'>" +
+                  "<div class='card shadow-sm '>" +
+                  "<img class='modID"+id+"' src=" + data[i].thumbnail + " alt='Mod thumbnail'>" +
                   "<div class='card-body'>" +
                   "<p class='card-text'>" + modDescription + "</p>" +
                   "<div class='d-flex justify-content-between align-items-center'>" +
@@ -137,6 +133,9 @@
                   "</div>" +
                   "</div>"
                   );
+                if (data[i].isNSFW == "true"){
+                  $('.modID'+id).css("filter","blur(5px)");
+                }
                 if (data[i].mirror1 == ""){
                   $("a[class*='mirror1']").remove();
                 } else if (data[i].mirror2 == ""){
@@ -146,9 +145,13 @@
                 } else if (data[i].mirror4 == ""){
                   $("a[class*='mirror4']").remove();
                 }
+                
               }
             }
+            
           </script>
+
+          
         </div>
       </div>
   </main>
@@ -159,6 +162,16 @@
       </p>
       <p class="mb-1">Page by mugenrei, made using Bootstrap.</p>
     </div>
+    <script>
+      $('[id^=item-]').css("filter","");
+      $("#nsfwSwitch").click(function(){
+        if ($("#nsfwImg").css('filter') == "blur(5px)") {
+          $('#nsfwImg').css("filter","");
+        } else {
+          $('#nsfwImg').css("filter","blur(5px)");
+        }
+      });
+    </script>
   </footer>
   <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 </body>

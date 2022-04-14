@@ -194,5 +194,19 @@
         "mirror3": "",
         "mirror4": "",
         "isNSFW": "false"
+    },
+    {
+        "id": "15",
+        "publishDate": "30-03-22",
+        "targetDemon": "Ishtar",
+        "modSeries": "Commission",
+        "modCommissioner": "HonorableSpartan",
+        "newModel": "Ishtar from Fate",
+        "thumbnail": "assets/img/15_IshtarFate-1.jpg",
+        "mirror1": "'https://gamebanana.com/mods/367883'>Gb",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isNSFW": "false"
     }
 ]

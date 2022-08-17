@@ -208,5 +208,33 @@
         "mirror3": "",
         "mirror4": "",
         "isNSFW": "false"
+    },
+    {
+        "id": "16",
+        "publishDate": "05-08-22",
+        "targetDemon": "Atavaka",
+        "modSeries": "Commission",
+        "modCommissioner": "Lukedo3001",
+        "newModel": "a custom Sun Wukong from Overhit",
+        "thumbnail": "assets/img/16_SeitenTaisen-1.jpg",
+        "mirror1": "'https://gamebanana.com/mods/393984'>Gb",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isNSFW": "false"
+    },
+    {
+        "id": "17",
+        "publishDate": "05-08-22",
+        "targetDemon": "Hell Biker",
+        "modSeries": "Commission",
+        "modCommissioner": "HonorableSpartan",
+        "newModel": "Yusei Fudo",
+        "thumbnail": "assets/img/17_YuseiFudo-1.jpg",
+        "mirror1": "'https://gamebanana.com/mods/393988'>Gb",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isNSFW": "false"
     }
 ]

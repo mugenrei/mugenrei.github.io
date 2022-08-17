@@ -236,5 +236,19 @@
         "mirror3": "",
         "mirror4": "",
         "isNSFW": "false"
+    },
+    {
+        "id": "18",
+        "publishDate": "17-08-22",
+        "targetDemon": "Amanozaku",
+        "modSeries": "Commission",
+        "modCommissioner": "Lukedo3001",
+        "newModel": "Amanozaku cosplaying Nyotengu",
+        "thumbnail": "assets/img/18_Amanyozaku-1.jpg",
+        "mirror1": "'https://gamebanana.com/mods/396723'>Gb",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isNSFW": "false"
     }
 ]

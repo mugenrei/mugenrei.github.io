@@ -250,5 +250,47 @@
         "mirror3": "",
         "mirror4": "",
         "isNSFW": "false"
+    },
+    {
+        "id": "19",
+        "publishDate": "19-09-22",
+        "targetDemon": "Ookuninushi",
+        "modSeries": "Commission",
+        "modCommissioner": "Lukedo3001",
+        "newModel": "being replaced by Ryo Reiki",
+        "thumbnail": "assets/img/19_RyoReiki-1.jpg",
+        "mirror1": "'https://gamebanana.com/mods/402632'>Gb",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isNSFW": "false"
+    },
+    {
+        "id": "20",
+        "publishDate": "19-09-22",
+        "targetDemon": "Kali",
+        "modSeries": "Commission",
+        "modCommissioner": "Lukedo3001",
+        "newModel": "Kali from SMITE",
+        "thumbnail": "assets/img/20_Kali-1.jpg",
+        "mirror1": "'https://gamebanana.com/mods/402644'>Gb",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isNSFW": "false"
+    },
+    {
+        "id": "21",
+        "publishDate": "28-10-22",
+        "targetDemon": "Inanna",
+        "modSeries": "Commission",
+        "modCommissioner": "Lukedo3001",
+        "newModel": "Astarte",
+        "thumbnail": "assets/img/21_Astarte-1.jpg",
+        "mirror1": "'https://gamebanana.com/mods/408951'>Gb",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isNSFW": "false"
     }
 ]

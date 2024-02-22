@@ -25,8 +25,31 @@
         font-size: 3.5rem;
       }
     }
+
+    .card {
+      display: flex;
+      flex-direction: column;
+      height: 100%;
+    }
+
+    .card-body {
+      flex-grow: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .card-img-top {
+      width: 100%;
+      height: auto;
+      object-fit: cover;
+      transition: filter 0.3s ease-in-out;
+    }
+
+    .blur {
+      filter: blur(5px);
+    }
   </style>
-  
+
 </head>
 
 <body>
@@ -83,7 +106,8 @@
             <br>Why? Because i like messing with html.
           </p>
           <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-          <script type='text/javascript'>kofiwidget2.init('Commissions or Donations!', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
+          <script
+            type='text/javascript'>kofiwidget2.init('Commissions or Donations!', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
         </div>
       </div>
     </section>
@@ -95,63 +119,60 @@
         </div>-->
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="myData">
           <script>
-            fetch('./assets/mods.json')
-              .then(function (response) {
-                return response.json();
-              })
-              .then(function (data) {
-                appendData(data);
-              })
-              .catch(function (err) {
-                console.log('error: ' + err);
-              });
-            function appendData(data) {
-              var mainContainer = document.getElementById("myData");
-              
-              for (var i = data.length - 1; i >= 0; i--) {
-                if (data[i].modSeries == "Commission") {
-                  modDescription = 'This commissioned mod replaces ' + data[i].targetDemon + ' with ' + data[i].newModel + '!<br><strong>Sincere thanks to ' + data[i].modCommissioner + '.';
-                } else {
-                  modDescription = 'An entry on the ' + data[i].modSeries + ' series of mods! It replaces ' + data[i].targetDemon + ' with ' + data[i].newModel + '.';
-                }
-                id = 1+i;
-                $(".modHub").append(
-                  "<div class='col'>" +
-                  "<div class='card shadow-sm '>" +
-                  "<img class='modID"+id+"' src=" + data[i].thumbnail + " alt='Mod thumbnail'>" +
-                  "<div class='card-body'>" +
-                  "<p class='card-text'>" + modDescription + "</p>" +
-                  "<div class='d-flex justify-content-between align-items-center'>" +
-                  "<div class='btn-group'>" +
-                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror1' href=" + data[i].mirror1 + "</a>" +
-                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror2' href=" + data[i].mirror2 + "</a>" +
-                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror3' href=" + data[i].mirror3 + "</a>" +
-                  "<a role='button' class='btn btn-sm btn-outline-secondary mirror4' href=" + data[i].mirror4 + "</a>" +
-                  "</div>" +
-                  "</div>" +
-                  "</div>" +
-                  "</div>" +
-                  "</div>"
-                  );
-                if (data[i].isNSFW == "true"){
-                  $('.modID'+id).css("filter","blur(5px)");
-                }
-                if (data[i].mirror1 == ""){
-                  $("a[class*='mirror1']").remove();
-                } else if (data[i].mirror2 == ""){
-                  $("a[class*='mirror2']").remove();
-                } else if (data[i].mirror3 == ""){
-                  $("a[class*='mirror3']").remove();
-                } else if (data[i].mirror4 == ""){
-                  $("a[class*='mirror4']").remove();
-                }
-                
-              }
-            }
-            
-          </script>
+            // Function to get hostname
+            function getHostName(url) {
+              const parsedUrl = new URL(url);
+              const hostname = parsedUrl.hostname;
+              const pathParts = parsedUrl.pathname.split('/');
+              const lastPathPart = pathParts[pathParts.length - 1];
 
-          
+              if (lastPathPart.includes('.')) {
+                // If last part of URL contains a '.', consider it as a filename
+                return `${hostname}</br>${lastPathPart}`;
+              }
+              return hostname;
+            }
+            // Function to create card element
+            function createCard(modData) {
+              const card = document.createElement('div');
+              card.classList.add('col-md-6', 'col-lg-4', 'mb-3');
+
+              card.innerHTML = `
+                    <div class="card">
+                        <img src="${modData.thumbnail}" class="card-img-top" alt="Thumbnail">
+                        <div class="card-body">
+                            <h5 class="card-title">${modData.newModel} - ${modData.targetDemon}</h5>
+                            <p class="card-text">${modData.modSeries}</p>
+                            ${modData.modCommissioner ? `<p class="card-text">Sincere thanks to ${modData.modCommissioner}</p>` : `<p class="card-text">　</p>`}
+                            <a href="${modData.mirror1}" class="btn btn-primary">${getHostName(modData.mirror1)}</a>
+                            ${modData.mirror2 ? `<a href="${modData.mirror2}" class="btn btn-info">${getHostName(modData.mirror2)}</a>` : ''}
+                            ${modData.mirror3 ? `<a href="${modData.mirror3}" class="btn btn-info">${getHostName(modData.mirror3)}</a>` : ''}
+                        </div>
+                    </div>
+                `;
+
+              return card;
+            }
+
+            // Function to render cards
+            function renderCards(data) {
+              const modHub = document.querySelector('.modHub');
+              // Reverse the order of the data array
+              data.reverse().forEach(mod => {
+                const card = createCard(mod);
+                modHub.appendChild(card);
+              });
+            }
+
+            // Load JSON data from file
+            fetch('./assets/mods.json')
+              .then(response => response.json())
+              .then(jsonData => {
+                // Render cards
+                renderCards(jsonData);
+              })
+              .catch(error => console.error('Error loading JSON:', error));
+          </script>
         </div>
       </div>
   </main>
@@ -162,16 +183,6 @@
       </p>
       <p class="mb-1">Page by mugenrei, made using Bootstrap.</p>
     </div>
-    <script>
-      $('[id^=item-]').css("filter","");
-      $("#nsfwSwitch").click(function(){
-        if ($("#nsfwImg").css('filter') == "blur(5px)") {
-          $('#nsfwImg').css("filter","");
-        } else {
-          $('#nsfwImg').css("filter","blur(5px)");
-        }
-      });
-    </script>
   </footer>
   <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
 </body>

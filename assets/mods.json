@@ -4,14 +4,14 @@
         "publishDate": "00-00-00",
         "targetDemon": "Cleopatra",
         "modSeries": "Newborn",
-        "newModel": "True Nude Mod",
+        "newModel": "True Newborn Mod",
         "modCommissioner": "",
-        "thumbnail": "assets/img/01_cleo-newb-1.jpg- ",
+        "thumbnail": "assets/img/01_cleo-newb-1.jpg",
         "mirror1": "https://gamebanana.com/mods/346576",
         "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "2",
@@ -19,13 +19,13 @@
         "targetDemon": "Ishtar",
         "modSeries": "Newborn",
         "modCommissioner": "",
-        "newModel": "True Nude Mod",
-        "thumbnail": "assets/img/02_ishtar-newb-1.jpg- ",
+        "newModel": "True Newborn Mod",
+        "thumbnail": "assets/img/02_ishtar-newb-1.jpg",
         "mirror1": "https://gamebanana.com/mods/348219",
         "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.001",
         "mirror3": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.002",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "3",
@@ -33,13 +33,13 @@
         "targetDemon": "Joka 1st Phase",
         "modSeries": "Newborn",
         "modCommissioner": "",
-        "newModel": "True Nude Mod",
-        "thumbnail": "assets/img/03_joka1-newb-1.jpg- ",
+        "newModel": "True Newborn Mod",
+        "thumbnail": "assets/img/03_joka1-newb-1.jpg",
         "mirror1": "https://gamebanana.com/mods/349175",
         "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.001",
         "mirror3": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.002",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "4",
@@ -47,13 +47,13 @@
         "targetDemon": "Joka 2nd Phase",
         "modSeries": "Newborn",
         "modCommissioner": "",
-        "newModel": "True Nude Mod",
-        "thumbnail": "assets/img/04_joka2-newb-1.jpg- ",
+        "newModel": "True Newborn Mod",
+        "thumbnail": "assets/img/04_joka2-newb-1.jpg",
         "mirror1": "https://gamebanana.com/mods/349945",
         "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka2nd_NewbornMod.7z",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "5",
@@ -67,7 +67,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "6",
@@ -81,35 +81,35 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "7",
         "publishDate": "00-00-00",
         "targetDemon": "Succubus",
-        "modSeries": "Newborn Mod",
+        "modSeries": "Newborn",
         "modCommissioner": "",
-        "newModel": "True Nude Mod",
-        "thumbnail": "assets/img/07_succ-newb-1.jpg- ",
+        "newModel": "True Newborn Mod",
+        "thumbnail": "assets/img/07_succ-newb-1.jpg",
         "mirror1": "https://gamebanana.com/mods/351930",
         "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Succubus_NewbornMod.7z",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "8",
         "publishDate": "24-01-22",
         "targetDemon": "Mermaid",
-        "modSeries": "Newborn Mod",
+        "modSeries": "Newborn",
         "modCommissioner": "",
-        "newModel": "True Nude Mod",
-        "thumbnail": "assets/img/08_mermaid-newb-1.jpg- ",
+        "newModel": "True Newborn Mod",
+        "thumbnail": "assets/img/08_mermaid-newb-1.jpg",
         "mirror1": "https://gamebanana.com/mods/352748",
         "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornMod.7z",
         "mirror3": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornModPlus.7z",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "9",
@@ -123,7 +123,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "10",
@@ -137,7 +137,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "11",
@@ -151,7 +151,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "12",
@@ -165,7 +165,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "13",
@@ -173,13 +173,13 @@
         "targetDemon": "Artemis",
         "modSeries": "Newborn",
         "modCommissioner": "",
-        "newModel": "True Nude Mod",
-        "thumbnail": "assets/img/13_artemis-newb-1.jpg-",
+        "newModel": "True Newborn Mod",
+        "thumbnail": "assets/img/13_artemis-newb-1.jpg",
         "mirror1": "https://gamebanana.com/mods/362023",
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "14",
@@ -193,7 +193,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "15",
@@ -207,7 +207,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "16",
@@ -221,7 +221,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "17",
@@ -235,7 +235,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "18",
@@ -249,7 +249,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "19",
@@ -263,7 +263,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "20",
@@ -277,7 +277,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "21",
@@ -291,7 +291,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "22",
@@ -305,7 +305,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "23",
@@ -319,7 +319,7 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
     },
     {
         "id": "24",
@@ -328,12 +328,12 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Tate Eboshi",
-        "thumbnail": "assets/img/24_TateEboshi-1.jpg-",
+        "thumbnail": "assets/img/24_TateEboshi-1.jpg",
         "mirror1": "https://gamebanana.com/mods/455289",
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "true"
+        "isTooSpicy": "true"
     },
     {
         "id": "25",
@@ -347,6 +347,48 @@
         "mirror2": "",
         "mirror3": "",
         "mirror4": "",
-        "isNSFW": "false"
+        "isTooSpicy": "false"
+    },
+    {
+        "id": "26",
+        "publishDate": "12-04-24",
+        "targetDemon": "Hariti",
+        "modSeries": "Commission",
+        "modCommissioner": "Lukedo3001",
+        "newModel": "Hades",
+        "thumbnail": "assets/img/26_Hades-1.jpg",
+        "mirror1": "https://gamebanana.com/mods/506744",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isTooSpicy": "false"
+    },
+    {
+        "id": "27",
+        "publishDate": "12-04-24",
+        "targetDemon": "Ose",
+        "modSeries": "Commission",
+        "modCommissioner": "HonorableSpartan",
+        "newModel": "Nameless",
+        "thumbnail": "assets/img/27_Nameless-1.jpg",
+        "mirror1": "https://gamebanana.com/mods/506747",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isTooSpicy": "false"
+    },
+    {
+        "id": "28",
+        "publishDate": "13-05-24",
+        "targetDemon": "Zeus",
+        "modSeries": "Model Mod",
+        "modCommissioner": "",
+        "newModel": "Shiroi Zeus|Kuroi Zeus",
+        "thumbnail": "assets/img/28_SKZeus-1.jpg",
+        "mirror1": "https://gamebanana.com/mods/513372",
+        "mirror2": "",
+        "mirror3": "",
+        "mirror4": "",
+        "isTooSpicy": "false"
     }
 ]

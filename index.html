@@ -12,20 +12,6 @@
   <!-- Bootstrap core CSS -->
   <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
-    .bd-placeholder-img {
-      font-size: 1.125rem;
-      text-anchor: middle;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      user-select: none;
-    }
-
-    @media (min-width: 768px) {
-      .bd-placeholder-img-lg {
-        font-size: 3.5rem;
-      }
-    }
-
     .card {
       display: flex;
       flex-direction: column;
@@ -45,11 +31,20 @@
       transition: filter 0.3s ease-in-out;
     }
 
-    .blur {
-      filter: blur(5px);
+    .mosaic {
+      filter: url(#mosaic);
+    }
+    li {
+      list-style-type: none;
     }
   </style>
-
+  <svg width="0" height="0">
+    <filter id="mosaic">
+      <feTile in="SourceGraphic" result="tiled" />
+      <feMorphology in="tiled" operator="erode" radius="10" result="eroded" />
+      <feComposite in="eroded" in2="tiled" operator="in" result="composite" />
+    </filter>
+  </svg>
 </head>
 
 <body>
@@ -60,18 +55,20 @@
           <div class="col-sm-8 col-md-7 py-4">
             <h4 class="text-white">About</h4>
             <p class="text-muted">
-              Sometimes admins doesn't want some mods on their websites because it either hurts
+              Sometimes admins don't want some mods on their websites because it either hurts
               ad revenue or their subjective views on the world, this usually applies for mods
-              that are too spicy (nsfw), too kawaii (with cutey girls) or both, that's when you
-              have to split where your mods will be hosted, i plan to do all types of mods,
-              that's why i've made this "hub".
+              that are too too Spicy (NSFW or not), too kawaii (with cutey girls) or both, that's when you
+              have to split where your mods will be hosted. I plan to do all types of mods,
+              that's why I've made this "hub".
             </p>
           </div>
           <div class="col-sm-4 offset-md-1 py-4">
             <h4 class="text-white">Pages</h4>
             <ul class="list-unstyled">
               <li><a href="https://ko-fi.com/mugenrei" class="text-white">Ko-fi</a></li>
+              <li><a href="https://twitter.com/mugenreii" class="text-white">Twitter</a></li>
               <li><a href="https://gamebanana.com/members/2054898" class="text-white">Gamebanana</a></li>
+              <li><a href="https://next.nexusmods.com/profile/mugenreisan" class="text-white">NexusMods</a></li>
             </ul>
           </div>
         </div>
@@ -80,12 +77,6 @@
     <div class="navbar navbar-dark bg-dark shadow-sm">
       <div class="container">
         <a href="#" class="navbar-brand d-flex align-items-center">
-          <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" fill="none" stroke="currentColor"
-            stroke-linecap="round" stroke-linejoin="round" stroke-width="2" aria-hidden="true" class="me-2"
-            viewBox="0 0 24 24">
-            <path d="M23 19a2 2 0 0 1-2 2H3a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h4l2-3h6l2 3h4a2 2 0 0 1 2 2z" />
-            <circle cx="12" cy="13" r="4" />
-          </svg>
           <strong>mugenrei</strong>
         </a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
@@ -99,26 +90,65 @@
     <section class="py-5 text-center container">
       <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
-          <h1 class="fw-light">Mods Gallery</h1>
+          <h1 class="fw-light">Gallery</h1>
           <p class="lead text-muted">
-            Here you can find an unified list for any mod i did and decided to list here
-            alongside (or not) other mods website(s).
-            <br>Why? Because i like messing with html.
+            Here you can find a unified list for any mod I did and decided to list here
+            alongside other mods websites, maybe not the most updated, so here are the lists
+            on mod pages where I have an account:
+          </p>
+          <div id="accountList" class="">
+          </div>
+          <p class="lead text-muted">
+            To commission a mod or send me some coffee!
           </p>
           <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
           <script
-            type='text/javascript'>kofiwidget2.init('Commissions or Donations!', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
+            type='text/javascript'>kofiwidget2.init('Ko-fi', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
         </div>
       </div>
     </section>
     <div class="album py-5 bg-light">
       <div class="container">
-        <!--<div class="form-check form-switch">
-          <input class="form-check-input" type="checkbox" role="switch" id="nsfwSwitch">
-          <label class="form-check-label" for="nsfwSwitch">Show NSFW</label>
-        </div>-->
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="myData">
+        <div class="form-check form-switch">
+          <input class="form-check-input" type="checkbox" role="switch" id="tooSpicy-omg-Switch" checked="false">
+          <label class="form-check-label" for="tooSpicy-omg-Switch">Show too spicy (OMG!)</label>
+        </div>
+        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="modData">
           <script>
+
+            // Account list data
+            const accountData = [
+              { icon: 'https://images.gamebanana.com/static/img/favicon/favicon.ico', name: 'GameBanana', url: 'https://gamebanana.com/members/submissions/mods/2054898?' },
+              { icon: 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-144x144.png', name: 'NexusMods', url: 'https://next.nexusmods.com/profile/mugenreisan/mods' }
+              // Add more accounts as needed
+            ];
+
+
+            // Function to create account list item
+            function createAccountItem(account) {
+              const li = document.createElement('li');
+              li.classList.add('mb-2');
+
+              li.innerHTML = `
+                <img src="${account.icon}" alt="${account.name}" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 4px;">
+                <a href="${account.url}" target="_blank">${account.name}</a>
+              `;
+
+              return li;
+            }
+
+            // Function to render account list
+            function renderAccounts(data) {
+              const accountList = document.getElementById('accountList');
+              data.forEach(account => {
+                const accountItem = createAccountItem(account);
+                accountList.appendChild(accountItem);
+              });
+            }
+
+            // Render account list
+            renderAccounts(accountData);
+
             // Function to get hostname
             function getHostName(url) {
               const parsedUrl = new URL(url);
@@ -132,14 +162,15 @@
               }
               return hostname;
             }
+
             // Function to create card element
             function createCard(modData) {
               const card = document.createElement('div');
               card.classList.add('col-md-6', 'col-lg-4', 'mb-3');
 
               card.innerHTML = `
-                    <div class="card">
-                        <img src="${modData.thumbnail}" class="card-img-top" alt="Thumbnail">
+                    <div class="card${modData.isTooSpicy === "true" ? ' tooSpicy' : ''}">
+                        <img src="${modData.thumbnail}" class="card-img-top${modData.isTooSpicy === "true" ? ' mosaic' : ''}" alt="Thumbnail">
                         <div class="card-body">
                             <h5 class="card-title">${modData.newModel} - ${modData.targetDemon}</h5>
                             <p class="card-text">${modData.modSeries}</p>
@@ -164,17 +195,36 @@
               });
             }
 
-            // Load JSON data from file
-            fetch('./assets/mods.json')
-              .then(response => response.json())
-              .then(jsonData => {
-                // Render cards
-                renderCards(jsonData);
-              })
-              .catch(error => console.error('Error loading JSON:', error));
+          // Load JSON data from file with cache-busting parameter
+          fetch('./assets/mods.json?nocache=' + Date.now())
+            .then(response => response.json())
+            .then(jsonData => {
+              // Render cards
+              renderCards(jsonData);
+            })
+            .catch(error => console.error('Error loading JSON:', error));
+
+            document.addEventListener('DOMContentLoaded', function () {
+              // Reset the NSFW switch to off position on page load
+              const nsfwSwitch = document.getElementById('tooSpicy-omg-Switch');
+              nsfwSwitch.checked = false;
+
+              // Add event listener for NSFW switch
+              nsfwSwitch.addEventListener('change', function () {
+                const nsfwCards = document.querySelectorAll('.tooSpicy .card-img-top');
+                nsfwCards.forEach(img => {
+                  if (this.checked) {
+                    img.classList.remove('mosaic');
+                  } else {
+                    img.classList.add('mosaic');
+                  }
+                });
+              });
+            });
           </script>
         </div>
       </div>
+    </div>
   </main>
   <footer class="text-muted py-5">
     <div class="container">

@@ -31,20 +31,10 @@
       transition: filter 0.3s ease-in-out;
     }
 
-    .mosaic {
-      filter: url(#mosaic);
-    }
     li {
       list-style-type: none;
     }
   </style>
-  <svg width="0" height="0">
-    <filter id="mosaic">
-      <feTile in="SourceGraphic" result="tiled" />
-      <feMorphology in="tiled" operator="erode" radius="10" result="eroded" />
-      <feComposite in="eroded" in2="tiled" operator="in" result="composite" />
-    </filter>
-  </svg>
 </head>
 
 <body>
@@ -57,7 +47,7 @@
             <p class="text-muted">
               Sometimes admins don't want some mods on their websites because it either hurts
               ad revenue or their subjective views on the world, this usually applies for mods
-              that are too too Spicy (NSFW or not), too kawaii (with cutey girls) or both, that's when you
+              that are too too Spicy, too kawaii (with cutey girls) or both, that's when you
               have to split where your mods will be hosted. I plan to do all types of mods,
               that's why I've made this "hub".
             </p>
@@ -102,29 +92,19 @@
             To commission a mod or send me some coffee!
           </p>
           <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-          <script
-            type='text/javascript'>kofiwidget2.init('Ko-fi', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
+          <script type='text/javascript'>kofiwidget2.init('Ko-fi', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
         </div>
       </div>
     </section>
     <div class="album py-5 bg-light">
       <div class="container">
-        <div class="form-check form-switch">
-          <input class="form-check-input" type="checkbox" role="switch" id="tooSpicy-omg-Switch" checked="false">
-          <label class="form-check-label" for="tooSpicy-omg-Switch">Show too spicy (OMG!)</label>
-        </div>
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="modData">
           <script>
-
-            // Account list data
             const accountData = [
               { icon: 'https://images.gamebanana.com/static/img/favicon/favicon.ico', name: 'GameBanana', url: 'https://gamebanana.com/members/submissions/mods/2054898?' },
               { icon: 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-144x144.png', name: 'NexusMods', url: 'https://next.nexusmods.com/profile/mugenreisan/mods' }
-              // Add more accounts as needed
             ];
 
-
-            // Function to create account list item
             function createAccountItem(account) {
               const li = document.createElement('li');
               li.classList.add('mb-2');
@@ -137,7 +117,6 @@
               return li;
             }
 
-            // Function to render account list
             function renderAccounts(data) {
               const accountList = document.getElementById('accountList');
               data.forEach(account => {
@@ -146,38 +125,20 @@
               });
             }
 
-            // Render account list
             renderAccounts(accountData);
 
-            // Function to get hostname
-            function getHostName(url) {
-              const parsedUrl = new URL(url);
-              const hostname = parsedUrl.hostname;
-              const pathParts = parsedUrl.pathname.split('/');
-              const lastPathPart = pathParts[pathParts.length - 1];
-
-              if (lastPathPart.includes('.')) {
-                // If last part of URL contains a '.', consider it as a filename
-                return `${hostname}</br>${lastPathPart}`;
-              }
-              return hostname;
-            }
-
-            // Function to create card element
             function createCard(modData) {
               const card = document.createElement('div');
               card.classList.add('col-md-6', 'col-lg-4', 'mb-3');
 
               card.innerHTML = `
                     <div class="card${modData.isTooSpicy === "true" ? ' tooSpicy' : ''}">
-                        <img src="${modData.thumbnail}" class="card-img-top${modData.isTooSpicy === "true" ? ' mosaic' : ''}" alt="Thumbnail">
+                        <img src="${modData.thumbnail}" class="card-img-top${modData.isTooSpicy === "true" ? ' ' : ''}" alt="Thumbnail">
                         <div class="card-body">
                             <h5 class="card-title">${modData.newModel} - ${modData.targetDemon}</h5>
                             <p class="card-text">${modData.modSeries}</p>
                             ${modData.modCommissioner ? `<p class="card-text">Sincere thanks to ${modData.modCommissioner}</p>` : `<p class="card-text">　</p>`}
-                            <a href="${modData.mirror1}" class="btn btn-primary">${getHostName(modData.mirror1)}</a>
-                            ${modData.mirror2 ? `<a href="${modData.mirror2}" class="btn btn-info">${getHostName(modData.mirror2)}</a>` : ''}
-                            ${modData.mirror3 ? `<a href="${modData.mirror3}" class="btn btn-info">${getHostName(modData.mirror3)}</a>` : ''}
+                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modModal" data-title="${modData.newModel} - ${modData.targetDemon}" data-description="${modData.description}" data-mirrors='${JSON.stringify(modData.mirrors)}'>Details</button>
                         </div>
                     </div>
                 `;
@@ -185,43 +146,55 @@
               return card;
             }
 
-            // Function to render cards
             function renderCards(data) {
               const modHub = document.querySelector('.modHub');
-              // Reverse the order of the data array
               data.reverse().forEach(mod => {
                 const card = createCard(mod);
                 modHub.appendChild(card);
               });
             }
 
-          // Load JSON data from file with cache-busting parameter
-          fetch('./assets/mods.json?nocache=' + Date.now())
-            .then(response => response.json())
-            .then(jsonData => {
-              // Render cards
-              renderCards(jsonData);
-            })
-            .catch(error => console.error('Error loading JSON:', error));
+            document.addEventListener('DOMContentLoaded', () => {
+              const modModal = document.getElementById('modModal');
+              modModal.addEventListener('show.bs.modal', (event) => {
+                const button = event.relatedTarget;
+                const title = button.getAttribute('data-title');
+                const description = button.getAttribute('data-description');
+                const mirrors = JSON.parse(button.getAttribute('data-mirrors'));
 
-            document.addEventListener('DOMContentLoaded', function () {
-              // Reset the NSFW switch to off position on page load
-              const nsfwSwitch = document.getElementById('tooSpicy-omg-Switch');
-              nsfwSwitch.checked = false;
+                const modalTitle = modModal.querySelector('.modal-title');
+                const modalBody = modModal.querySelector('.modal-body');
 
-              // Add event listener for NSFW switch
-              nsfwSwitch.addEventListener('change', function () {
-                const nsfwCards = document.querySelectorAll('.tooSpicy .card-img-top');
-                nsfwCards.forEach(img => {
-                  if (this.checked) {
-                    img.classList.remove('mosaic');
-                  } else {
-                    img.classList.add('mosaic');
-                  }
-                });
+                modalTitle.textContent = title;
+                modalBody.innerHTML = `
+                  <p>${description}</p>
+                  ${Object.keys(mirrors).map(key => `<a href="${mirrors[key]}" target="_blank" class="btn btn-primary">${key}</a>`).join(' ')}
+                `;
               });
             });
+
+            fetch('./assets/mods.json?nocache=' + Date.now())
+              .then(response => response.json())
+              .then(jsonData => {
+                renderCards(jsonData);
+              })
+              .catch(error => console.error('Error loading JSON:', error));
           </script>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal -->
+    <div class="modal fade" id="modModal" tabindex="-1" aria-labelledby="modModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="modModalLabel">Modal title</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <!-- Content will be dynamically inserted here -->
+          </div>
         </div>
       </div>
     </div>

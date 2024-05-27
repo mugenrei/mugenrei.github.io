@@ -5,12 +5,13 @@
         "targetDemon": "Cleopatra",
         "modSeries": "Newborn",
         "newModel": "True Newborn Mod",
+        "description": "Cleopatra born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
         "modCommissioner": "",
         "thumbnail": "assets/img/01_cleo-newb-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/346576",
-        "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Cleopatra_NewbornMod.7z",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana":"https://gamebanana.com/mods/346576",
+            "Newborn Catalogue":"https://mugenreii.blogspot.com/2024/05/newborn-cleopatra.html"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -20,11 +21,12 @@
         "modSeries": "Newborn",
         "modCommissioner": "",
         "newModel": "True Newborn Mod",
+        "description": "Ishtar born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
         "thumbnail": "assets/img/02_ishtar-newb-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/348219",
-        "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.001",
-        "mirror3": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Ishtar_NewbornMod.7z.002",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/348219",
+            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-ishtar.html"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -34,11 +36,12 @@
         "modSeries": "Newborn",
         "modCommissioner": "",
         "newModel": "True Newborn Mod",
+        "description": "Joka First Phase born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
         "thumbnail": "assets/img/03_joka1-newb-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/349175",
-        "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.001",
-        "mirror3": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka_NewbornMod.7z.002",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/349175",
+            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-first-phase.html"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -48,11 +51,12 @@
         "modSeries": "Newborn",
         "modCommissioner": "",
         "newModel": "True Newborn Mod",
+        "description": "Joka Second Phase born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
         "thumbnail": "assets/img/04_joka2-newb-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/349945",
-        "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Joka2nd_NewbornMod.7z",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/349945",
+            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-second-phase.html"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -62,11 +66,11 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Mecha Juri Han",
+        "description": "Juri Han in her mecha costume!",
         "thumbnail": "assets/img/05_juri-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/340584",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/340584"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -76,11 +80,13 @@
         "modSeries": "Re-Clothing",
         "modCommissioner": "",
         "newModel": "Re-Clothed",
+        "description": "Joka in a custom body and custom clothes!",
         "thumbnail": "assets/img/06_joka-recl-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/346576",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/346576",
+            "GitHub - Part 1": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.001",
+            "GitHub - Part 2": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.002"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -90,11 +96,12 @@
         "modSeries": "Newborn",
         "modCommissioner": "",
         "newModel": "True Newborn Mod",
+        "description": "Succubus born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
         "thumbnail": "assets/img/07_succ-newb-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/351930",
-        "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Succubus_NewbornMod.7z",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/351930",
+            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-succubus.html"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -105,10 +112,11 @@
         "modCommissioner": "",
         "newModel": "True Newborn Mod",
         "thumbnail": "assets/img/08_mermaid-newb-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/352748",
-        "mirror2": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornMod.7z",
-        "mirror3": "https://github.com/mugenrei/mods/raw/main/SMTV/mugenrei_Mermaid_NewbornModPlus.7z",
-        "mirror4": "",
+        "description": "Mermaid, the man enchanter and eater, born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/352748",
+            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-mermaid.html"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -118,11 +126,11 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Bowsette and Bowser",
+        "description": "A custom model of Bowsette by huchi001 and Bowser from Super Smash Bros Ultimate.",
         "thumbnail": "assets/img/09_bowsette-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/354227",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/354227"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -132,11 +140,11 @@
         "modSeries": "Commission",
         "modCommissioner": "HonorableSpartan",
         "newModel": "Fate's Cu Chulainn",
+        "description": "Cu Chulainn from Fate Arcade!",
         "thumbnail": "assets/img/10_cufate-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/355539",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/355539"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -146,11 +154,11 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Zeus NEMESIS",
-        "thumbnail": "assets/img/11_nemesis-1.png",
-        "mirror1": "https://gamebanana.com/mods/356586",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "description": "A custom female Zeus with mecha parts!",
+        "thumbnail": "assets/img/11_nemesis-1.jpg",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/356586"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -160,11 +168,11 @@
         "modSeries": "Commission",
         "modCommissioner": "Ashai",
         "newModel": "Ahri",
+        "description": "Ahri from Wild Rift.",
         "thumbnail": "assets/img/12_ahri-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/359625",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/359625"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -174,11 +182,12 @@
         "modSeries": "Newborn",
         "modCommissioner": "",
         "newModel": "True Newborn Mod",
+        "description": "Artemis born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
         "thumbnail": "assets/img/13_artemis-newb-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/362023",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/362023",
+            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-artemis.html"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -188,11 +197,11 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Booette",
-        "thumbnail": "assets/img/14_booette-1.png",
-        "mirror1": "https://gamebanana.com/mods/366061",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "description": "A custom Booette model from huchi001!",
+        "thumbnail": "assets/img/14_booette-1.jpg",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/366061"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -202,11 +211,12 @@
         "modSeries": "Commission",
         "modCommissioner": "HonorableSpartan",
         "newModel": "Fate's Ishtar",
+        "description": "Ishtar from Fate Arcade!",
         "thumbnail": "assets/img/15_IshtarFate-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/367883",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/367883",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -216,11 +226,13 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "OH's Sun Wukong",
+        "description": "A female Seiten Taisen from a mobile game called Overhit.",
         "thumbnail": "assets/img/16_SeitenTaisen-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/393984",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/393984",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun%5B1.06%5D.7z",
+            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun_SwitchOptimized%5B1.06%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -230,11 +242,12 @@
         "modSeries": "Commission",
         "modCommissioner": "HonorableSpartan",
         "newModel": "Yusei Fudo",
+        "description": "Yusei Fudo from Yu-Gi-Oh in his bike.",
         "thumbnail": "assets/img/17_YuseiFudo-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/393988",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/393988",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_HellsAngel_Yusei%5B1.00%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -244,11 +257,14 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Amanozaku x Nyotengu",
+        "description": "Custom model of Amanozaku cosplaying as Nyotengu.",
         "thumbnail": "assets/img/18_Amanyozaku-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/396723",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/396732",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7%5B1.20%5D.7z",
+            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_S%5B1.20%5D.7z",
+            "GitHub - Bigger Version": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_BigGirl_Patch%5B1.05%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -258,11 +274,13 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Ryo Reiki",
+        "description": "Ryo Reiki from a mobile game called Three Kingdom Blades!",
         "thumbnail": "assets/img/19_RyoReiki-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/402632",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/402632",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki%5B1.06%5D.7z",
+            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki_S%5B1.06%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -272,11 +290,13 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "SMITE's Kali",
+        "description": "Kali from SMITE!",
         "thumbnail": "assets/img/20_Kali-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/402644",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/402644",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali%5B1.00%5D.7z",
+            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali_S%5B1.00%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -286,11 +306,13 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Astarte",
+        "description": "Astarte, a persona from Persona 5!",
         "thumbnail": "assets/img/21_Astarte-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/408951",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/408951",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte%5B1.01%5D.7z",
+            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte_S%5B1.01%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -300,11 +322,11 @@
         "modSeries": "Commission",
         "modCommissioner": "Luste",
         "newModel": "Lavenza",
+        "description": "Lavenza from Persona 5!",
         "thumbnail": "assets/img/22_Lavenza-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/415891",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/415891"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -314,11 +336,12 @@
         "modSeries": "Commission",
         "modCommissioner": "PyroLumi",
         "newModel": "Dehya",
+        "description": "Dehya from Genshin Impact!",
         "thumbnail": "assets/img/23_Dehya-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/416473",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/416473",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Orobas_Dehya%5B1.01%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -328,11 +351,11 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Tate Eboshi",
+        "description": "Tate Eboshi, a female boss from Nioh 2.<br><b>Only proceed if you have the age of an adult in your country.</b>",
         "thumbnail": "assets/img/24_TateEboshi-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/455289",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/455289"
+        },
         "isTooSpicy": "true"
     },
     {
@@ -341,12 +364,13 @@
         "targetDemon": "Idun",
         "modSeries": "Commission",
         "modCommissioner": "HonorableSpartan",
-        "newModel": "Fate's Ereshikigal",
+        "newModel": "Fate's Ereshkigal",
+        "description": "Ereshkigal from Fate Arcade!",
         "thumbnail": "assets/img/25_Ereshikigal-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/455291",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/455291",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -356,11 +380,12 @@
         "modSeries": "Commission",
         "modCommissioner": "Lukedo3001",
         "newModel": "Hades",
+        "description": "A beautiful female Hades from a mobile game called Overhit.",
         "thumbnail": "assets/img/26_Hades-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/506744",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/506744",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Hariti_Hades%5B1.00%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -370,11 +395,12 @@
         "modSeries": "Commission",
         "modCommissioner": "HonorableSpartan",
         "newModel": "Nameless",
+        "description": "Nameless from Fate Arcade!",
         "thumbnail": "assets/img/27_Nameless-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/506747",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/506747",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ose_Nameless%5B1.00%5D.7z"
+        },
         "isTooSpicy": "false"
     },
     {
@@ -384,11 +410,28 @@
         "modSeries": "Model Mod",
         "modCommissioner": "",
         "newModel": "Shiroi Zeus|Kuroi Zeus",
+        "description": "A mod that creates a whole Zeus, either black or white.",
         "thumbnail": "assets/img/28_SKZeus-1.jpg",
-        "mirror1": "https://gamebanana.com/mods/513372",
-        "mirror2": "",
-        "mirror3": "",
-        "mirror4": "",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/513372",
+            "GitHub - Shiroi (White)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Shiroi%5B1.00%5D.7z",
+            "GitHub - Kuroi (Black)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Kuroi%5B1.00%5D.7z"
+        },
+        "isTooSpicy": "false"
+    },
+    {
+        "id": "29",
+        "publishDate": "25-05-24",
+        "targetDemon": "Fionn",
+        "modSeries": "Commission",
+        "modCommissioner": "HonorableSpartan",
+        "newModel": "Ike",
+        "description": "Ike now in Da'at as well!",
+        "thumbnail": "assets/img/29_Ike-1.jpg",
+        "mirrors": {
+            "GameBanana": "https://gamebanana.com/mods/515646",
+            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Fionn_Ike%5B1.00%5D.7z"
+        },
         "isTooSpicy": "false"
     }
 ]

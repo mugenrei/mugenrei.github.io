@@ -99,6 +99,7 @@
     <div class="album py-5 bg-light">
       <div class="container">
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="modData">
+          <!-- Place this code within the HTML where you need to display the accounts and mods -->
           <script>
             const accountData = [
               { icon: 'https://images.gamebanana.com/static/img/favicon/favicon.ico', name: 'GameBanana', url: 'https://gamebanana.com/members/submissions/mods/2054898?' },
@@ -130,18 +131,23 @@
             function createCard(modData) {
               const card = document.createElement('div');
               card.classList.add('col-md-6', 'col-lg-4', 'mb-3');
+              const isTooSpicy = modData.modSiteData.GameBanana.isSpicy ? ' tooSpicy' : '';
 
+              // Determine the thumbnail URL
+              // const thumbnail = modData.localData.thumbnail || `${modData.modSiteData.GameBanana.thumbnailBaseUrl}${modData.modSiteData.GameBanana.thumbnailFilename}`;
+              const description = `${modData.localData.modDescription ? modData.localData.modDescription :` 　`}`
+              const thumbnail = `${modData.localData.thumbnail ? modData.localData.thumbnail :`${modData.modSiteData.GameBanana.thumbnailBaseUrl}/${modData.modSiteData.GameBanana.thumbnailFilename}`}`
               card.innerHTML = `
-                    <div class="card${modData.isTooSpicy === "true" ? ' tooSpicy' : ''}">
-                        <img src="${modData.thumbnail}" class="card-img-top${modData.isTooSpicy === "true" ? ' ' : ''}" alt="Thumbnail">
-                        <div class="card-body">
-                            <h5 class="card-title">${modData.newModel} - ${modData.targetDemon}</h5>
-                            <p class="card-text">${modData.modSeries}</p>
-                            ${modData.modCommissioner ? `<p class="card-text">Sincere thanks to ${modData.modCommissioner}</p>` : `<p class="card-text">　</p>`}
-                            <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modModal" data-title="${modData.newModel} - ${modData.targetDemon}" data-description="${modData.description}" data-mirrors='${JSON.stringify(modData.mirrors)}'>Details</button>
-                        </div>
-                    </div>
-                `;
+                <div class="card${isTooSpicy}">
+                  <img src="${thumbnail}" class="card-img-top${isTooSpicy}" alt="Thumbnail">
+                  <div class="card-body">
+                    <h5 class="card-title">${modData.modName}<br>${modData.game}</h5>
+                    ${modData.localData.modSeries ? `<p class="card-text">${modData.localData.modSeries}</p>` : `<p class="card-text">　</p>`}
+                    ${modData.localData.modCommissioner ? `<p class="card-text">Sincere thanks to ${modData.localData.modCommissioner}</p>` : `<p class="card-text">　</p>`}
+                    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modModal" data-title="${modData.modName} - ${modData.game}" data-description="${description}" data-local-mirrors='${JSON.stringify(modData.localData.mirrors)}' data-gb-mirror='${modData.modSiteData.GameBanana.itemUrl}'>Details</button>
+                  </div>
+                </div>
+              `;
 
               return card;
             }
@@ -160,19 +166,20 @@
                 const button = event.relatedTarget;
                 const title = button.getAttribute('data-title');
                 const description = button.getAttribute('data-description');
-                const mirrors = JSON.parse(button.getAttribute('data-mirrors'));
+                const localMirrors = JSON.parse(button.getAttribute('data-local-mirrors'));
+                const gbMirror = button.getAttribute('data-gb-mirror');
 
                 const modalTitle = modModal.querySelector('.modal-title');
                 const modalBody = modModal.querySelector('.modal-body');
-
+                
                 modalTitle.textContent = title;
                 modalBody.innerHTML = `
                   <p>${description}</p>
-                  ${Object.keys(mirrors).map(key => `<a href="${mirrors[key]}" target="_blank" class="btn btn-primary">${key}</a>`).join(' ')}
+                  <a href="${gbMirror}" target="_blank" class="btn btn-primary">GameBanana</a>
+                  ${Object.keys(localMirrors).map(key => `<a href="${localMirrors[key]}" target="_blank" class="btn btn-primary">${key}</a>`).join(' ')}
                 `;
               });
             });
-
             fetch('./assets/mods.json?nocache=' + Date.now())
               .then(response => response.json())
               .then(jsonData => {
@@ -180,6 +187,8 @@
               })
               .catch(error => console.error('Error loading JSON:', error));
           </script>
+
+
         </div>
       </div>
     </div>

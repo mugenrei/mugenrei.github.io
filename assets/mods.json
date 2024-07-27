@@ -1,437 +1,1888 @@
 [
     {
         "id": "1",
-        "publishDate": "00-00-00",
-        "targetDemon": "Cleopatra",
-        "modSeries": "Newborn",
-        "newModel": "True Newborn Mod",
-        "description": "Cleopatra born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
-        "modCommissioner": "",
-        "thumbnail": "assets/img/01_cleo-newb-1.jpg",
-        "mirrors": {
-            "GameBanana":"https://gamebanana.com/mods/346576",
-            "Newborn Catalogue":"https://mugenreii.blogspot.com/2024/05/newborn-cleopatra.html"
+        "modName": "Cleopatra - Newborn - True Nude Mod",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1640760464,
+        "localData": {
+            "id": "1",
+            "modTargetDemon": "Cleopatra",
+            "modSeries": "Newborn",
+            "modDescription": "Cleopatra born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "modCommissioner": "",
+            "thumbnail": "assets/img/01_cleo-newb-1.jpg",
+            "mirrors": {
+                "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-cleopatra.html"
+            },
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 346576,
+                "type": "Mod",
+                "addedDate": 1640760464,
+                "modifiedDate": 1664236914,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/346576",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 40,
+                "interactionComments": 17,
+                "interactionFeatured": false,
+                "interactionViews": 24179,
+                "category": "Skins",
+                "version": "1.0",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61cc02af54e61.jpg"
+            }
+        }
     },
     {
         "id": "2",
-        "publishDate": "00-00-00",
-        "targetDemon": "Ishtar",
-        "modSeries": "Newborn",
-        "modCommissioner": "",
-        "newModel": "True Newborn Mod",
-        "description": "Ishtar born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
-        "thumbnail": "assets/img/02_ishtar-newb-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/348219",
-            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-ishtar.html"
+        "modName": "Ishtar - Newborn - True Nude Mod",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1641333976,
+        "localData": {
+            "id": "2",
+            "modTargetDemon": "Ishtar",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "modDescription": "Ishtar born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/02_ishtar-newb-1.jpg",
+            "mirrors": {
+                "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-ishtar.html"
+            },
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 348219,
+                "type": "Mod",
+                "addedDate": 1641333976,
+                "modifiedDate": 1664236938,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/348219",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 38,
+                "interactionComments": 11,
+                "interactionFeatured": false,
+                "interactionViews": 17233,
+                "category": "Skins",
+                "version": "1.0",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61d4bff021d69.jpg"
+            }
+        }
     },
     {
         "id": "3",
-        "publishDate": "00-00-00",
-        "targetDemon": "Joka 1st Phase",
-        "modSeries": "Newborn",
-        "modCommissioner": "",
-        "newModel": "True Newborn Mod",
-        "description": "Joka First Phase born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
-        "thumbnail": "assets/img/03_joka1-newb-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/349175",
-            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-first-phase.html"
+        "modName": "Joka 1st phase (Nuwa) - True Nude Mod",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1641684941,
+        "localData": {
+            "id": "3",
+            "modTargetDemon": "Joka 1st Phase",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "modDescription": "Joka First Phase born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/03_joka1-newb-1.jpg",
+            "mirrors": {
+                "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-first-phase.html"
+            },
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 349175,
+                "type": "Mod",
+                "addedDate": 1641684941,
+                "modifiedDate": 1664236583,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/349175",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 38,
+                "interactionComments": 8,
+                "interactionFeatured": false,
+                "interactionViews": 20353,
+                "category": "Skins",
+                "version": "1.0",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61da1dd938b11.jpg"
+            }
+        }
     },
     {
         "id": "4",
-        "publishDate": "00-00-00",
-        "targetDemon": "Joka 2nd Phase",
-        "modSeries": "Newborn",
-        "modCommissioner": "",
-        "newModel": "True Newborn Mod",
-        "description": "Joka Second Phase born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
-        "thumbnail": "assets/img/04_joka2-newb-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/349945",
-            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-second-phase.html"
+        "modName": "Joka 2nd phase (Nuwa) - True Nude Mod",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1641986864,
+        "localData": {
+            "id": "4",
+            "modTargetDemon": "Joka 2nd Phase",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "modDescription": "Joka Second Phase born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/04_joka2-newb-1.jpg",
+            "mirrors": {
+                "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-second-phase.html"
+            },
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 349945,
+                "type": "Mod",
+                "addedDate": 1641986864,
+                "modifiedDate": 1664236952,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/349945",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 34,
+                "interactionComments": 9,
+                "interactionFeatured": false,
+                "interactionViews": 15174,
+                "category": "Skins",
+                "version": "1.0",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61deb9fd4343d.jpg"
+            }
+        }
     },
     {
         "id": "5",
-        "publishDate": "00-00-00",
-        "targetDemon": "Abdiel 2nd Phase",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Mecha Juri Han",
-        "description": "Juri Han in her mecha costume!",
-        "thumbnail": "assets/img/05_juri-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/340584"
+        "modName": "Joka 1st (Nuwa) - No Sleeves, No Belt",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1642161779,
+        "localData": {
+            "id": "5",
+            "modTargetDemon": "Abdiel 2nd Phase",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Juri Han in her mecha costume!",
+            "thumbnail": "assets/img/05_juri-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 350380,
+                "type": "Mod",
+                "addedDate": 1642161779,
+                "modifiedDate": 1664236653,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/350380",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 15,
+                "interactionComments": 5,
+                "interactionFeatured": true,
+                "interactionViews": 10643,
+                "category": "Skins",
+                "version": "1.0",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61e1650a33ccd.jpg"
+            }
+        }
     },
     {
         "id": "6",
-        "publishDate": "00-00-00",
-        "targetDemon": "Joka 1st Phase",
-        "modSeries": "Re-Clothing",
-        "modCommissioner": "",
-        "newModel": "Re-Clothed",
-        "description": "Joka in a custom body and custom clothes!",
-        "thumbnail": "assets/img/06_joka-recl-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/346576",
-            "GitHub - Part 1": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.001",
-            "GitHub - Part 2": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.002"
+        "modName": "(Commission) Mecha Juri Han",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1642231665,
+        "localData": {
+            "id": "6",
+            "modTargetDemon": "Joka 1st Phase",
+            "modSeries": "Re-Clothing",
+            "modCommissioner": "",
+            "modDescription": "Joka in a custom body and custom clothes!",
+            "thumbnail": "assets/img/06_joka-recl-1.jpg",
+            "mirrors": {
+                "GitHub - Part 1": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.001",
+                "GitHub - Part 2": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.002"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 350584,
+                "type": "Mod",
+                "addedDate": 1642231665,
+                "modifiedDate": 1643529073,
+                "updatedDate": 1643528951,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/350584",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 22,
+                "interactionComments": 7,
+                "interactionFeatured": true,
+                "interactionViews": 9887,
+                "category": "Skins",
+                "version": "1.03",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61e27673df35c.jpg"
+            }
+        }
     },
     {
         "id": "7",
-        "publishDate": "00-00-00",
-        "targetDemon": "Succubus",
-        "modSeries": "Newborn",
-        "modCommissioner": "",
-        "newModel": "True Newborn Mod",
-        "description": "Succubus born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
-        "thumbnail": "assets/img/07_succ-newb-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/351930",
-            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-succubus.html"
+        "modName": "Succubus - True Nude Mod",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1642746209,
+        "localData": {
+            "id": "7",
+            "modTargetDemon": "Succubus",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "modDescription": "Succubus born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/07_succ-newb-1.jpg",
+            "mirrors": {
+                "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-succubus.html"
+            },
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 351930,
+                "type": "Mod",
+                "addedDate": 1642746209,
+                "modifiedDate": 1664236981,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/351930",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 41,
+                "interactionComments": 11,
+                "interactionFeatured": false,
+                "interactionViews": 16723,
+                "category": "Skins",
+                "version": "1.0",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61ea505f2e48f.jpg"
+            }
+        }
     },
     {
         "id": "8",
-        "publishDate": "24-01-22",
-        "targetDemon": "Mermaid",
-        "modSeries": "Newborn",
-        "modCommissioner": "",
-        "newModel": "True Newborn Mod",
-        "thumbnail": "assets/img/08_mermaid-newb-1.jpg",
-        "description": "Mermaid, the man enchanter and eater, born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/352748",
-            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-mermaid.html"
+        "modName": "Mermaid - True Nude Mod",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1643046560,
+        "localData": {
+            "id": "8",
+            "modTargetDemon": "Mermaid",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "thumbnail": "assets/img/08_mermaid-newb-1.jpg",
+            "modDescription": "Mermaid, the man enchanter and eater, born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "mirrors": {
+                "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-mermaid.html"
+            },
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 352748,
+                "type": "Mod",
+                "addedDate": 1643046560,
+                "modifiedDate": 1712894013,
+                "updatedDate": 1671231390,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/352748",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 47,
+                "interactionComments": 26,
+                "interactionFeatured": false,
+                "interactionViews": 26814,
+                "category": "Skins",
+                "version": "1.10",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61eee45565d17.jpg"
+            }
+        }
     },
     {
         "id": "9",
-        "publishDate": "00-00-00",
-        "targetDemon": "Mother Harlot",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Bowsette and Bowser",
-        "description": "A custom model of Bowsette by huchi001 and Bowser from Super Smash Bros Ultimate.",
-        "thumbnail": "assets/img/09_bowsette-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/354227"
+        "modName": "(Commission) Bowsette and Bowser",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1643528565,
+        "localData": {
+            "id": "9",
+            "modTargetDemon": "Mother Harlot",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "A custom model of Bowsette by huchi001 and Bowser from Super Smash Bros Ultimate.",
+            "thumbnail": "assets/img/09_bowsette-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 354227,
+                "type": "Mod",
+                "addedDate": 1643528565,
+                "modifiedDate": 1643529777,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/354227",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 41,
+                "interactionComments": 15,
+                "interactionFeatured": true,
+                "interactionViews": 24779,
+                "category": "Skins",
+                "version": "1.0",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61f63fee155c3.jpg"
+            }
+        }
     },
     {
         "id": "10",
-        "publishDate": "00-00-00",
-        "targetDemon": "Cu Chulainn",
-        "modSeries": "Commission",
-        "modCommissioner": "HonorableSpartan",
-        "newModel": "Fate's Cu Chulainn",
-        "description": "Cu Chulainn from Fate Arcade!",
-        "thumbnail": "assets/img/10_cufate-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/355539"
+        "modName": "(Commission) CuChulainn - Fate",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1644015540,
+        "localData": {
+            "id": "10",
+            "modTargetDemon": "Cu Chulainn",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "HonorableSpartan",
+            "modDescription": "Cu Chulainn from Fate Arcade!",
+            "thumbnail": "assets/img/10_cufate-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 355539,
+                "type": "Mod",
+                "addedDate": 1644015540,
+                "modifiedDate": 1644015540,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/355539",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 7,
+                "interactionComments": 2,
+                "interactionFeatured": true,
+                "interactionViews": 7374,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "61fdae506b29e.jpg"
+            }
+        }
     },
     {
         "id": "11",
-        "publishDate": "00-00-00",
-        "targetDemon": "Zeus",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Zeus NEMESIS",
-        "description": "A custom female Zeus with mecha parts!",
-        "thumbnail": "assets/img/11_nemesis-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/356586"
+        "modName": "(Commission) Zeus NEMESIS",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1644416170,
+        "localData": {
+            "id": "11",
+            "modTargetDemon": "Zeus",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "A custom female Zeus with mecha parts!",
+            "thumbnail": "assets/img/11_nemesis-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 356586,
+                "type": "Mod",
+                "addedDate": 1644416170,
+                "modifiedDate": 1644416170,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/356586",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 10,
+                "interactionComments": 12,
+                "interactionFeatured": false,
+                "interactionViews": 7922,
+                "category": "Skins",
+                "version": "1.05",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6203cabc04bf2.jpg"
+            }
+        }
     },
     {
         "id": "12",
-        "publishDate": "00-00-00",
-        "targetDemon": "Joka 1st Phase",
-        "modSeries": "Commission",
-        "modCommissioner": "Ashai",
-        "newModel": "Ahri",
-        "description": "Ahri from Wild Rift.",
-        "thumbnail": "assets/img/12_ahri-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/359625"
+        "modName": "Ahri - Joka 1st phase (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1645499897,
+        "localData": {
+            "id": "12",
+            "modTargetDemon": "Joka 1st Phase",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Ashai",
+            "modDescription": "Ahri from Wild Rift.",
+            "thumbnail": "assets/img/12_ahri-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 359625,
+                "type": "Mod",
+                "addedDate": 1645499897,
+                "modifiedDate": 1645650609,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/359625",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 17,
+                "interactionComments": 5,
+                "interactionFeatured": false,
+                "interactionViews": 9877,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6214544976961.jpg"
+            }
+        }
     },
     {
         "id": "13",
-        "publishDate": "00-00-00",
-        "targetDemon": "Artemis",
-        "modSeries": "Newborn",
-        "modCommissioner": "",
-        "newModel": "True Newborn Mod",
-        "description": "Artemis born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
-        "thumbnail": "assets/img/13_artemis-newb-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/362023",
-            "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-artemis.html"
+        "modName": "Artemis - True Nude Mod",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1646405924,
+        "localData": {
+            "id": "13",
+            "modTargetDemon": "Artemis",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "modDescription": "Artemis born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/13_artemis-newb-1.jpg",
+            "mirrors": {
+                "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-artemis.html"
+            },
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 362023,
+                "type": "Mod",
+                "addedDate": 1646405924,
+                "modifiedDate": 1675791022,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/362023",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 29,
+                "interactionComments": 11,
+                "interactionFeatured": false,
+                "interactionViews": 14971,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "622225bda092c.jpg"
+            }
+        }
     },
     {
         "id": "14",
-        "publishDate": "00-00-00",
-        "targetDemon": "Idun",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Booette",
-        "description": "A custom Booette model from huchi001!",
-        "thumbnail": "assets/img/14_booette-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/366061"
+        "modName": "Booette (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1647931448,
+        "localData": {
+            "id": "14",
+            "modTargetDemon": "Idun",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "A custom Booette model from huchi001!",
+            "thumbnail": "assets/img/14_booette-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 366061,
+                "type": "Mod",
+                "addedDate": 1647931448,
+                "modifiedDate": 1669900957,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/366061",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 23,
+                "interactionComments": 8,
+                "interactionFeatured": true,
+                "interactionViews": 15895,
+                "category": "Skins",
+                "version": "1.2",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "62396942a691a.jpg"
+            }
+        }
     },
     {
         "id": "15",
-        "publishDate": "30-03-22",
-        "targetDemon": "Ishtar",
-        "modSeries": "Commission",
-        "modCommissioner": "HonorableSpartan",
-        "newModel": "Fate's Ishtar",
-        "description": "Ishtar from Fate Arcade!",
-        "thumbnail": "assets/img/15_IshtarFate-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/367883",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
+        "modName": "Ishtar Fate/Grand Order Arcade - (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1648648409,
+        "localData": {
+            "id": "15",
+            "modTargetDemon": "Ishtar",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "HonorableSpartan",
+            "modDescription": "Ishtar from Fate Arcade!",
+            "thumbnail": "assets/img/15_IshtarFate-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 367883,
+                "type": "Mod",
+                "addedDate": 1648648409,
+                "modifiedDate": 1655566688,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/367883",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 12,
+                "interactionComments": 2,
+                "interactionFeatured": false,
+                "interactionViews": 13273,
+                "category": "Skins",
+                "version": "1.10",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "62445f72059fe.jpg"
+            }
+        }
     },
     {
         "id": "16",
-        "publishDate": "05-08-22",
-        "targetDemon": "Atavaka",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "OH's Sun Wukong",
-        "description": "A female Seiten Taisen from a mobile game called Overhit.",
-        "thumbnail": "assets/img/16_SeitenTaisen-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/393984",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun%5B1.06%5D.7z",
-            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun_SwitchOptimized%5B1.06%5D.7z"
+        "modName": "Overhit's Seiten Taisen (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1659660946,
+        "localData": {
+            "id": "16",
+            "modTargetDemon": "Atavaka",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "A female Seiten Taisen from a mobile game called Overhit.",
+            "thumbnail": "assets/img/16_SeitenTaisen-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun%5B1.06%5D.7z",
+                "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun_SwitchOptimized%5B1.06%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 393984,
+                "type": "Mod",
+                "addedDate": 1659660946,
+                "modifiedDate": 1659662722,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/393984",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 10,
+                "interactionComments": null,
+                "interactionFeatured": false,
+                "interactionViews": 4574,
+                "category": "Skins",
+                "version": "1.06",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "62ec68eb67da6.jpg"
+            }
+        }
     },
     {
         "id": "17",
-        "publishDate": "05-08-22",
-        "targetDemon": "Hell Biker",
-        "modSeries": "Commission",
-        "modCommissioner": "HonorableSpartan",
-        "newModel": "Yusei Fudo",
-        "description": "Yusei Fudo from Yu-Gi-Oh in his bike.",
-        "thumbnail": "assets/img/17_YuseiFudo-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/393988",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_HellsAngel_Yusei%5B1.00%5D.7z"
+        "modName": "Yusei Fudo (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1659662414,
+        "localData": {
+            "id": "17",
+            "modTargetDemon": "Hell Biker",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "HonorableSpartan",
+            "modDescription": "Yusei Fudo from Yu-Gi-Oh in his bike.",
+            "thumbnail": "assets/img/17_YuseiFudo-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_HellsAngel_Yusei%5B1.00%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 393988,
+                "type": "Mod",
+                "addedDate": 1659662414,
+                "modifiedDate": 1659662414,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/393988",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 9,
+                "interactionComments": 8,
+                "interactionFeatured": false,
+                "interactionViews": 6130,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "62ec6fd23dec8.jpg"
+            }
+        }
     },
     {
         "id": "18",
-        "publishDate": "17-08-22",
-        "targetDemon": "Amanozaku",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Amanozaku x Nyotengu",
-        "description": "Custom model of Amanozaku cosplaying as Nyotengu.",
-        "thumbnail": "assets/img/18_Amanyozaku-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/396732",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7%5B1.20%5D.7z",
-            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_S%5B1.20%5D.7z",
-            "GitHub - Bigger Version": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_BigGirl_Patch%5B1.05%5D.7z"
+        "modName": "Amanozaku - Nyotengu Cosplay (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1660776145,
+        "localData": {
+            "id": "18",
+            "modTargetDemon": "Amanozaku",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Custom model of Amanozaku cosplaying as Nyotengu.",
+            "thumbnail": "assets/img/18_Amanyozaku-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7%5B1.20%5D.7z",
+                "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_S%5B1.20%5D.7z",
+                "GitHub - Bigger Version": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_BigGirl_Patch%5B1.05%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 396723,
+                "type": "Mod",
+                "addedDate": 1660776145,
+                "modifiedDate": 1660776474,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/396723",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 37,
+                "interactionComments": 20,
+                "interactionFeatured": false,
+                "interactionViews": 24367,
+                "category": "Skins",
+                "version": "1.20",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "62fd6cc031d16.jpg"
+            }
+        }
     },
     {
         "id": "19",
-        "publishDate": "19-09-22",
-        "targetDemon": "Ookuninushi",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Ryo Reiki",
-        "description": "Ryo Reiki from a mobile game called Three Kingdom Blades!",
-        "thumbnail": "assets/img/19_RyoReiki-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/402632",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki%5B1.06%5D.7z",
-            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki_S%5B1.06%5D.7z"
+        "modName": "Ryo Reiki (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1663621149,
+        "localData": {
+            "id": "19",
+            "modTargetDemon": "Ookuninushi",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Ryo Reiki from a mobile game called Three Kingdom Blades!",
+            "thumbnail": "assets/img/19_RyoReiki-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki%5B1.06%5D.7z",
+                "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki_S%5B1.06%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 402632,
+                "type": "Mod",
+                "addedDate": 1663621149,
+                "modifiedDate": 1663631349,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/402632",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 12,
+                "interactionComments": 3,
+                "interactionFeatured": false,
+                "interactionViews": 22914,
+                "category": "Skins",
+                "version": "1.06",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6328d5ac92565.jpg"
+            }
+        }
     },
     {
         "id": "20",
-        "publishDate": "19-09-22",
-        "targetDemon": "Kali",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "SMITE's Kali",
-        "description": "Kali from SMITE!",
-        "thumbnail": "assets/img/20_Kali-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/402644",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali%5B1.00%5D.7z",
-            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali_S%5B1.00%5D.7z"
+        "modName": "Kali from SMITE (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1663625666,
+        "localData": {
+            "id": "20",
+            "modTargetDemon": "Kali",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Kali from SMITE!",
+            "thumbnail": "assets/img/20_Kali-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali%5B1.00%5D.7z",
+                "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali_S%5B1.00%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 402644,
+                "type": "Mod",
+                "addedDate": 1663625666,
+                "modifiedDate": 1663631376,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/402644",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 14,
+                "interactionComments": 3,
+                "interactionFeatured": false,
+                "interactionViews": 4080,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6328e8f550d9b.jpg"
+            }
+        }
     },
     {
         "id": "21",
-        "publishDate": "28-10-22",
-        "targetDemon": "Inanna",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Astarte",
-        "description": "Astarte, a persona from Persona 5!",
-        "thumbnail": "assets/img/21_Astarte-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/408951",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte%5B1.01%5D.7z",
-            "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte_S%5B1.01%5D.7z"
+        "modName": "Astarte as Inanna (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1666918293,
+        "localData": {
+            "id": "21",
+            "modTargetDemon": "Inanna",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Astarte, a persona from Persona 5!",
+            "thumbnail": "assets/img/21_Astarte-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte%5B1.01%5D.7z",
+                "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte_S%5B1.01%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 408951,
+                "type": "Mod",
+                "addedDate": 1666918293,
+                "modifiedDate": 1666918390,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/408951",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 8,
+                "interactionComments": 3,
+                "interactionFeatured": false,
+                "interactionViews": 3010,
+                "category": "Skins",
+                "version": "1.01",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "635b24caa2b69.jpg"
+            }
+        }
     },
     {
         "id": "22",
-        "publishDate": "08-12-22",
-        "targetDemon": "Alice",
-        "modSeries": "Commission",
-        "modCommissioner": "Luste",
-        "newModel": "Lavenza",
-        "description": "Lavenza from Persona 5!",
-        "thumbnail": "assets/img/22_Lavenza-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/415891"
+        "modName": "Lavenza as Alice (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1670513321,
+        "localData": {
+            "id": "22",
+            "modTargetDemon": "Alice",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Luste",
+            "modDescription": "Lavenza from Persona 5!",
+            "thumbnail": "assets/img/22_Lavenza-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 415891,
+                "type": "Mod",
+                "addedDate": 1670513321,
+                "modifiedDate": 1670513321,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/415891",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 14,
+                "interactionComments": 3,
+                "interactionFeatured": false,
+                "interactionViews": 6709,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "639201309eed1.jpg"
+            }
+        }
     },
     {
         "id": "23",
-        "publishDate": "12-12-22",
-        "targetDemon": "Orobas",
-        "modSeries": "Commission",
-        "modCommissioner": "PyroLumi",
-        "newModel": "Dehya",
-        "description": "Dehya from Genshin Impact!",
-        "thumbnail": "assets/img/23_Dehya-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/416473",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Orobas_Dehya%5B1.01%5D.7z"
+        "modName": "Dehya as Orobas (Commission)",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1670818026,
+        "localData": {
+            "id": "23",
+            "modTargetDemon": "Orobas",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "PyroLumi",
+            "modDescription": "Dehya from Genshin Impact!",
+            "thumbnail": "assets/img/23_Dehya-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Orobas_Dehya%5B1.01%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 416473,
+                "type": "Mod",
+                "addedDate": 1670818026,
+                "modifiedDate": 1670818026,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/416473",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 11,
+                "interactionComments": 14,
+                "interactionFeatured": false,
+                "interactionViews": 12594,
+                "category": "Skins",
+                "version": "1.01",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6396a7f1bde61.jpg"
+            }
+        }
     },
     {
         "id": "24",
-        "publishDate": "10-07-23",
-        "targetDemon": "Mithras",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Tate Eboshi",
-        "description": "Tate Eboshi, a female boss from Nioh 2.<br><b>Only proceed if you have the age of an adult in your country.</b>",
-        "thumbnail": "assets/img/24_TateEboshi-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/455289"
+        "modName": "Tate Eboshi from Nioh 2",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1689001625,
+        "localData": {
+            "id": "24",
+            "modTargetDemon": "Mithras",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Tate Eboshi, a female boss from Nioh 2.<br><b>Only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/24_TateEboshi-1.jpg",
+            "mirrors": {},
+            "isSpicy": "true"
         },
-        "isTooSpicy": "true"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 455289,
+                "type": "Mod",
+                "addedDate": 1689001625,
+                "modifiedDate": 1712893814,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/455289",
+                "gameId": 14768,
+                "isSpicy": true,
+                "interactionLikes": 6,
+                "interactionComments": 1,
+                "interactionFeatured": false,
+                "interactionViews": 1751,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "64ac1d65ba5be.jpg"
+            }
+        }
     },
     {
         "id": "25",
-        "publishDate": "10-07-23",
-        "targetDemon": "Idun",
-        "modSeries": "Commission",
-        "modCommissioner": "HonorableSpartan",
-        "newModel": "Fate's Ereshkigal",
-        "description": "Ereshkigal from Fate Arcade!",
-        "thumbnail": "assets/img/25_Ereshikigal-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/455291",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
+        "modName": "Ereshkigal from Fate",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1689002742,
+        "localData": {
+            "id": "25",
+            "modTargetDemon": "Idun",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "HonorableSpartan",
+            "modDescription": "Ereshkigal from Fate Arcade!",
+            "thumbnail": "assets/img/25_Ereshikigal-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 455291,
+                "type": "Mod",
+                "addedDate": 1689002742,
+                "modifiedDate": 1712893513,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/455291",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 10,
+                "interactionComments": 6,
+                "interactionFeatured": false,
+                "interactionViews": 5852,
+                "category": "Skins",
+                "version": "1.11",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "64ac21eecd3a6.jpg"
+            }
+        }
     },
     {
         "id": "26",
-        "publishDate": "12-04-24",
-        "targetDemon": "Hariti",
-        "modSeries": "Commission",
-        "modCommissioner": "Lukedo3001",
-        "newModel": "Hades",
-        "description": "A beautiful female Hades from a mobile game called Overhit.",
-        "thumbnail": "assets/img/26_Hades-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/506744",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Hariti_Hades%5B1.00%5D.7z"
+        "modName": "Hades",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1712883150,
+        "localData": {
+            "id": "26",
+            "modTargetDemon": "Hariti",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "A beautiful female Hades from a mobile game called Overhit.",
+            "thumbnail": "assets/img/26_Hades-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Hariti_Hades%5B1.00%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 506744,
+                "type": "Mod",
+                "addedDate": 1712883150,
+                "modifiedDate": 1712893477,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/506744",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 14,
+                "interactionComments": 10,
+                "interactionFeatured": false,
+                "interactionViews": 5267,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6618855a44893.jpg"
+            }
+        }
     },
     {
         "id": "27",
-        "publishDate": "12-04-24",
-        "targetDemon": "Ose",
-        "modSeries": "Commission",
-        "modCommissioner": "HonorableSpartan",
-        "newModel": "Nameless",
-        "description": "Nameless from Fate Arcade!",
-        "thumbnail": "assets/img/27_Nameless-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/506747",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ose_Nameless%5B1.00%5D.7z"
+        "modName": "Nameless from Fate",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1712884193,
+        "localData": {
+            "id": "27",
+            "modTargetDemon": "Ose",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "HonorableSpartan",
+            "modDescription": "Nameless from Fate Arcade!",
+            "thumbnail": "assets/img/27_Nameless-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ose_Nameless%5B1.00%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 506747,
+                "type": "Mod",
+                "addedDate": 1712884193,
+                "modifiedDate": 1712893428,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/506747",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 6,
+                "interactionComments": 5,
+                "interactionFeatured": false,
+                "interactionViews": 1546,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6618897c108cf.jpg"
+            }
+        }
     },
     {
         "id": "28",
-        "publishDate": "13-05-24",
-        "targetDemon": "Zeus",
-        "modSeries": "Model Mod",
-        "modCommissioner": "",
-        "newModel": "Shiroi Zeus|Kuroi Zeus",
-        "description": "A mod that creates a whole Zeus, either black or white.",
-        "thumbnail": "assets/img/28_SKZeus-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/513372",
-            "GitHub - Shiroi (White)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Shiroi%5B1.00%5D.7z",
-            "GitHub - Kuroi (Black)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Kuroi%5B1.00%5D.7z"
+        "modName": "Shiroi Zeus|Kuroi Zeus",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1715589654,
+        "localData": {
+            "id": "28",
+            "modTargetDemon": "Zeus",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "",
+            "modDescription": "A mod that creates a whole Zeus, either black or white.",
+            "thumbnail": "assets/img/28_SKZeus-1.jpg",
+            "mirrors": {
+                "GitHub - Shiroi (White)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Shiroi%5B1.00%5D.7z",
+                "GitHub - Kuroi (Black)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Kuroi%5B1.00%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 513372,
+                "type": "Mod",
+                "addedDate": 1715589654,
+                "modifiedDate": 1715778208,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/513372",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 12,
+                "interactionComments": 7,
+                "interactionFeatured": false,
+                "interactionViews": 1266,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6641d1738de11.jpg"
+            }
+        }
     },
     {
         "id": "29",
-        "publishDate": "25-05-24",
-        "targetDemon": "Fionn",
-        "modSeries": "Commission",
-        "modCommissioner": "HonorableSpartan",
-        "newModel": "Ike",
-        "description": "Ike now in Da'at as well!",
-        "thumbnail": "assets/img/29_Ike-1.jpg",
-        "mirrors": {
-            "GameBanana": "https://gamebanana.com/mods/515646",
-            "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Fionn_Ike%5B1.00%5D.7z"
+        "modName": "Ike from Fire Emblem",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1716610470,
+        "localData": {
+            "id": "29",
+            "modTargetDemon": "Fionn",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "HonorableSpartan",
+            "modDescription": "Ike now in Da'at as well!",
+            "thumbnail": "assets/img/29_Ike-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Fionn_Ike%5B1.00%5D.7z"
+            },
+            "isSpicy": "false"
         },
-        "isTooSpicy": "false"
+        "modSiteData": {
+            "GameBanana": {
+                "id": 515646,
+                "type": "Mod",
+                "addedDate": 1716610470,
+                "modifiedDate": 1716610470,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/515646",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 9,
+                "interactionComments": 2,
+                "interactionFeatured": false,
+                "interactionViews": 1667,
+                "category": "Skins",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "665163df39215.jpg"
+            }
+        }
+    },
+    {
+        "id": "30",
+        "modName": "Makoto from Persona 5",
+        "game": "Shin Megami Tensei V",
+        "publishDate": 1717073018,
+        "localData": {
+            "id": "30",
+            "modTargetDemon": "Hell Biker",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Makoto from Persona 5 as Queen!",
+            "thumbnail": "assets/img/30_Queen-1.jpg",
+            "mirrors": {
+                "GitHub": "https://github.com/mugenrei/mods/raw/main/SMTV/com_mugenrei_HellsAngel_Queen%5B1.15%5D.7z",
+                "GitHub - S": "https://github.com/mugenrei/mods/raw/main/SMTV/com_mugenrei_HellsAngel_Queen_S%5B1.15%5D.7z"
+            },
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 516897,
+                "type": "Mod",
+                "addedDate": 1717073018,
+                "modifiedDate": 1717073076,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/516897",
+                "gameId": 14768,
+                "isSpicy": false,
+                "interactionLikes": 11,
+                "interactionComments": 2,
+                "interactionFeatured": false,
+                "interactionViews": 3511,
+                "category": "Skins",
+                "version": "1.15",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "665873845793d.jpg"
+            }
+        }
+    },
+    {
+        "id": "31",
+        "modName": "Mermaid Newborn Mod",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1718376013,
+        "localData": {
+            "id": "31",
+            "modTargetDemon": "Mermaid",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "modDescription": "Mermaid born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/31_Mermaid-newb-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 520542,
+                "type": "Mod",
+                "addedDate": 1718376013,
+                "modifiedDate": 1718618199,
+                "updatedDate": 1718618327,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/520542",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 132,
+                "interactionComments": 102,
+                "interactionFeatured": true,
+                "interactionViews": 17748,
+                "category": "Models",
+                "version": "2.20",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "666c53aeb248a.jpg"
+            }
+        }
+    },
+    {
+        "id": "32",
+        "modName": "Female Byleth (Beresu) as Hero",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1718381486,
+        "localData": {
+            "id": "32",
+            "modTargetDemon": "Hero Nahobino",
+            "modSeries": "Model Replacement",
+            "modCommissioner": "Kouryu",
+            "modDescription": "Female byleth, or as pronounced in Japanese for the female, Beresu, from Fire Emblem Three Houses now as the protagonist in SMT5V!",
+            "thumbnail": "assets/img/32_Beresu-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 520563,
+                "type": "Mod",
+                "addedDate": 1718381486,
+                "modifiedDate": 1719843263,
+                "updatedDate": 1718967914,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/520563",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 20,
+                "interactionComments": 16,
+                "interactionFeatured": true,
+                "interactionViews": 7051,
+                "category": "Models",
+                "version": "2.05",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "666c6a4fece1e.jpg"
+            }
+        }
+    },
+    {
+        "id": "33",
+        "modName": "WIP -FREE- Camera - No more fadings",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1718535487,
+        "localData": {
+            "id": "33",
+            "modTargetDemon": "Freecam",
+            "modSeries": "Technical",
+            "modCommissioner": "",
+            "modDescription": "Unlocks the garden's free camera to stop fading the demons!",
+            "thumbnail": "assets/img/33_FreecamMod-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 521914,
+                "type": "Mod",
+                "addedDate": 1718535487,
+                "modifiedDate": 1718581972,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/521914",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 89,
+                "interactionComments": 45,
+                "interactionFeatured": true,
+                "interactionViews": 19572,
+                "category": "Other/Misc",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "666ec4c4d0d6a.jpg"
+            }
+        }
+    },
+    {
+        "id": "34",
+        "modName": "Naahmah Unveiled Mod",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1718791220,
+        "localData": {
+            "id": "34",
+            "modTargetDemon": "Naamah",
+            "modSeries": "Unveiled",
+            "modCommissioner": "",
+            "modDescription": "Swapped out her metal pasties for a more natural look. Just a simple tweak to let her shine a bit more without the extra metal.",
+            "thumbnail": "assets/img/34_Naamah-unv-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 522563,
+                "type": "Mod",
+                "addedDate": 1718791220,
+                "modifiedDate": 1718887034,
+                "updatedDate": 1718887137,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/522563",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 118,
+                "interactionComments": 27,
+                "interactionFeatured": true,
+                "interactionViews": 12151,
+                "category": "Models",
+                "version": "1.01",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6672abd815757.jpg"
+            }
+        }
+    },
+    {
+        "id": "35",
+        "modName": "Shiroi Zeus|Kuroi Zeus",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1719012675,
+        "localData": {
+            "id": "35",
+            "modTargetDemon": "Zeus",
+            "modSeries": "Model Replacement (Port)",
+            "modCommissioner": "",
+            "modDescription": "Shiroi Zeus or Kuroi Zeus.",
+            "thumbnail": "assets/img/35_SKZeus-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 523082,
+                "type": "Mod",
+                "addedDate": 1719012675,
+                "modifiedDate": 1719012675,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/523082",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 24,
+                "interactionComments": 17,
+                "interactionFeatured": false,
+                "interactionViews": 3395,
+                "category": "Models",
+                "version": "2.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "66760c5f147b0.jpg"
+            }
+        }
+    },
+    {
+        "id": "36",
+        "modName": "Artemis Newborn Mod",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1719285133,
+        "localData": {
+            "id": "36",
+            "modTargetDemon": "Artemis",
+            "modSeries": "Newborn",
+            "modCommissioner": "",
+            "modDescription": "Artemis born again in a custom body and a custom texture.<br><b>This is part of the Newborn series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/36_Artemis-newb-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 523792,
+                "type": "Mod",
+                "addedDate": 1719285133,
+                "modifiedDate": 1719403500,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/523792",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 44,
+                "interactionComments": 18,
+                "interactionFeatured": true,
+                "interactionViews": 7196,
+                "category": "Models",
+                "version": "2.01",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "667a25af0690a.jpg"
+            }
+        }
+    },
+    {
+        "id": "37",
+        "modName": "Artemis Unveiled + ReClothed",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1719291197,
+        "localData": {
+            "id": "37",
+            "modTargetDemon": "Artemis",
+            "modSeries": "Unveiled and ReClothed",
+            "modCommissioner": "",
+            "modDescription": "Artemis Unveiled and ReClothed.<br><b>This is part of the Unveiled + ReClothed series, only proceed if you have the age of an adult in your country.</b>",
+            "thumbnail": "assets/img/37_Artemis-unvrec-1.jpg",
+            "mirrors": {},
+            "isSpicy": "false"
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 523806,
+                "type": "Mod",
+                "addedDate": 1719291197,
+                "modifiedDate": 1719291197,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/523806",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 44,
+                "interactionComments": 18,
+                "interactionFeatured": true,
+                "interactionViews": 6255,
+                "category": "Models",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "667a4b9783562.jpg"
+            }
+        }
+    },
+    {
+        "id": "38",
+        "modName": "Cleopatra Newborn + Unveiled Mod",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1719595420,
+        "localData": {
+            "id": 38,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 524459,
+                "type": "Mod",
+                "addedDate": 1719595420,
+                "modifiedDate": 1720391097,
+                "updatedDate": 1720391204,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/524459",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 113,
+                "interactionComments": 48,
+                "interactionFeatured": true,
+                "interactionViews": 12016,
+                "category": "Models",
+                "version": "1.00+",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "667eef5d713db.jpg"
+            }
+        }
+    },
+    {
+        "id": "39",
+        "modName": "Idun Unveiled + ReClothed",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1720484684,
+        "localData": {
+            "id": 39,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 526732,
+                "type": "Mod",
+                "addedDate": 1720484684,
+                "modifiedDate": 1720489650,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/526732",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 44,
+                "interactionComments": 16,
+                "interactionFeatured": false,
+                "interactionViews": 4422,
+                "category": "Models",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "668c8c6ec74dc.jpg"
+            }
+        }
+    },
+    {
+        "id": "40",
+        "modName": "Idun Newborn Mod",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1720489466,
+        "localData": {
+            "id": 40,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 526746,
+                "type": "Mod",
+                "addedDate": 1720489466,
+                "modifiedDate": 1720489466,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/526746",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 63,
+                "interactionComments": 18,
+                "interactionFeatured": false,
+                "interactionViews": 5281,
+                "category": "Models",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "668c937110fc2.jpg"
+            }
+        }
+    },
+    {
+        "id": "41",
+        "modName": "Sakuya Izayoi",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1720660763,
+        "localData": {
+            "id": 41,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 527164,
+                "type": "Mod",
+                "addedDate": 1720660763,
+                "modifiedDate": 1720660763,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/527164",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 31,
+                "interactionComments": 10,
+                "interactionFeatured": true,
+                "interactionViews": 4838,
+                "category": "Models",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "668f316c0a580.jpg"
+            }
+        }
+    },
+    {
+        "id": "42",
+        "modName": "Amatsukami Nahobino",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1720841106,
+        "localData": {
+            "id": 42,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 527636,
+                "type": "Mod",
+                "addedDate": 1720841106,
+                "modifiedDate": 1720841106,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/527636",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 15,
+                "interactionComments": 11,
+                "interactionFeatured": true,
+                "interactionViews": 3061,
+                "category": "Models",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6691f3483e2b7.jpg"
+            }
+        }
+    },
+    {
+        "id": "43",
+        "modName": "Agrat Newborn",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1721153987,
+        "localData": {
+            "id": 43,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 528453,
+                "type": "Mod",
+                "addedDate": 1721153987,
+                "modifiedDate": 1721233809,
+                "updatedDate": 1721233869,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/528453",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 52,
+                "interactionComments": 40,
+                "interactionFeatured": false,
+                "interactionViews": 4408,
+                "category": "Models",
+                "version": "1.11",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "6696b8e336558.jpg"
+            }
+        }
+    },
+    {
+        "id": "44",
+        "modName": "Joka 1st Form (Nuwa) Newborn",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1721239361,
+        "localData": {
+            "id": 44,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 528683,
+                "type": "Mod",
+                "addedDate": 1721239361,
+                "modifiedDate": 1721290781,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/528683",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 41,
+                "interactionComments": 15,
+                "interactionFeatured": false,
+                "interactionViews": 3434,
+                "category": "Models",
+                "version": "2.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "66980781c21e6.jpg"
+            }
+        }
+    },
+    {
+        "id": "45",
+        "modName": "Konohana Sakuya Newborn Mod",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1721585295,
+        "localData": {
+            "id": 45,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 529640,
+                "type": "Mod",
+                "addedDate": 1721585295,
+                "modifiedDate": 1721684306,
+                "updatedDate": 1721684386,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/529640",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 44,
+                "interactionComments": 24,
+                "interactionFeatured": false,
+                "interactionViews": 3200,
+                "category": "Models",
+                "version": "1.10",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "669d4c7d30ffd.jpg"
+            }
+        }
+    },
+    {
+        "id": "46",
+        "modName": "Medusa from Fate Grand Order",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1721598699,
+        "localData": {
+            "id": 46,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 529694,
+                "type": "Mod",
+                "addedDate": 1721598699,
+                "modifiedDate": 1721598699,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/529694",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 26,
+                "interactionComments": 17,
+                "interactionFeatured": true,
+                "interactionViews": 2969,
+                "category": "Models",
+                "version": "2.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "669d8214e619f.jpg"
+            }
+        }
+    },
+    {
+        "id": "47",
+        "modName": "Frolic Unveiled",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1721788682,
+        "localData": {
+            "id": 47,
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 530182,
+                "type": "Mod",
+                "addedDate": 1721788682,
+                "modifiedDate": 1721788682,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/530182",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 52,
+                "interactionComments": 21,
+                "interactionFeatured": true,
+                "interactionViews": 3725,
+                "category": "Skills",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "66a067532b506.jpg"
+            }
+        }
     }
 ]

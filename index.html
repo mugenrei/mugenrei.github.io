@@ -46,9 +46,9 @@
             <h4 class="text-white">About</h4>
             <p class="text-muted">
               Sometimes admins don't want some mods on their websites because it either hurts
-              ad revenue or their subjective views on the world, this usually applies for mods
-              that are too too Spicy, too kawaii (with cutey girls) or both, that's when you
-              have to split where your mods will be hosted. I plan to do all types of mods,
+              ad revenue, subjective views on the world or the site's bubble, this usually applies for mods
+              that are too too Spicy, too cute, too funny or all the alternatives. Since i don't
+              want to battle with mod site owners i might just split the sites. I plan to do all types of mods,
               that's why I've made this "hub".
             </p>
           </div>
@@ -131,12 +131,14 @@
             function createCard(modData) {
               const card = document.createElement('div');
               card.classList.add('col-md-6', 'col-lg-4', 'mb-3');
-              const isTooSpicy = modData.modSiteData.GameBanana.isSpicy ? ' tooSpicy' : '';
+              const isTooSpicy = modData.modSiteData?.GameBanana?.isSpicy 
+                                  ? ' tooSpicy' 
+                                  : (modData.localData?.isSpicy ? ' tooSpicy' : '');
 
               // Determine the thumbnail URL
               // const thumbnail = modData.localData.thumbnail || `${modData.modSiteData.GameBanana.thumbnailBaseUrl}${modData.modSiteData.GameBanana.thumbnailFilename}`;
               const description = `${modData.localData.modDescription ? modData.localData.modDescription :` 　`}`
-              const thumbnail = `${modData.localData.thumbnail ? modData.localData.thumbnail :`${modData.modSiteData.GameBanana.thumbnailBaseUrl}/${modData.modSiteData.GameBanana.thumbnailFilename}`}`
+              const thumbnail = `${modData.localData.thumbnail ? modData.localData.thumbnail :`${modData.modSiteData?.GameBanana?.thumbnailBaseUrl}/${modData.modSiteData?.GameBanana?.thumbnailFilename}`}`
               card.innerHTML = `
                 <div class="card${isTooSpicy}">
                   <img src="${thumbnail}" class="card-img-top${isTooSpicy}" alt="Thumbnail">
@@ -144,7 +146,7 @@
                     <h5 class="card-title">${modData.modName}<br>${modData.game}</h5>
                     ${modData.localData.modSeries ? `<p class="card-text">${modData.localData.modSeries}</p>` : `<p class="card-text">　</p>`}
                     ${modData.localData.modCommissioner ? `<p class="card-text">Sincere thanks to ${modData.localData.modCommissioner}</p>` : `<p class="card-text">　</p>`}
-                    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modModal" data-title="${modData.modName} - ${modData.game}" data-description="${description}" data-local-mirrors='${JSON.stringify(modData.localData.mirrors)}' data-gb-mirror='${modData.modSiteData.GameBanana.itemUrl}'>Details</button>
+                    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modModal" data-title="${modData.modName} - ${modData.game}" data-description="${description}" data-local-mirrors='${JSON.stringify(modData.localData.mirrors)}' data-gb-mirror='${modData.modSiteData?.GameBanana.itemUrl}'>Details</button>
                   </div>
                 </div>
               `;

@@ -1,224 +1,65 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="">
-  <meta name="author" content="mugenrei">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>mugenrei</title>
-  <link rel="canonical" href="https://getbootstrap.com/docs/5.1/examples/album/">
-  <script src="./assets/dist/js/jquery-3.3.1.min.js"></script>
-  <!-- Bootstrap core CSS -->
-  <link href="./assets/dist/css/bootstrap.min.css" rel="stylesheet">
-  <style>
-    .card {
-      display: flex;
-      flex-direction: column;
-      height: 100%;
-    }
-
-    .card-body {
-      flex-grow: 1;
-      display: flex;
-      flex-direction: column;
-    }
-
-    .card-img-top {
-      width: 100%;
-      height: auto;
-      object-fit: cover;
-      transition: filter 0.3s ease-in-out;
-    }
-
-    li {
-      list-style-type: none;
-    }
-  </style>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/png" href="./assets/img/favicon-heheh.ico">
 </head>
 
 <body>
-  <header>
-    <div class="collapse bg-dark" id="navbarHeader">
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-8 col-md-7 py-4">
-            <h4 class="text-white">About</h4>
-            <p class="text-muted">
-              Sometimes admins don't want some mods on their websites because it either hurts
-              ad revenue, subjective views on the world or the site's bubble, this usually applies for mods
-              that are too too Spicy, too cute, too funny or all the alternatives. Since i don't
-              want to battle with mod site owners i might just split the sites. I plan to do all types of mods,
-              that's why I've made this "hub".
-            </p>
-          </div>
-          <div class="col-sm-4 offset-md-1 py-4">
-            <h4 class="text-white">Pages</h4>
-            <ul class="list-unstyled">
-              <li><a href="https://ko-fi.com/mugenrei" class="text-white">Ko-fi</a></li>
-              <li><a href="https://twitter.com/mugenreii" class="text-white">Twitter</a></li>
-              <li><a href="https://gamebanana.com/members/2054898" class="text-white">Gamebanana</a></li>
-              <li><a href="https://next.nexusmods.com/profile/mugenreisan" class="text-white">NexusMods</a></li>
-            </ul>
-          </div>
+
+  <!-- Title Bar -->
+  <div class="title-bar">
+    <h1>mugenrei</h1>
+  </div>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <ul>
+      <li><a href="#" id="navHome" onclick="showContent('home')">Home</a></li>
+      <li class="dropdown">
+        <a href="#" class="dropbtn">Mods</a>
+        <div class="dropdown-content">
+          <a href="#" id="navAll">ALL</a>
+          <a href="#" id="navSMTV">SMTV</a>
+          <a href="#" id="navSMTVV">SMT5V</a>
         </div>
-      </div>
-    </div>
-    <div class="navbar navbar-dark bg-dark shadow-sm">
-      <div class="container">
-        <a href="#" class="navbar-brand d-flex align-items-center">
-          <strong>mugenrei</strong>
-        </a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader"
-          aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-      </div>
-    </div>
-  </header>
-  <main>
-    <section class="py-5 text-center container">
-      <div class="row py-lg-5">
-        <div class="col-lg-6 col-md-8 mx-auto">
-          <h1 class="fw-light">Gallery</h1>
-          <p class="lead text-muted">
-            Here you can find a unified list for any mod I did and decided to list here
-            alongside other mods websites, maybe not the most updated, so here are the lists
-            on mod pages where I have an account:
-          </p>
-          <div id="accountList" class="">
-          </div>
-          <p class="lead text-muted">
-            To commission a mod or send me some coffee!
-          </p>
-          <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script>
-          <script type='text/javascript'>kofiwidget2.init('Ko-fi', '#29abe0', 'K3K07OGNB'); kofiwidget2.draw();</script>
-        </div>
-      </div>
-    </section>
-    <div class="album py-5 bg-light">
-      <div class="container">
-        <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3 modHub" id="modData">
-          <!-- Place this code within the HTML where you need to display the accounts and mods -->
-          <script>
-            const accountData = [
-              { icon: 'https://images.gamebanana.com/static/img/favicon/favicon.ico', name: 'GameBanana', url: 'https://gamebanana.com/members/submissions/mods/2054898?' },
-              { icon: 'https://images.nexusmods.com/favicons/ReskinOrange/mstile-144x144.png', name: 'NexusMods', url: 'https://next.nexusmods.com/profile/mugenreisan/mods' }
-            ];
+      </li>
+      <li><a href="https://github.com/mugenrei/mugenrei.github.io/wiki" id="navWiki" target="_blank">Guides</a></li>
+      <li><a href="#" id="navAbout" onclick="showContent('about')">About</a></li>
+      <li><a href="#" id="navContact" onclick="showContent('contact')">Contact</a></li>
+    </ul>
+  </nav>
 
-            function createAccountItem(account) {
-              const li = document.createElement('li');
-              li.classList.add('mb-2');
-
-              li.innerHTML = `
-                <img src="${account.icon}" alt="${account.name}" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 4px;">
-                <a href="${account.url}" target="_blank">${account.name}</a>
-              `;
-
-              return li;
-            }
-
-            function renderAccounts(data) {
-              const accountList = document.getElementById('accountList');
-              data.forEach(account => {
-                const accountItem = createAccountItem(account);
-                accountList.appendChild(accountItem);
-              });
-            }
-
-            renderAccounts(accountData);
-
-            function createCard(modData) {
-              const card = document.createElement('div');
-              card.classList.add('col-md-6', 'col-lg-4', 'mb-3');
-              const isTooSpicy = modData.modSiteData?.GameBanana?.isSpicy 
-                                  ? ' tooSpicy' 
-                                  : (modData.localData?.isSpicy ? ' tooSpicy' : '');
-
-              // Determine the thumbnail URL
-              // const thumbnail = modData.localData.thumbnail || `${modData.modSiteData.GameBanana.thumbnailBaseUrl}${modData.modSiteData.GameBanana.thumbnailFilename}`;
-              const description = `${modData.localData.modDescription ? modData.localData.modDescription :` 　`}`
-              const thumbnail = `${modData.localData.thumbnail ? modData.localData.thumbnail :`${modData.modSiteData?.GameBanana?.thumbnailBaseUrl}/${modData.modSiteData?.GameBanana?.thumbnailFilename}`}`
-              card.innerHTML = `
-                <div class="card${isTooSpicy}">
-                  <img src="${thumbnail}" class="card-img-top${isTooSpicy}" alt="Thumbnail">
-                  <div class="card-body">
-                    <h5 class="card-title">${modData.modName}<br>${modData.game}</h5>
-                    ${modData.localData.modSeries ? `<p class="card-text">${modData.localData.modSeries}</p>` : `<p class="card-text">　</p>`}
-                    ${modData.localData.modCommissioner ? `<p class="card-text">Sincere thanks to ${modData.localData.modCommissioner}</p>` : `<p class="card-text">　</p>`}
-                    <button class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#modModal" data-title="${modData.modName} - ${modData.game}" data-description="${description}" data-local-mirrors='${JSON.stringify(modData.localData.mirrors)}' data-gb-mirror='${modData.modSiteData?.GameBanana.itemUrl}'>Details</button>
-                  </div>
-                </div>
-              `;
-
-              return card;
-            }
-
-            function renderCards(data) {
-              const modHub = document.querySelector('.modHub');
-              data.reverse().forEach(mod => {
-                const card = createCard(mod);
-                modHub.appendChild(card);
-              });
-            }
-
-            document.addEventListener('DOMContentLoaded', () => {
-              const modModal = document.getElementById('modModal');
-              modModal.addEventListener('show.bs.modal', (event) => {
-                const button = event.relatedTarget;
-                const title = button.getAttribute('data-title');
-                const description = button.getAttribute('data-description');
-                const localMirrors = JSON.parse(button.getAttribute('data-local-mirrors'));
-                const gbMirror = button.getAttribute('data-gb-mirror');
-
-                const modalTitle = modModal.querySelector('.modal-title');
-                const modalBody = modModal.querySelector('.modal-body');
-                
-                modalTitle.textContent = title;
-                modalBody.innerHTML = `
-                  <p>${description}</p>
-                  <a href="${gbMirror}" target="_blank" class="btn btn-primary">GameBanana</a>
-                  ${Object.keys(localMirrors).map(key => `<a href="${localMirrors[key]}" target="_blank" class="btn btn-primary">${key}</a>`).join(' ')}
-                `;
-              });
-            });
-            fetch('./assets/mods.json?nocache=' + Date.now())
-              .then(response => response.json())
-              .then(jsonData => {
-                renderCards(jsonData);
-              })
-              .catch(error => console.error('Error loading JSON:', error));
-          </script>
-
-
-        </div>
-      </div>
+  <!-- Main and Secondary Content Container -->
+  <div class="content-wrapper">
+    <!-- Main Content -->
+    <div class="main-content" id="mainContent">
+      <p>Welcome to the mods catalog. Select a section from the menu above.</p>
     </div>
 
-    <!-- Modal -->
-    <div class="modal fade" id="modModal" tabindex="-1" aria-labelledby="modModalLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-          <div class="modal-header">
-            <h5 class="modal-title" id="modModalLabel">Modal title</h5>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          </div>
-          <div class="modal-body">
-            <!-- Content will be dynamically inserted here -->
-          </div>
-        </div>
+    <!-- Secondary Content -->
+    <div class="secondary-content" id="secondaryContent">
+      <div class="settings-region">
+        <!-- Placeholder for settings -->
+        <p>Settings will go here.</p>
+      </div>
+      <div class="description-region" id="descriptionRegion">
+        <p>Hover over a mod to see details here.</p>
       </div>
     </div>
-  </main>
-  <footer class="text-muted py-5">
-    <div class="container">
-      <p class="float-end mb-1">
-        <a href="#">Back to top</a>
-      </p>
-      <p class="mb-1">Page by mugenrei, made using Bootstrap.</p>
-    </div>
+  </div>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <p>&copy; 2024 mugenrei.</p>
   </footer>
-  <script src="./assets/dist/js/bootstrap.bundle.min.js"></script>
+
+  <script src="scripts.js"></script>
 </body>
 
 </html>

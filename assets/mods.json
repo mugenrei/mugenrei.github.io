@@ -2547,7 +2547,7 @@
             "modDescription": "",
             "modCommissioner": "",
             "thumbnail": "",
-            "mirrors": {},
+            "mirrors": {"GitHub": "https://github.com/mugenrei/mods/blob/main/Metaphor/Hulkenberg's_Makeshift_Ass_Textures1.0.0.7z"},
             "isSpicy": false
         },
         "modSiteData": {
@@ -2562,7 +2562,7 @@
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/550808",
                 "gameId": 21201,
-                "isSpicy": true,
+                "isSpicy": false,
                 "interactionLikes": 1,
                 "interactionComments": 4,
                 "interactionFeatured": false,

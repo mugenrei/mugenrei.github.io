@@ -14,7 +14,7 @@
             "mirrors": {
                 "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-cleopatra.html"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -29,10 +29,10 @@
                 "itemUrl": "https://gamebanana.com/mods/346576",
                 "gameId": 14768,
                 "isSpicy": true,
-                "interactionLikes": 41,
+                "interactionLikes": 42,
                 "interactionComments": 17,
                 "interactionFeatured": false,
-                "interactionViews": 25193,
+                "interactionViews": 25508,
                 "category": "Skins",
                 "version": "1.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -55,7 +55,7 @@
             "mirrors": {
                 "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-ishtar.html"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -73,7 +73,7 @@
                 "interactionLikes": 40,
                 "interactionComments": 11,
                 "interactionFeatured": false,
-                "interactionViews": 17678,
+                "interactionViews": 17853,
                 "category": "Skins",
                 "version": "1.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -96,7 +96,7 @@
             "mirrors": {
                 "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-first-phase.html"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -111,10 +111,10 @@
                 "itemUrl": "https://gamebanana.com/mods/349175",
                 "gameId": 14768,
                 "isSpicy": true,
-                "interactionLikes": 41,
+                "interactionLikes": 42,
                 "interactionComments": 8,
                 "interactionFeatured": false,
-                "interactionViews": 20880,
+                "interactionViews": 21085,
                 "category": "Skins",
                 "version": "1.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -137,7 +137,7 @@
             "mirrors": {
                 "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-joka-nuwa-second-phase.html"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -152,10 +152,10 @@
                 "itemUrl": "https://gamebanana.com/mods/349945",
                 "gameId": 14768,
                 "isSpicy": true,
-                "interactionLikes": 37,
+                "interactionLikes": 38,
                 "interactionComments": 10,
                 "interactionFeatured": false,
-                "interactionViews": 15671,
+                "interactionViews": 15887,
                 "category": "Skins",
                 "version": "1.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -176,7 +176,7 @@
             "modDescription": "Juri Han in her mecha costume!",
             "thumbnail": "assets/img/05_juri-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -194,7 +194,7 @@
                 "interactionLikes": 16,
                 "interactionComments": 5,
                 "interactionFeatured": true,
-                "interactionViews": 11035,
+                "interactionViews": 11181,
                 "category": "Skins",
                 "version": "1.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -218,7 +218,7 @@
                 "GitHub - Part 1": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.001",
                 "GitHub - Part 2": "https://github.com/mugenrei/mods/blob/main/SMTV/mugenrei_Joka_Newcloth_01_NoSleeves.7z.002"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -236,7 +236,7 @@
                 "interactionLikes": 22,
                 "interactionComments": 9,
                 "interactionFeatured": true,
-                "interactionViews": 10272,
+                "interactionViews": 10407,
                 "category": "Skins",
                 "version": "1.03",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -259,7 +259,7 @@
             "mirrors": {
                 "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-succubus.html"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -274,10 +274,10 @@
                 "itemUrl": "https://gamebanana.com/mods/351930",
                 "gameId": 14768,
                 "isSpicy": true,
-                "interactionLikes": 44,
+                "interactionLikes": 45,
                 "interactionComments": 13,
                 "interactionFeatured": false,
-                "interactionViews": 17518,
+                "interactionViews": 17842,
                 "category": "Skins",
                 "version": "1.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -300,7 +300,7 @@
             "mirrors": {
                 "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-mermaid.html"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -315,10 +315,10 @@
                 "itemUrl": "https://gamebanana.com/mods/352748",
                 "gameId": 14768,
                 "isSpicy": true,
-                "interactionLikes": 49,
+                "interactionLikes": 50,
                 "interactionComments": 26,
                 "interactionFeatured": false,
-                "interactionViews": 27781,
+                "interactionViews": 28160,
                 "category": "Skins",
                 "version": "1.10",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -339,7 +339,7 @@
             "modDescription": "A custom model of Bowsette by huchi001 and Bowser from Super Smash Bros Ultimate.",
             "thumbnail": "assets/img/09_bowsette-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -357,7 +357,7 @@
                 "interactionLikes": 41,
                 "interactionComments": 17,
                 "interactionFeatured": true,
-                "interactionViews": 25401,
+                "interactionViews": 25853,
                 "category": "Skins",
                 "version": "1.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -378,7 +378,7 @@
             "modDescription": "Cu Chulainn from Fate Arcade!",
             "thumbnail": "assets/img/10_cufate-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -396,7 +396,7 @@
                 "interactionLikes": 7,
                 "interactionComments": 2,
                 "interactionFeatured": true,
-                "interactionViews": 7530,
+                "interactionViews": 7582,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -417,7 +417,7 @@
             "modDescription": "A custom female Zeus with mecha parts!",
             "thumbnail": "assets/img/11_nemesis-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -435,7 +435,7 @@
                 "interactionLikes": 11,
                 "interactionComments": 12,
                 "interactionFeatured": false,
-                "interactionViews": 8238,
+                "interactionViews": 8291,
                 "category": "Skins",
                 "version": "1.05",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -456,7 +456,7 @@
             "modDescription": "Ahri from Wild Rift.",
             "thumbnail": "assets/img/12_ahri-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -474,7 +474,7 @@
                 "interactionLikes": 17,
                 "interactionComments": 5,
                 "interactionFeatured": false,
-                "interactionViews": 10102,
+                "interactionViews": 10183,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -497,7 +497,7 @@
             "mirrors": {
                 "Newborn Catalogue": "https://mugenreii.blogspot.com/2024/05/newborn-mod-artemis.html"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -512,10 +512,10 @@
                 "itemUrl": "https://gamebanana.com/mods/362023",
                 "gameId": 14768,
                 "isSpicy": true,
-                "interactionLikes": 31,
+                "interactionLikes": 32,
                 "interactionComments": 11,
                 "interactionFeatured": false,
-                "interactionViews": 15583,
+                "interactionViews": 15772,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -536,7 +536,7 @@
             "modDescription": "A custom Booette model from huchi001!",
             "thumbnail": "assets/img/14_booette-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -554,7 +554,7 @@
                 "interactionLikes": 24,
                 "interactionComments": 8,
                 "interactionFeatured": true,
-                "interactionViews": 16340,
+                "interactionViews": 16488,
                 "category": "Skins",
                 "version": "1.2",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -577,7 +577,7 @@
             "mirrors": {
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -595,7 +595,7 @@
                 "interactionLikes": 14,
                 "interactionComments": 2,
                 "interactionFeatured": false,
-                "interactionViews": 13930,
+                "interactionViews": 14155,
                 "category": "Skins",
                 "version": "1.10",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -619,7 +619,7 @@
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun%5B1.06%5D.7z",
                 "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Atavaka_Sun_SwitchOptimized%5B1.06%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -637,7 +637,7 @@
                 "interactionLikes": 10,
                 "interactionComments": null,
                 "interactionFeatured": false,
-                "interactionViews": 4870,
+                "interactionViews": 4982,
                 "category": "Skins",
                 "version": "1.06",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -660,7 +660,7 @@
             "mirrors": {
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_HellsAngel_Yusei%5B1.00%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -678,7 +678,7 @@
                 "interactionLikes": 9,
                 "interactionComments": 8,
                 "interactionFeatured": false,
-                "interactionViews": 6531,
+                "interactionViews": 6613,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -703,7 +703,7 @@
                 "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_S%5B1.20%5D.7z",
                 "GitHub - Bigger Version": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Amanozaku_NyoC7_BigGirl_Patch%5B1.05%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -721,7 +721,7 @@
                 "interactionLikes": 38,
                 "interactionComments": 20,
                 "interactionFeatured": false,
-                "interactionViews": 26091,
+                "interactionViews": 26558,
                 "category": "Skins",
                 "version": "1.20",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -745,7 +745,7 @@
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki%5B1.06%5D.7z",
                 "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ookuninushi_RyoReiki_S%5B1.06%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -763,7 +763,7 @@
                 "interactionLikes": 12,
                 "interactionComments": 5,
                 "interactionFeatured": false,
-                "interactionViews": 23696,
+                "interactionViews": 24035,
                 "category": "Skins",
                 "version": "1.06",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -787,7 +787,7 @@
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali%5B1.00%5D.7z",
                 "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_kali_SMKali_S%5B1.00%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -805,7 +805,7 @@
                 "interactionLikes": 14,
                 "interactionComments": 5,
                 "interactionFeatured": false,
-                "interactionViews": 4502,
+                "interactionViews": 4652,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -829,7 +829,7 @@
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte%5B1.01%5D.7z",
                 "GitHub - S": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_inanna_Astarte_S%5B1.01%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -847,7 +847,7 @@
                 "interactionLikes": 8,
                 "interactionComments": 3,
                 "interactionFeatured": false,
-                "interactionViews": 3152,
+                "interactionViews": 3250,
                 "category": "Skins",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -868,7 +868,7 @@
             "modDescription": "Lavenza from Persona 5!",
             "thumbnail": "assets/img/22_Lavenza-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -886,7 +886,7 @@
                 "interactionLikes": 15,
                 "interactionComments": 3,
                 "interactionFeatured": false,
-                "interactionViews": 7339,
+                "interactionViews": 7601,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -909,7 +909,7 @@
             "mirrors": {
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Orobas_Dehya%5B1.01%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -927,7 +927,7 @@
                 "interactionLikes": 11,
                 "interactionComments": 14,
                 "interactionFeatured": false,
-                "interactionViews": 13221,
+                "interactionViews": 13363,
                 "category": "Skins",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -948,7 +948,7 @@
             "modDescription": "Tate Eboshi, a female boss from Nioh 2.<br><b>Only proceed if you have the age of an adult in your country.</b>",
             "thumbnail": "assets/img/24_TateEboshi-1.jpg",
             "mirrors": {},
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -966,7 +966,7 @@
                 "interactionLikes": 7,
                 "interactionComments": 1,
                 "interactionFeatured": false,
-                "interactionViews": 2097,
+                "interactionViews": 2286,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -989,7 +989,7 @@
             "mirrors": {
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Idun_Ereshikigal%5B1.11%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1007,7 +1007,7 @@
                 "interactionLikes": 10,
                 "interactionComments": 6,
                 "interactionFeatured": false,
-                "interactionViews": 6525,
+                "interactionViews": 6768,
                 "category": "Skins",
                 "version": "1.11",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1030,7 +1030,7 @@
             "mirrors": {
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Hariti_Hades%5B1.00%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1048,7 +1048,7 @@
                 "interactionLikes": 18,
                 "interactionComments": 14,
                 "interactionFeatured": false,
-                "interactionViews": 7035,
+                "interactionViews": 7456,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1071,7 +1071,7 @@
             "mirrors": {
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Ose_Nameless%5B1.00%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1089,7 +1089,7 @@
                 "interactionLikes": 6,
                 "interactionComments": 5,
                 "interactionFeatured": false,
-                "interactionViews": 1973,
+                "interactionViews": 2132,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1113,7 +1113,7 @@
                 "GitHub - Shiroi (White)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Shiroi%5B1.00%5D.7z",
                 "GitHub - Kuroi (Black)": "https://github.com/mugenrei/mods/blob/main/SMTV/mod_mugenrei_Zeus_Kuroi%5B1.00%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1131,7 +1131,7 @@
                 "interactionLikes": 12,
                 "interactionComments": 7,
                 "interactionFeatured": false,
-                "interactionViews": 1730,
+                "interactionViews": 1892,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1154,7 +1154,7 @@
             "mirrors": {
                 "GitHub": "https://github.com/mugenrei/mods/blob/main/SMTV/com_mugenrei_Fionn_Ike%5B1.00%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1172,7 +1172,7 @@
                 "interactionLikes": 10,
                 "interactionComments": 2,
                 "interactionFeatured": false,
-                "interactionViews": 2141,
+                "interactionViews": 2867,
                 "category": "Skins",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1196,7 +1196,7 @@
                 "GitHub": "https://github.com/mugenrei/mods/raw/main/SMTV/com_mugenrei_HellsAngel_Queen%5B1.15%5D.7z",
                 "GitHub - S": "https://github.com/mugenrei/mods/raw/main/SMTV/com_mugenrei_HellsAngel_Queen_S%5B1.15%5D.7z"
             },
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1214,7 +1214,7 @@
                 "interactionLikes": 12,
                 "interactionComments": 2,
                 "interactionFeatured": false,
-                "interactionViews": 4802,
+                "interactionViews": 5179,
                 "category": "Skins",
                 "version": "1.15",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1235,7 +1235,7 @@
             "modDescription": "Mermaid as she born again in a custom body and a custom texture.",
             "thumbnail": "assets/img/31_Mermaid-newb-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1250,10 +1250,10 @@
                 "itemUrl": "https://gamebanana.com/mods/520542",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 147,
+                "interactionLikes": 149,
                 "interactionComments": 102,
                 "interactionFeatured": true,
-                "interactionViews": 23080,
+                "interactionViews": 24880,
                 "category": "Models",
                 "version": "2.20",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1274,7 +1274,7 @@
             "modDescription": "Female byleth, or as pronounced in Japanese for the female, Beresu, from Fire Emblem Three Houses now as the protagonist in SMT5V!",
             "thumbnail": "assets/img/32_Beresu-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1289,10 +1289,10 @@
                 "itemUrl": "https://gamebanana.com/mods/520563",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 22,
-                "interactionComments": 17,
+                "interactionLikes": 23,
+                "interactionComments": 19,
                 "interactionFeatured": true,
-                "interactionViews": 9199,
+                "interactionViews": 9800,
                 "category": "Models",
                 "version": "2.05",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1313,7 +1313,7 @@
             "modDescription": "Unlocks the garden's free camera to stop fading the demons!",
             "thumbnail": "assets/img/33_FreecamMod-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1328,10 +1328,10 @@
                 "itemUrl": "https://gamebanana.com/mods/521914",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 113,
-                "interactionComments": 46,
+                "interactionLikes": 118,
+                "interactionComments": 48,
                 "interactionFeatured": true,
-                "interactionViews": 31793,
+                "interactionViews": 37046,
                 "category": "Other/Misc",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1352,7 +1352,7 @@
             "modDescription": "Swapped out her metal pasties for a more natural look. Just a simple tweak to let her shine a bit more without the extra metal.",
             "thumbnail": "assets/img/34_Naamah-unv-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1367,10 +1367,10 @@
                 "itemUrl": "https://gamebanana.com/mods/522563",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 137,
+                "interactionLikes": 140,
                 "interactionComments": 28,
                 "interactionFeatured": true,
-                "interactionViews": 16871,
+                "interactionViews": 18424,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1391,7 +1391,7 @@
             "modDescription": "Shiroi Zeus or Kuroi Zeus.",
             "thumbnail": "assets/img/35_SKZeus-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1409,7 +1409,7 @@
                 "interactionLikes": 27,
                 "interactionComments": 17,
                 "interactionFeatured": false,
-                "interactionViews": 4074,
+                "interactionViews": 4441,
                 "category": "Models",
                 "version": "2.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1430,7 +1430,7 @@
             "modDescription": "Artemis as she born again in a custom body and a custom texture.",
             "thumbnail": "assets/img/36_Artemis-newb-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1445,10 +1445,10 @@
                 "itemUrl": "https://gamebanana.com/mods/523792",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 51,
+                "interactionLikes": 53,
                 "interactionComments": 18,
                 "interactionFeatured": true,
-                "interactionViews": 9818,
+                "interactionViews": 10710,
                 "category": "Models",
                 "version": "2.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1469,7 +1469,7 @@
             "modDescription": "Artemis Unveiled and ReClothed.<br><b>This is part of the Unveiled + ReClothed series, only proceed if you have the age of an adult in your country.</b>",
             "thumbnail": "assets/img/37_Artemis-unvrec-1.jpg",
             "mirrors": {},
-            "isSpicy": "false"
+            "isSpicy": false
         },
         "modSiteData": {
             "GameBanana": {
@@ -1484,10 +1484,10 @@
                 "itemUrl": "https://gamebanana.com/mods/523806",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 53,
+                "interactionLikes": 55,
                 "interactionComments": 19,
                 "interactionFeatured": true,
-                "interactionViews": 8516,
+                "interactionViews": 9377,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1523,10 +1523,10 @@
                 "itemUrl": "https://gamebanana.com/mods/524459",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 141,
+                "interactionLikes": 145,
                 "interactionComments": 49,
                 "interactionFeatured": true,
-                "interactionViews": 18231,
+                "interactionViews": 20248,
                 "category": "Models",
                 "version": "1.00+",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1562,10 +1562,10 @@
                 "itemUrl": "https://gamebanana.com/mods/526732",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 54,
+                "interactionLikes": 58,
                 "interactionComments": 16,
                 "interactionFeatured": false,
-                "interactionViews": 7177,
+                "interactionViews": 8056,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1601,10 +1601,10 @@
                 "itemUrl": "https://gamebanana.com/mods/526746",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 75,
+                "interactionLikes": 80,
                 "interactionComments": 18,
                 "interactionFeatured": false,
-                "interactionViews": 9016,
+                "interactionViews": 10093,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1632,20 +1632,20 @@
                 "id": 527164,
                 "type": "Mod",
                 "addedDate": 1720660763,
-                "modifiedDate": 1720660763,
-                "updatedDate": null,
+                "modifiedDate": 1731193047,
+                "updatedDate": 1731193415,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/527164",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 33,
+                "interactionLikes": 34,
                 "interactionComments": 10,
                 "interactionFeatured": true,
-                "interactionViews": 8022,
+                "interactionViews": 9354,
                 "category": "Models",
-                "version": "1.00",
+                "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "668f316c0a580.jpg"
             }
@@ -1671,20 +1671,20 @@
                 "id": 527636,
                 "type": "Mod",
                 "addedDate": 1720841106,
-                "modifiedDate": 1720841106,
-                "updatedDate": null,
+                "modifiedDate": 1731193491,
+                "updatedDate": 1731193560,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/527636",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 18,
+                "interactionLikes": 21,
                 "interactionComments": 11,
                 "interactionFeatured": true,
-                "interactionViews": 5583,
+                "interactionViews": 7433,
                 "category": "Models",
-                "version": "1.00",
+                "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "6691f3483e2b7.jpg"
             }
@@ -1718,10 +1718,10 @@
                 "itemUrl": "https://gamebanana.com/mods/528453",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 65,
+                "interactionLikes": 70,
                 "interactionComments": 40,
                 "interactionFeatured": false,
-                "interactionViews": 8439,
+                "interactionViews": 9502,
                 "category": "Models",
                 "version": "1.11",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1736,13 +1736,7 @@
         "publishDate": 1721239361,
         "localData": {
             "id": "44",
-            "modTargetDemon": "",
-            "modSeries": "",
-            "modDescription": "",
-            "modCommissioner": "",
-            "thumbnail": "",
-            "mirrors": {},
-            "isSpicy": false
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -1757,10 +1751,10 @@
                 "itemUrl": "https://gamebanana.com/mods/528683",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 59,
+                "interactionLikes": 66,
                 "interactionComments": 16,
                 "interactionFeatured": false,
-                "interactionViews": 7098,
+                "interactionViews": 8090,
                 "category": "Models",
                 "version": "2.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1796,10 +1790,10 @@
                 "itemUrl": "https://gamebanana.com/mods/529640",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 64,
+                "interactionLikes": 66,
                 "interactionComments": 28,
                 "interactionFeatured": false,
-                "interactionViews": 7660,
+                "interactionViews": 8660,
                 "category": "Models",
                 "version": "1.10",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1827,20 +1821,20 @@
                 "id": 529694,
                 "type": "Mod",
                 "addedDate": 1721598699,
-                "modifiedDate": 1721598699,
-                "updatedDate": null,
+                "modifiedDate": 1731193673,
+                "updatedDate": 1731193713,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/529694",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 38,
+                "interactionLikes": 41,
                 "interactionComments": 17,
                 "interactionFeatured": true,
-                "interactionViews": 7841,
+                "interactionViews": 10063,
                 "category": "Models",
-                "version": "2.00",
+                "version": "2.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "669d8214e619f.jpg"
             }
@@ -1874,10 +1868,10 @@
                 "itemUrl": "https://gamebanana.com/mods/530182",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 80,
-                "interactionComments": 25,
+                "interactionLikes": 88,
+                "interactionComments": 26,
                 "interactionFeatured": true,
-                "interactionViews": 16780,
+                "interactionViews": 20500,
                 "category": "Skills",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1905,20 +1899,20 @@
                 "id": 531429,
                 "type": "Mod",
                 "addedDate": 1722206129,
-                "modifiedDate": 1722389743,
-                "updatedDate": 1722302638,
+                "modifiedDate": 1731193994,
+                "updatedDate": 1731194042,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/531429",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 50,
+                "interactionLikes": 52,
                 "interactionComments": 15,
                 "interactionFeatured": true,
-                "interactionViews": 8104,
+                "interactionViews": 10293,
                 "category": "Models",
-                "version": "2.01",
+                "version": "2.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66a994e33da45.jpg"
             }
@@ -1944,20 +1938,20 @@
                 "id": 531431,
                 "type": "Mod",
                 "addedDate": 1722206809,
-                "modifiedDate": 1722206860,
-                "updatedDate": null,
+                "modifiedDate": 1731193781,
+                "updatedDate": 1731193828,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/531431",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 26,
+                "interactionLikes": 28,
                 "interactionComments": 6,
                 "interactionFeatured": true,
-                "interactionViews": 3284,
+                "interactionViews": 3954,
                 "category": "Models",
-                "version": "2.00",
+                "version": "2.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66a6ca096eeb9.jpg"
             }
@@ -1983,20 +1977,20 @@
                 "id": 531664,
                 "type": "Mod",
                 "addedDate": 1722290626,
-                "modifiedDate": 1722366904,
-                "updatedDate": null,
+                "modifiedDate": 1731193883,
+                "updatedDate": 1731193936,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/531664",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 53,
-                "interactionComments": 13,
+                "interactionLikes": 56,
+                "interactionComments": 14,
                 "interactionFeatured": true,
-                "interactionViews": 6889,
+                "interactionViews": 9190,
                 "category": "Models",
-                "version": "2.00",
+                "version": "2.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66a80f1985fd5.jpg"
             }
@@ -2022,20 +2016,20 @@
                 "id": 533254,
                 "type": "Mod",
                 "addedDate": 1722858825,
-                "modifiedDate": 1723136400,
-                "updatedDate": 1723136502,
+                "modifiedDate": 1731194145,
+                "updatedDate": 1731194199,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/533254",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 72,
-                "interactionComments": 36,
+                "interactionLikes": 76,
+                "interactionComments": 37,
                 "interactionFeatured": true,
-                "interactionViews": 11460,
+                "interactionViews": 15314,
                 "category": "Models",
-                "version": "2.00",
+                "version": "2.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66b0bca8b35b7.jpg"
             }
@@ -2057,7 +2051,7 @@
                 "GitHub": "https://raw.githubusercontent.com/mugenrei/mods/main/SMT5V/com_mugenrei_Yoko2nd_Newborn%5B1.00%5D.7z",
                 "GitHub - Brown Nips": "https://raw.githubusercontent.com/mugenrei/mods/main/SMT5V/com_mugenrei_Yoko2nd_Newborn_BrownNips%5B1.00%5D.7z"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -2072,10 +2066,10 @@
                 "itemUrl": "https://gamebanana.com/mods/533660",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 66,
-                "interactionComments": 23,
+                "interactionLikes": 68,
+                "interactionComments": 24,
                 "interactionFeatured": false,
-                "interactionViews": 6696,
+                "interactionViews": 8104,
                 "category": "Models",
                 "version": "1.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2103,20 +2097,20 @@
                 "id": 535610,
                 "type": "Mod",
                 "addedDate": 1723771523,
-                "modifiedDate": 1723771523,
-                "updatedDate": null,
+                "modifiedDate": 1731194264,
+                "updatedDate": 1731194301,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/535610",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 32,
+                "interactionLikes": 34,
                 "interactionComments": 11,
                 "interactionFeatured": true,
-                "interactionViews": 8301,
+                "interactionViews": 9855,
                 "category": "Models",
-                "version": "1.00",
+                "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66bea9df02710.jpg"
             }
@@ -2142,20 +2136,20 @@
                 "id": 537175,
                 "type": "Mod",
                 "addedDate": 1724346230,
-                "modifiedDate": 1724346230,
-                "updatedDate": null,
+                "modifiedDate": 1731194399,
+                "updatedDate": 1731194437,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/537175",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 47,
+                "interactionLikes": 49,
                 "interactionComments": 22,
                 "interactionFeatured": true,
-                "interactionViews": 6297,
+                "interactionViews": 8705,
                 "category": "Models",
-                "version": "1.02",
+                "version": "1.03",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66c76bd6963de.jpg"
             }
@@ -2181,8 +2175,8 @@
                 "id": 538498,
                 "type": "Mod",
                 "addedDate": 1724855555,
-                "modifiedDate": 1724855555,
-                "updatedDate": null,
+                "modifiedDate": 1731194513,
+                "updatedDate": 1731194544,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
@@ -2192,9 +2186,9 @@
                 "interactionLikes": 29,
                 "interactionComments": 7,
                 "interactionFeatured": true,
-                "interactionViews": 2166,
+                "interactionViews": 2904,
                 "category": "Models",
-                "version": "2.10",
+                "version": "2.11",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66cf339cde2e9.jpg"
             }
@@ -2228,10 +2222,10 @@
                 "itemUrl": "https://gamebanana.com/mods/538804",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 34,
+                "interactionLikes": 36,
                 "interactionComments": 7,
                 "interactionFeatured": true,
-                "interactionViews": 5127,
+                "interactionViews": 7534,
                 "category": "Models",
                 "version": "2.10",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2259,8 +2253,8 @@
                 "id": 539781,
                 "type": "Mod",
                 "addedDate": 1725324885,
-                "modifiedDate": 1725324885,
-                "updatedDate": null,
+                "modifiedDate": 1731194683,
+                "updatedDate": 1731194720,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
@@ -2270,9 +2264,9 @@
                 "interactionLikes": 30,
                 "interactionComments": 6,
                 "interactionFeatured": true,
-                "interactionViews": 2337,
+                "interactionViews": 3169,
                 "category": "Models",
-                "version": "2.06",
+                "version": "2.07",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66d65cf017ce2.jpg"
             }
@@ -2298,20 +2292,20 @@
                 "id": 541956,
                 "type": "Mod",
                 "addedDate": 1726264487,
-                "modifiedDate": 1726264487,
-                "updatedDate": null,
+                "modifiedDate": 1731194771,
+                "updatedDate": 1731194811,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/541956",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 13,
+                "interactionLikes": 16,
                 "interactionComments": 6,
                 "interactionFeatured": false,
-                "interactionViews": 3801,
+                "interactionViews": 5031,
                 "category": "Models",
-                "version": "1.00",
+                "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66e4b2a86474d.jpg"
             }
@@ -2337,20 +2331,20 @@
                 "id": 542916,
                 "type": "Mod",
                 "addedDate": 1726617006,
-                "modifiedDate": 1726617006,
-                "updatedDate": null,
+                "modifiedDate": 1731194878,
+                "updatedDate": 1731194913,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/542916",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 55,
+                "interactionLikes": 59,
                 "interactionComments": 24,
                 "interactionFeatured": false,
-                "interactionViews": 8115,
+                "interactionViews": 12413,
                 "category": "Models",
-                "version": "1.00",
+                "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66ea13b6d7b29.jpg"
             }
@@ -2376,20 +2370,20 @@
                 "id": 543437,
                 "type": "Mod",
                 "addedDate": 1726891727,
-                "modifiedDate": 1726976770,
-                "updatedDate": 1726977362,
+                "modifiedDate": 1731195045,
+                "updatedDate": 1731195090,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/543437",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 53,
-                "interactionComments": 28,
+                "interactionLikes": 58,
+                "interactionComments": 30,
                 "interactionFeatured": true,
-                "interactionViews": 5647,
+                "interactionViews": 8751,
                 "category": "Models",
-                "version": "1.01",
+                "version": "1.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "66ee460130ac2.jpg"
             }
@@ -2415,12 +2409,12 @@
                 "GitHub - Newborn": "https://raw.githubusercontent.com/mugenrei/mods/refs/heads/main/SMT5V/Demon/Pixie/com_mugenrei_Pixie_Newborn%5B1.00%5D.7z",
                 "GitHub - Unveiled": "https://raw.githubusercontent.com/mugenrei/mods/refs/heads/main/SMT5V/Demon/Pixie/com_mugenrei_Pixie_Unveiled%5B1.00%5D.7z"
             },
-            "isSpicy": "true"
+            "isSpicy": true
         }
     },
     {
         "id": "62",
-        "modName": "TKB Hades as Hariti",
+        "modName": "OH Hades as Hariti",
         "game": "Shin Megami Tensei V: Vengeance",
         "publishDate": 1727986068,
         "localData": {
@@ -2438,22 +2432,22 @@
                 "id": 546286,
                 "type": "Mod",
                 "addedDate": 1727986068,
-                "modifiedDate": 1728110330,
-                "updatedDate": null,
+                "modifiedDate": 1732558708,
+                "updatedDate": 1732558449,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/546286",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 35,
-                "interactionComments": 20,
+                "interactionLikes": 47,
+                "interactionComments": 37,
                 "interactionFeatured": true,
-                "interactionViews": 3307,
+                "interactionViews": 7022,
                 "category": "Models",
-                "version": "2.00",
+                "version": "2.50",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
-                "thumbnailFilename": "66fef896da193.jpg"
+                "thumbnailFilename": "6744bd9eab21f.jpg"
             }
         }
     },
@@ -2464,13 +2458,7 @@
         "publishDate": 1728374209,
         "localData": {
             "id": "63",
-            "modTargetDemon": "",
-            "modSeries": "",
-            "modDescription": "",
-            "modCommissioner": "",
-            "thumbnail": "",
-            "mirrors": {},
-            "isSpicy": false
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -2485,10 +2473,10 @@
                 "itemUrl": "https://gamebanana.com/mods/547332",
                 "gameId": 19905,
                 "isSpicy": true,
-                "interactionLikes": 38,
+                "interactionLikes": 45,
                 "interactionComments": 19,
                 "interactionFeatured": false,
-                "interactionViews": 2351,
+                "interactionViews": 4298,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2516,20 +2504,20 @@
                 "id": 549306,
                 "type": "Mod",
                 "addedDate": 1729222903,
-                "modifiedDate": 1729222903,
-                "updatedDate": null,
+                "modifiedDate": 1731195252,
+                "updatedDate": 1731195343,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/549306",
                 "gameId": 19905,
                 "isSpicy": false,
-                "interactionLikes": 45,
-                "interactionComments": 24,
+                "interactionLikes": 59,
+                "interactionComments": 32,
                 "interactionFeatured": false,
-                "interactionViews": 2053,
+                "interactionViews": 6966,
                 "category": "Models",
-                "version": "1.00",
+                "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "6711d87d6a010.jpg"
             }
@@ -2547,7 +2535,7 @@
             "modDescription": "",
             "modCommissioner": "",
             "thumbnail": "",
-            "mirrors": {"GitHub": "https://github.com/mugenrei/mods/blob/main/Metaphor/Hulkenberg's_Makeshift_Ass_Textures1.0.0.7z"},
+            "mirrors": {},
             "isSpicy": false
         },
         "modSiteData": {
@@ -2555,22 +2543,133 @@
                 "id": 550808,
                 "type": "Mod",
                 "addedDate": 1729814039,
-                "modifiedDate": 1729823350,
+                "modifiedDate": 1729885494,
                 "updatedDate": null,
                 "submitterName": "mugenrei",
                 "submitterId": 2054898,
                 "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
                 "itemUrl": "https://gamebanana.com/mods/550808",
                 "gameId": 21201,
-                "isSpicy": false,
-                "interactionLikes": 1,
-                "interactionComments": 4,
+                "isSpicy": true,
+                "interactionLikes": 67,
+                "interactionComments": 33,
                 "interactionFeatured": false,
-                "interactionViews": 127,
+                "interactionViews": 14777,
                 "category": "Textures",
                 "version": "1.0.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
                 "thumbnailFilename": "671adbb2198b8.jpg"
+            }
+        }
+    },
+    {
+        "id": "66",
+        "modName": "Fate Ereshkigal as Idun",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1730863656,
+        "localData": {
+            "id": "66",
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 553855,
+                "type": "Mod",
+                "addedDate": 1730863656,
+                "modifiedDate": 1731195465,
+                "updatedDate": 1731195533,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/553855",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 27,
+                "interactionComments": 10,
+                "interactionFeatured": false,
+                "interactionViews": 2476,
+                "category": "Models",
+                "version": "2.01",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "672adf7139d5b.jpg"
+            }
+        }
+    },
+    {
+        "id": "67",
+        "modName": "Lilim Newborn",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1731294593,
+        "localData": {
+            "id": "67",
+            "isSpicy": true
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 554946,
+                "type": "Mod",
+                "addedDate": 1731294593,
+                "modifiedDate": 1731294623,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/554946",
+                "gameId": 19905,
+                "isSpicy": true,
+                "interactionLikes": 34,
+                "interactionComments": 10,
+                "interactionFeatured": false,
+                "interactionViews": 2555,
+                "category": "Models",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "67316de67d384.jpg"
+            }
+        }
+    },
+    {
+        "id": "68",
+        "modName": "Maskless Hero Tsukuyomi Form",
+        "game": "Shin Megami Tensei V: Vengeance",
+        "publishDate": 1733073020,
+        "localData": {
+            "id": "68",
+            "modTargetDemon": "",
+            "modSeries": "",
+            "modDescription": "",
+            "modCommissioner": "",
+            "thumbnail": "",
+            "mirrors": {},
+            "isSpicy": false
+        },
+        "modSiteData": {
+            "GameBanana": {
+                "id": 559663,
+                "type": "Mod",
+                "addedDate": 1733073020,
+                "modifiedDate": 1733073020,
+                "updatedDate": null,
+                "submitterName": "mugenrei",
+                "submitterId": 2054898,
+                "submitterPic": "https://images.gamebanana.com/img/av/6640ffb42a324.jpg",
+                "itemUrl": "https://gamebanana.com/mods/559663",
+                "gameId": 19905,
+                "isSpicy": false,
+                "interactionLikes": 4,
+                "interactionComments": 2,
+                "interactionFeatured": false,
+                "interactionViews": 115,
+                "category": "Models",
+                "version": "1.00",
+                "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
+                "thumbnailFilename": "674c963202e42.jpg"
             }
         }
     }

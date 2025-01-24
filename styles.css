@@ -299,3 +299,8 @@ a:hover {
 .donation-button:hover {
     background-color: #ff3333;
 }
+
+/* Apply blur effect to NSFW images by default */
+.blur-thumbnail img {
+    filter: blur(8px);
+}

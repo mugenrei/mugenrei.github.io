@@ -8,6 +8,12 @@
   <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
   <link rel="icon" type="image/png" href="./assets/img/favicon-heheh.ico">
+
+  <meta property="og:title" content="mugenrei's website" />
+  <meta property="og:description" content="Find my mods, guides, tools and other stuff." />
+  <meta property="og:url" content="https://mugenrei.com" />
+  <meta property="og:image" content="https://mugenrei.com/assets/img/bg-heh.png" />
+  <meta property="og:type" content="website" />
 </head>
 
 <body>
@@ -45,13 +51,18 @@
     <!-- Secondary Content -->
     <div class="secondary-content" id="secondaryContent">
       <div class="settings-region">
-        <!-- Placeholder for settings -->
-        <p>Settings will go here.</p>
+        <label for="nsfwDisplaySetting">NSFW Display Settings:</label>
+        <select id="nsfwDisplaySetting">
+          <option value="hide">Don't display</option>
+          <option value="blur">Display but thumbnails blurry</option>
+          <option value="show">Display but no blurry</option>
+        </select>
       </div>
       <div class="description-region" id="descriptionRegion">
         <p>Hover over a mod to see details here.</p>
       </div>
     </div>
+
   </div>
 
   <!-- Footer -->

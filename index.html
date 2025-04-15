@@ -1,68 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>mugenrei</title>
-  <link rel="stylesheet" href="styles.css">
-  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-  <link rel="icon" type="image/png" href="./assets/img/favicon-heheh.ico">
-
-  <meta property="og:title" content="mugenrei's website" />
-  <meta property="og:description" content="Find my mods, guides, tools and other stuff." />
-  <meta property="og:url" content="https://mugenrei.com" />
-  <meta property="og:image" content="https://mugenrei.com/assets/img/bg-heh.png" />
-  <meta property="og:type" content="website" />
-</head>
-
-<body>
-
-  <!-- Title Bar -->
-  <div class="title-bar">
-    <h1>mugenrei</h1>
-  </div>
-
-  <!-- Navigation Bar -->
-  <nav class="navbar">
-    <ul>
-      <li><a href="#" id="navHome" onclick="showContent('home')">Home</a></li>
-      <li class="dropdown">
-        <a href="#" class="dropbtn">Mods</a>
-        <div class="dropdown-content">
-          <a href="#" id="navAll">ALL</a>
-          <a href="#" id="navSMTV">SMTV</a>
-          <a href="#" id="navSMTVV">SMT5V</a>
-        </div>
-      </li>
-      <li><a href="https://github.com/mugenrei/mugenrei.github.io/wiki" id="navWiki" target="_blank">Guides</a></li>
-      <li><a href="#" id="navAbout" onclick="showContent('about')">About</a></li>
-      <li><a href="#" id="navContact" onclick="showContent('contact')">Contact</a></li>
-    </ul>
-  </nav>
-
-  <!-- Main and Secondary Content Container -->
-  <div class="content-wrapper">
-    <!-- Main Content -->
-    <div class="main-content" id="mainContent">
-      <p>Welcome to the mods catalog. Select a section from the menu above.</p>
-    </div>
-
-    <!-- Secondary Content -->
-    <div class="secondary-content" id="secondaryContent">
-      <div class="description-region" id="descriptionRegion">
-        <p>Hover over a mod to see details here.</p>
-      </div>
-    </div>
-
-  </div>
-
-  <!-- Footer -->
-  <footer class="footer">
-    <p>&copy; 2024 mugenrei.</p>
-  </footer>
-
-  <script src="scripts.js"></script>
-</body>
-
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="./assets/img/favicon-heheh.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta property="og:title" content="mugenrei's website" />
+    <meta property="og:description" content="Find my mods, guides, tools and other stuff." />
+    <meta property="og:url" content="https://mugenrei.com" />
+    <meta property="og:image" content="https://mugenrei.com/assets/img/bg-heh.png" />
+    <meta property="og:type" content="website" />
+    <title>mugenrei</title>
+  </head>
+  <body>
+    <div id="app"></div>
+    <script type="module" src="/src/main.js"></script>
+  </body>
 </html>

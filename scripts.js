@@ -67,12 +67,8 @@ function convertTimestamp(timestamp) {
     const date = new Date(timestamp * 1000);
     return date.toLocaleDateString();
 }
-// Function to check if a mod is spicy
-function isModSpicy(mod) {
-    return mod.localData?.isSpicy ?? mod.modSiteData?.GameBanana?.isSpicy ?? false;
-}
 
-// Function to generate HTML for each mod entry, applying the isSpicy class if necessary
+// Function to generate HTML for each mod entry
 function generateModHTML(mod) {
     let thumbnailUrl = '';
 
@@ -83,10 +79,9 @@ function generateModHTML(mod) {
     }
 
     const publishDate = convertTimestamp(mod.publishDate);
-    const isSpicy = isModSpicy(mod);
     
     return `
-        <div class="mod-item ${isSpicy ? 'isSpicy' : ''}" id="${mod.id}">
+        <div class="mod-item" id="${mod.id}">
             <div class="mod-details">
                 <h3>${mod.modName}</h3>
                 <p>Published on: ${publishDate}</p>
@@ -95,41 +90,13 @@ function generateModHTML(mod) {
                     ${mod.localData && mod.localData.mirrors ? Object.keys(mod.localData.mirrors).map(mirror => `<a href="${mod.localData.mirrors[mirror]}">${mirror}</a>`).join('') : ''}
                 </div>
             </div>
-            <div class="mod-thumbnail ${isSpicy ? 'blur-thumbnail' : ''}">
+            <div class="mod-thumbnail">
                 ${thumbnailUrl ? `<img src="${thumbnailUrl}" alt="${mod.modName} thumbnail">` : ''}
             </div>
         </div>
     `;
 }
-// Function to apply NSFW display settings based on the selected option
-function applyNsfwDisplaySettings() {
-    const nsfwDisplaySetting = document.getElementById('nsfwDisplaySetting').value;
-    const modItems = document.querySelectorAll('.mod-item');
 
-    modItems.forEach(modItem => {
-        const isSpicy = modItem.classList.contains('isSpicy');
-
-        // Set visibility and blur based on the NSFW display setting
-        if (isSpicy) {
-            switch (nsfwDisplaySetting) {
-                case 'hide':
-                    modItem.style.display = 'none';
-                    break;
-                case 'blur':
-                    modItem.style.display = '';
-                    modItem.querySelector('.mod-thumbnail').classList.add('blur-thumbnail');
-                    break;
-                case 'show':
-                    modItem.style.display = '';
-                    modItem.querySelector('.mod-thumbnail').classList.remove('blur-thumbnail');
-                    break;
-            }
-        } else {
-            modItem.style.display = '';
-            modItem.querySelector('.mod-thumbnail').classList.remove('blur-thumbnail');
-        }
-    });
-}
 // Add hover event listeners to each mod item
 function addHoverListeners() {
     const modItems = document.querySelectorAll('.mod-item');
@@ -176,7 +143,6 @@ function updateDescription(mod) {
         const modSeries = mod.localData.modSeries || '';
         const modCommissioner = mod.localData.modCommissioner || '';
         const modDescription = mod.localData.modDescription || '';
-        const isSpicy = mod.localData?.isSpicy || mod.modSiteData?.GameBanana?.isSpicy || false;
     
         // Only add to descriptionHTML if they have values
         if (modTargetDemon) {
@@ -193,9 +159,6 @@ function updateDescription(mod) {
 
         descriptionHTML += `<p>${modDescription}</p>`;
         
-        if (isSpicy) {
-            descriptionHTML += `<p><strong>Note:</strong> You must be considered adult in your country to use this mod.</p>`;
-        }
     }
 
     // Check for modSiteData.GameBanana
@@ -243,7 +206,6 @@ function updateDescription(mod) {
 // Function to reset the mod list and apply filtering
 function filterModsByGame(gameFilter) {
     const mainContent = document.getElementById("mainContent");
-    const nsfwDisplaySetting = document.getElementById('nsfwDisplaySetting').value;
     mainContent.innerHTML = ''; // Clear the list
 
     // Filter mods based on the selected game
@@ -263,7 +225,6 @@ function filterModsByGame(gameFilter) {
 
     // Display secondary content
     document.getElementById("secondaryContent").style.display = 'block';
-    applyNsfwDisplaySettings()
     addHoverListeners(); // Re-attach hover listeners for new mod list
 }
 
@@ -289,10 +250,10 @@ document.getElementById('navSMTV').addEventListener('click', () => {
 document.getElementById('navSMTVV').addEventListener('click', () => {
     filterModsByGame('Shin Megami Tensei V: Vengeance');
 });
-// Event listener for NSFW display setting changes
-document.getElementById('nsfwDisplaySetting').addEventListener('change', applyNsfwDisplaySettings);
 
-// Call applyNsfwDisplaySettings on page load to apply default settings
-window.addEventListener('DOMContentLoaded', () => {
-    applyNsfwDisplaySettings();
-});
+// Infinite scroll event listener
+// window.addEventListener('scroll', () => {
+//     if (window.innerHeight + window.scrollY >= document.body.offsetHeight) {
+//         loadMoreMods();
+//     }
+// });

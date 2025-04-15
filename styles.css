@@ -7,18 +7,18 @@ body {
     padding: 0;
     text-align: center;
     overflow: hidden;
-    background-image: url('./assets/img/bg-heh.png'); /* Path to your square image */
-    background-size: 10%; /* Adjust this percentage as needed for the size of the square */
+    background-image: url('./assets/img/bg-heh.png');
+    background-size: 10%;
     background-repeat: repeat;
 }
 
 a {
-    color: #00aaff; /* Adjust this color to contrast better with gray */
+    color: #00aaff;
     text-decoration: none;
 }
 
 a:hover {
-    color: #007acc; /* Darker shade for hover */
+    color: #007acc;
 }
 
 /* Title Bar */
@@ -95,7 +95,7 @@ a:hover {
     justify-content: center;
     margin-top: 30px;
     overflow-y: auto;
-    height: 100vh; /* Ensure the main content scrolls if needed */
+    height: 100vh;
 }
 
 /* Main Content */
@@ -118,7 +118,7 @@ a:hover {
     background-color: #222;
     color: #fff;
     width: 300px;
-    display: none; /* Initially hidden */
+    display: none;
 }
 
 /* Settings Region */
@@ -135,7 +135,7 @@ a:hover {
     padding: 10px;
     border-radius: 5px;
     overflow-y: auto;
-    flex-grow: 1; /* Fill the remaining space in the secondary container */
+    flex-grow: 1;
 }
 
 /* Mod List Hover Effect */
@@ -277,14 +277,12 @@ a:hover {
     align-items: center;
 }
 
-/* Grid container for the support buttons */
 .support-grid {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
 }
 
-/* Styling for the donation/support buttons */
 .donation-button {
     background-color: #ff5c5c;
     color: white;
@@ -298,9 +296,4 @@ a:hover {
 
 .donation-button:hover {
     background-color: #ff3333;
-}
-
-/* Apply blur effect to NSFW images by default */
-.blur-thumbnail img {
-    filter: blur(8px);
 }

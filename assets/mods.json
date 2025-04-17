@@ -42,7 +42,7 @@
                 "id": "1",
                 "gameId": "346576",
                 "links": {
-                    "com_mugenrei_Cleopatra_Newborn[1.00]#1#1": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Cleopatra_Newborn%5B1.00%5D%231#1.7z",
+                    "com_mugenrei_Cleopatra_Newborn[1.00]#1#1": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Cleopatra_Newborn%5B1.00%5D%231%231.7z",
                     "com_mugenrei_Cleopatra_Newborn_LowTextures[1.00]#1#1": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Cleopatra_Newborn_LowTextures%5B1.00%5D%231#1.7z"
                 }
             }
@@ -91,7 +91,7 @@
                 "id": "2",
                 "gameId": "348219",
                 "links": {
-                    "com_mugenrei_Ishtar_Newborn[1.00]#1#2": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ishtar_Newborn%5B1.00%5D%231#2.7z"
+                    "com_mugenrei_Ishtar_Newborn[1.00]#1#2": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ishtar_Newborn%5B1.00%5D%231%232.7z"
                 }
             }
         }
@@ -139,7 +139,7 @@
                 "id": "3",
                 "gameId": "349175",
                 "links": {
-                    "com_mugenrei_Joka1st_Newborn[1.00]#1#3": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Newborn%5B1.00%5D%231#3.7z",
+                    "com_mugenrei_Joka1st_Newborn[1.00]#1#3": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Newborn%5B1.00%5D%231%233.7z",
                     "com_mugenrei_Joka1st_Newborn_LowTextures[1.00]#1#3": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Newborn_LowTextures%5B1.00%5D%231#3.7z"
                 }
             }
@@ -188,7 +188,7 @@
                 "id": "4",
                 "gameId": "349945",
                 "links": {
-                    "com_mugenrei_Joka2nd_Newborn[1.00]#1#4": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka2nd_Newborn%5B1.00%5D%231#4.7z"
+                    "com_mugenrei_Joka2nd_Newborn[1.00]#1#4": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka2nd_Newborn%5B1.00%5D%231%234.7z"
                 }
             }
         }
@@ -200,11 +200,11 @@
         "publishDate": 1642161779,
         "localData": {
             "id": "5",
-            "modTargetDemon": "Abdiel 2nd Phase",
-            "modSeries": "Model Replacement",
-            "modCommissioner": "Lukedo3001",
-            "modDescription": "Juri Han in her mecha costume!",
-            "thumbnail": "assets/img/05_juri-1.jpg",
+            "modTargetDemon": "Joka 1st Phase",
+            "modSeries": "Unveiled",
+            "modCommissioner": "",
+            "modDescription": "Joka in a custom body and custom clothes!",
+            "thumbnail": "assets/img/06_joka-recl-1.jpg",
             "mirrors": {},
             "isSpicy": false
         },
@@ -234,7 +234,7 @@
                 "id": "5",
                 "gameId": "350380",
                 "links": {
-                    "com_mugenrei_Joka1st_Unveiled_NoSleeves[1.00]#1#5": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Unveiled_NoSleeves%5B1.00%5D%231#5.7z"
+                    "com_mugenrei_Joka1st_Unveiled_NoSleeves[1.00]#1#5": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Unveiled_NoSleeves%5B1.00%5D%231%235.7z"
                 }
             }
         }
@@ -246,11 +246,11 @@
         "publishDate": 1642231665,
         "localData": {
             "id": "6",
-            "modTargetDemon": "Joka 1st Phase",
-            "modSeries": "Re-Clothing",
-            "modCommissioner": "",
-            "modDescription": "Joka in a custom body and custom clothes!",
-            "thumbnail": "assets/img/06_joka-recl-1.jpg",
+            "modTargetDemon": "Abdiel 2nd Phase",
+            "modSeries": "Character Mod",
+            "modCommissioner": "Lukedo3001",
+            "modDescription": "Juri Han in her mecha costume!",
+            "thumbnail": "assets/img/05_juri-1.jpg",
             "mirrors": {},
             "isSpicy": false
         },
@@ -280,7 +280,7 @@
                 "id": "6",
                 "gameId": "350584",
                 "links": {
-                    "com_mugenrei_Abdiel2nd_JuriHanMecha[1.03]#1#6": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Abdiel2nd_JuriHanMecha%5B1.03%5D%231#6.7z"
+                    "com_mugenrei_Abdiel2nd_JuriHanMecha[1.03]#1#6": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Abdiel2nd_JuriHanMecha%5B1.03%5D%231%236.7z"
                 }
             }
         }
@@ -328,7 +328,7 @@
                 "id": "7",
                 "gameId": "351930",
                 "links": {
-                    "com_mugenrei_Succubus_Newborn[1.00]#1#7": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Succubus_Newborn%5B1.00%5D%231#7.7z",
+                    "com_mugenrei_Succubus_Newborn[1.00]#1#7": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Succubus_Newborn%5B1.00%5D%231%237.7z",
                     "com_mugenrei_Succubus_Newborn_Thicc[1.00]#1#7": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Succubus_Newborn_Thicc%5B1.00%5D%231#7.7z"
                 }
             }
@@ -377,7 +377,7 @@
                 "id": "8",
                 "gameId": "352748",
                 "links": {
-                    "com_mugenrei_Mermaid_Newborn[1.10]#1#8": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mermaid_Newborn%5B1.10%5D%231#8.7z",
+                    "com_mugenrei_Mermaid_Newborn[1.10]#1#8": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mermaid_Newborn%5B1.10%5D%231%238.7z",
                     "com_mugenrei_Mermaid_Newborn_Thicc[1.10]#1#8": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mermaid_Newborn_Thicc%5B1.10%5D%231#8.7z",
                     "com_mugenrei_Mermaid_Newborn_z_PinkNips[1.10]#1#8": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mermaid_Newborn_z_PinkNips%5B1.10%5D%231#8.7z"
                 }
@@ -392,7 +392,7 @@
         "localData": {
             "id": "9",
             "modTargetDemon": "Mother Harlot",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "A custom model of Bowsette by huchi001 and Bowser from Super Smash Bros Ultimate.",
             "thumbnail": "assets/img/09_bowsette-1.jpg",
@@ -425,7 +425,7 @@
                 "id": "9",
                 "gameId": "354227",
                 "links": {
-                    "com_mugenrei_MotherHarlot_Bowsette[1.00]#1#9": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_MotherHarlot_Bowsette%5B1.00%5D%231#9.7z"
+                    "com_mugenrei_MotherHarlot_Bowsette[1.00]#1#9": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_MotherHarlot_Bowsette%5B1.00%5D%231%239.7z"
                 }
             }
         }
@@ -438,7 +438,7 @@
         "localData": {
             "id": "10",
             "modTargetDemon": "Cu Chulainn",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "HonorableSpartan",
             "modDescription": "Cu Chulainn from Fate Arcade!",
             "thumbnail": "assets/img/10_cufate-1.jpg",
@@ -471,7 +471,7 @@
                 "id": "10",
                 "gameId": "355539",
                 "links": {
-                    "com_mugenrei_CuChulainn_Fate[1.00]#1#10": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_CuChulainn_Fate%5B1.00%5D%231#10.7z"
+                    "com_mugenrei_CuChulainn_Fate[1.00]#1#10": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_CuChulainn_Fate%5B1.00%5D%231%2310.7z"
                 }
             }
         }
@@ -484,7 +484,7 @@
         "localData": {
             "id": "11",
             "modTargetDemon": "Zeus",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "A custom female Zeus with mecha parts!",
             "thumbnail": "assets/img/11_nemesis-1.jpg",
@@ -517,7 +517,7 @@
                 "id": "11",
                 "gameId": "356586",
                 "links": {
-                    "com_mugenrei_Zeus_MechaNemesisOC[1.05]#1#11": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_MechaNemesisOC%5B1.05%5D%231#11.7z"
+                    "com_mugenrei_Zeus_MechaNemesisOC[1.05]#1#11": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_MechaNemesisOC%5B1.05%5D%231%2311.7z"
                 }
             }
         }
@@ -530,7 +530,7 @@
         "localData": {
             "id": "12",
             "modTargetDemon": "Joka 1st Phase",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Ashai",
             "modDescription": "Ahri from Wild Rift.",
             "thumbnail": "assets/img/12_ahri-1.jpg",
@@ -563,7 +563,7 @@
                 "id": "12",
                 "gameId": "359625",
                 "links": {
-                    "com_mugenrei_Joka1st_Ahri[1.00]#1#12": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Ahri%5B1.00%5D%231#12.7z"
+                    "com_mugenrei_Joka1st_Ahri[1.00]#1#12": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Ahri%5B1.00%5D%231%2312.7z"
                 }
             }
         }
@@ -611,7 +611,7 @@
                 "id": "13",
                 "gameId": "362023",
                 "links": {
-                    "com_mugenrei_Artemis_Newborn[1.00]#1#13": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Artemis_Newborn%5B1.00%5D%231#13.7z",
+                    "com_mugenrei_Artemis_Newborn[1.00]#1#13": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Artemis_Newborn%5B1.00%5D%231%2313.7z",
                     "com_mugenrei_Artemis_Newborn_Thicc[1.00]#1#13": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Artemis_Newborn_Thicc%5B1.00%5D%231#13.7z",
                     "com_mugenrei_Artemis_Newborn_z_PinkNips[1.00]#1#13": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Artemis_Newborn_z_PinkNips%5B1.00%5D%231#13.7z"
                 }
@@ -626,7 +626,7 @@
         "localData": {
             "id": "14",
             "modTargetDemon": "Idun",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "A custom Booette model from huchi001!",
             "thumbnail": "assets/img/14_booette-1.jpg",
@@ -659,7 +659,7 @@
                 "id": "14",
                 "gameId": "366061",
                 "links": {
-                    "com_mugenrei_Idun_Booette[1.20]#1#14": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Booette%5B1.20%5D%231#14.7z",
+                    "com_mugenrei_Idun_Booette[1.20]#1#14": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Booette%5B1.20%5D%231%2314.7z",
                     "com_mugenrei_Idun_Booette_LowTextures[1.20]#1#14": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Booette_LowTextures%5B1.20%5D%231#14.7z"
                 }
             }
@@ -673,7 +673,7 @@
         "localData": {
             "id": "15",
             "modTargetDemon": "Ishtar",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "HonorableSpartan",
             "modDescription": "Ishtar from Fate Arcade!",
             "thumbnail": "assets/img/15_IshtarFate-1.jpg",
@@ -696,7 +696,7 @@
                 "interactionLikes": 14,
                 "interactionComments": 4,
                 "interactionFeatured": false,
-                "interactionViews": 15471,
+                "interactionViews": 15472,
                 "category": "Skins",
                 "version": "1.10",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -706,7 +706,7 @@
                 "id": "15",
                 "gameId": "367883",
                 "links": {
-                    "com_mugenrei_Ishtar_Fate[1.10]#1#15": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ishtar_Fate%5B1.10%5D%231#15.7z"
+                    "com_mugenrei_Ishtar_Fate[1.10]#1#15": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ishtar_Fate%5B1.10%5D%231%2315.7z"
                 }
             }
         }
@@ -719,7 +719,7 @@
         "localData": {
             "id": "16",
             "modTargetDemon": "Atavaka",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "A female Seiten Taisen from a mobile game called Overhit.",
             "thumbnail": "assets/img/16_SeitenTaisen-1.jpg",
@@ -752,7 +752,7 @@
                 "id": "16",
                 "gameId": "393984",
                 "links": {
-                    "com_mugenrei_Atavaka_Sun[1.06]#1#16": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Atavaka_Sun%5B1.06%5D%231#16.7z",
+                    "com_mugenrei_Atavaka_Sun[1.06]#1#16": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Atavaka_Sun%5B1.06%5D%231%2316.7z",
                     "com_mugenrei_Atavaka_Sun_LowTextures[1.06]#1#16": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Atavaka_Sun_LowTextures%5B1.06%5D%231#16.7z"
                 }
             }
@@ -766,7 +766,7 @@
         "localData": {
             "id": "17",
             "modTargetDemon": "Hell Biker",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "HonorableSpartan",
             "modDescription": "Yusei Fudo from Yu-Gi-Oh in his bike.",
             "thumbnail": "assets/img/17_YuseiFudo-1.jpg",
@@ -799,7 +799,7 @@
                 "id": "17",
                 "gameId": "393988",
                 "links": {
-                    "com_mugenrei_HellsAngel_Yusei[1.00]#1#17": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Yusei%5B1.00%5D%231#17.7z"
+                    "com_mugenrei_HellsAngel_Yusei[1.00]#1#17": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Yusei%5B1.00%5D%231%2317.7z"
                 }
             }
         }
@@ -812,7 +812,7 @@
         "localData": {
             "id": "18",
             "modTargetDemon": "Amanozaku",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "Custom model of Amanozaku cosplaying as Nyotengu.",
             "thumbnail": "assets/img/18_Amanyozaku-1.jpg",
@@ -845,7 +845,7 @@
                 "id": "18",
                 "gameId": "396723",
                 "links": {
-                    "com_mugenrei_Amanozako_NyoC7[1.20]#1#18": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Amanozako_NyoC7%5B1.20%5D%231#18.7z",
+                    "com_mugenrei_Amanozako_NyoC7[1.20]#1#18": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Amanozako_NyoC7%5B1.20%5D%231%2318.7z",
                     "com_mugenrei_Amanozako_NyoC7_BigGirl_Patch[1.05]#1#18": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Amanozako_NyoC7_BigGirl_Patch%5B1.05%5D%231#18.7z",
                     "com_mugenrei_Amanozako_NyoC7_LowTextures[1.20]#1#18": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Amanozako_NyoC7_LowTextures%5B1.20%5D%231#18.7z"
                 }
@@ -860,7 +860,7 @@
         "localData": {
             "id": "19",
             "modTargetDemon": "Ookuninushi",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "Ryo Reiki from a mobile game called Three Kingdom Blades!",
             "thumbnail": "assets/img/19_RyoReiki-1.jpg",
@@ -893,7 +893,7 @@
                 "id": "19",
                 "gameId": "402632",
                 "links": {
-                    "com_mugenrei_Ookuninushi_RyoReiki[1.06]#1#19": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ookuninushi_RyoReiki%5B1.06%5D%231#19.7z",
+                    "com_mugenrei_Ookuninushi_RyoReiki[1.06]#1#19": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ookuninushi_RyoReiki%5B1.06%5D%231%2319.7z",
                     "com_mugenrei_Ookuninushi_RyoReiki_LowTextures[1.06]#1#19": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ookuninushi_RyoReiki_LowTextures%5B1.06%5D%231#19.7z"
                 }
             }
@@ -907,7 +907,7 @@
         "localData": {
             "id": "20",
             "modTargetDemon": "Kali",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "Kali from SMITE!",
             "thumbnail": "assets/img/20_Kali-1.jpg",
@@ -940,7 +940,7 @@
                 "id": "20",
                 "gameId": "402644",
                 "links": {
-                    "com_mugenrei_Kali_Smite[1.00]#1#20": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Kali_Smite%5B1.00%5D%231#20.7z",
+                    "com_mugenrei_Kali_Smite[1.00]#1#20": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Kali_Smite%5B1.00%5D%231%2320.7z",
                     "com_mugenrei_Kali_Smite_LowTextures[1.00]#1#20": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Kali_Smite_LowTextures%5B1.00%5D%231#20.7z"
                 }
             }
@@ -954,7 +954,7 @@
         "localData": {
             "id": "21",
             "modTargetDemon": "Inanna",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "Astarte, a persona from Persona 5!",
             "thumbnail": "assets/img/21_Astarte-1.jpg",
@@ -987,7 +987,7 @@
                 "id": "21",
                 "gameId": "408951",
                 "links": {
-                    "com_mugenrei_Inanna_Astarte[1.01]#1#21": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Inanna_Astarte%5B1.01%5D%231#21.7z",
+                    "com_mugenrei_Inanna_Astarte[1.01]#1#21": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Inanna_Astarte%5B1.01%5D%231%2321.7z",
                     "com_mugenrei_Inanna_Astarte_S[1.01]#1#21": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Inanna_Astarte_S%5B1.01%5D%231#21.7z"
                 }
             }
@@ -1001,7 +1001,7 @@
         "localData": {
             "id": "22",
             "modTargetDemon": "Alice",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Luste",
             "modDescription": "Lavenza from Persona 5!",
             "thumbnail": "assets/img/22_Lavenza-1.jpg",
@@ -1034,7 +1034,7 @@
                 "id": "22",
                 "gameId": "415891",
                 "links": {
-                    "com_mugenrei_Alice_Lavenza[1.00]#1#22": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Alice_Lavenza%5B1.00%5D%231#22.7z"
+                    "com_mugenrei_Alice_Lavenza[1.00]#1#22": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Alice_Lavenza%5B1.00%5D%231%2322.7z"
                 }
             }
         }
@@ -1047,7 +1047,7 @@
         "localData": {
             "id": "23",
             "modTargetDemon": "Orobas",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "PyroLumi",
             "modDescription": "Dehya from Genshin Impact!",
             "thumbnail": "assets/img/23_Dehya-1.jpg",
@@ -1080,7 +1080,7 @@
                 "id": "23",
                 "gameId": "416473",
                 "links": {
-                    "com_mugenrei_Orobas_Dehya[1.01]#1#23": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Orobas_Dehya%5B1.01%5D%231#23.7z",
+                    "com_mugenrei_Orobas_Dehya[1.01]#1#23": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Orobas_Dehya%5B1.01%5D%231%2323.7z",
                     "com_mugenrei_Orobas_Dehya_WithSkillTable[1.01]#1#23": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Orobas_Dehya_WithSkillTable%5B1.01%5D%231#23.7z"
                 }
             }
@@ -1094,7 +1094,7 @@
         "localData": {
             "id": "24",
             "modTargetDemon": "Mithras",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "Tate Eboshi, a female boss from Nioh 2.<br><b>Only proceed if you have the age of an adult in your country.</b>",
             "thumbnail": "assets/img/24_TateEboshi-1.jpg",
@@ -1127,7 +1127,7 @@
                 "id": "24",
                 "gameId": "455289",
                 "links": {
-                    "com_mugenrei_Mithras_TateEboshi[1.00]#1#24": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mithras_TateEboshi%5B1.00%5D%231#24.7z"
+                    "com_mugenrei_Mithras_TateEboshi[1.00]#1#24": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mithras_TateEboshi%5B1.00%5D%231%2324.7z"
                 }
             }
         }
@@ -1140,7 +1140,7 @@
         "localData": {
             "id": "25",
             "modTargetDemon": "Idun",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "HonorableSpartan",
             "modDescription": "Ereshkigal from Fate Arcade!",
             "thumbnail": "assets/img/25_Ereshikigal-1.jpg",
@@ -1173,7 +1173,7 @@
                 "id": "25",
                 "gameId": "455291",
                 "links": {
-                    "com_mugenrei_Idun_Ereshkigal[1.11]#1#25": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Ereshkigal%5B1.11%5D%231#25.7z"
+                    "com_mugenrei_Idun_Ereshkigal[1.11]#1#25": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Ereshkigal%5B1.11%5D%231%2325.7z"
                 }
             }
         }
@@ -1186,7 +1186,7 @@
         "localData": {
             "id": "26",
             "modTargetDemon": "Hariti",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "A beautiful female Hades from a mobile game called Overhit.",
             "thumbnail": "assets/img/26_Hades-1.jpg",
@@ -1219,7 +1219,7 @@
                 "id": "26",
                 "gameId": "506744",
                 "links": {
-                    "com_mugenrei_Hariti_Hades[1.00]#1#26": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Hariti_Hades%5B1.00%5D%231#26.7z"
+                    "com_mugenrei_Hariti_Hades[1.00]#1#26": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Hariti_Hades%5B1.00%5D%231%2326.7z"
                 }
             }
         }
@@ -1232,7 +1232,7 @@
         "localData": {
             "id": "27",
             "modTargetDemon": "Ose",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "HonorableSpartan",
             "modDescription": "Nameless from Fate Arcade!",
             "thumbnail": "assets/img/27_Nameless-1.jpg",
@@ -1265,7 +1265,7 @@
                 "id": "27",
                 "gameId": "506747",
                 "links": {
-                    "com_mugenrei_Ose_Nameless[1.00]#1#27": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ose_Nameless%5B1.00%5D%231#27.7z"
+                    "com_mugenrei_Ose_Nameless[1.00]#1#27": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ose_Nameless%5B1.00%5D%231%2327.7z"
                 }
             }
         }
@@ -1278,7 +1278,7 @@
         "localData": {
             "id": "28",
             "modTargetDemon": "Zeus",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "",
             "modDescription": "A mod that creates a whole Zeus, either black or white.",
             "thumbnail": "assets/img/28_SKZeus-1.jpg",
@@ -1311,7 +1311,7 @@
                 "id": "28",
                 "gameId": "513372",
                 "links": {
-                    "com_mugenrei_Zeus_Kuroi[1.00]#1#28": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_Kuroi%5B1.00%5D%231#28.7z",
+                    "com_mugenrei_Zeus_Kuroi[1.00]#1#28": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_Kuroi%5B1.00%5D%231%2328.7z",
                     "com_mugenrei_Zeus_Shiroi[1.00]#1#28": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_Shiroi%5B1.00%5D%231#28.7z"
                 }
             }
@@ -1325,7 +1325,7 @@
         "localData": {
             "id": "29",
             "modTargetDemon": "Fionn",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "HonorableSpartan",
             "modDescription": "Ike now in Da'at as well!",
             "thumbnail": "assets/img/29_Ike-1.jpg",
@@ -1358,7 +1358,7 @@
                 "id": "29",
                 "gameId": "515646",
                 "links": {
-                    "com_mugenrei_Fionn_Ike[1.00]#1#29": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Fionn_Ike%5B1.00%5D%231#29.7z"
+                    "com_mugenrei_Fionn_Ike[1.00]#1#29": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Fionn_Ike%5B1.00%5D%231%2329.7z"
                 }
             }
         }
@@ -1371,7 +1371,7 @@
         "localData": {
             "id": "30",
             "modTargetDemon": "Hell Biker",
-            "modSeries": "Model Replacement",
+            "modSeries": "Character Mod",
             "modCommissioner": "Lukedo3001",
             "modDescription": "Makoto from Persona 5 as Queen!",
             "thumbnail": "assets/img/30_Queen-1.jpg",
@@ -1404,7 +1404,7 @@
                 "id": "30",
                 "gameId": "516897",
                 "links": {
-                    "com_mugenrei_HellsAngel_Queen[1.15]#1#30": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Queen%5B1.15%5D%231#30.7z",
+                    "com_mugenrei_HellsAngel_Queen[1.15]#1#30": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Queen%5B1.15%5D%231%2330.7z",
                     "com_mugenrei_HellsAngel_Queen_S[1.15]#1#30": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Queen_S%5B1.15%5D%231#30.7z"
                 }
             }
@@ -1423,7 +1423,7 @@
             "modDescription": "Mermaid as she born again in a custom body and a custom texture.",
             "thumbnail": "assets/img/31_Mermaid-newb-1.jpg",
             "mirrors": {},
-            "isSpicy": false
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -1441,7 +1441,7 @@
                 "interactionLikes": 162,
                 "interactionComments": 102,
                 "interactionFeatured": true,
-                "interactionViews": 28527,
+                "interactionViews": 28528,
                 "category": "Models",
                 "version": "2.20",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1457,7 +1457,7 @@
         "localData": {
             "id": "32",
             "modTargetDemon": "Hero Nahobino",
-            "modSeries": "Model Replacement",
+            "modSeries": "Hero Character Mod",
             "modCommissioner": "Kouryu",
             "modDescription": "Female byleth, or as pronounced in Japanese for the female, Beresu, from Fire Emblem Three Houses now as the protagonist in SMT5V!",
             "thumbnail": "assets/img/32_Beresu-1.jpg",
@@ -1540,7 +1540,7 @@
             "modDescription": "Swapped out her metal pasties for a more natural look. Just a simple tweak to let her shine a bit more without the extra metal.",
             "thumbnail": "assets/img/34_Naamah-unv-1.jpg",
             "mirrors": {},
-            "isSpicy": false
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -1558,7 +1558,7 @@
                 "interactionLikes": 149,
                 "interactionComments": 28,
                 "interactionFeatured": true,
-                "interactionViews": 21947,
+                "interactionViews": 21949,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1574,7 +1574,7 @@
         "localData": {
             "id": "35",
             "modTargetDemon": "Zeus",
-            "modSeries": "Model Replacement (Port)",
+            "modSeries": "Character Mod",
             "modCommissioner": "",
             "modDescription": "Shiroi Zeus or Kuroi Zeus.",
             "thumbnail": "assets/img/35_SKZeus-1.jpg",
@@ -1597,7 +1597,7 @@
                 "interactionLikes": 28,
                 "interactionComments": 17,
                 "interactionFeatured": false,
-                "interactionViews": 4906,
+                "interactionViews": 4907,
                 "category": "Models",
                 "version": "2.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1618,7 +1618,7 @@
             "modDescription": "Artemis as she born again in a custom body and a custom texture.",
             "thumbnail": "assets/img/36_Artemis-newb-1.jpg",
             "mirrors": {},
-            "isSpicy": false
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -1652,12 +1652,12 @@
         "localData": {
             "id": "37",
             "modTargetDemon": "Artemis",
-            "modSeries": "Unveiled and ReClothed",
+            "modSeries": "Unveiled",
             "modCommissioner": "",
             "modDescription": "Artemis Unveiled and ReClothed.<br><b>This is part of the Unveiled + ReClothed series, only proceed if you have the age of an adult in your country.</b>",
             "thumbnail": "assets/img/37_Artemis-unvrec-1.jpg",
             "mirrors": {},
-            "isSpicy": false
+            "isSpicy": true
         },
         "modSiteData": {
             "GameBanana": {
@@ -1714,7 +1714,7 @@
                 "interactionLikes": 155,
                 "interactionComments": 49,
                 "interactionFeatured": true,
-                "interactionViews": 26356,
+                "interactionViews": 26358,
                 "category": "Models",
                 "version": "1.00+",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1831,7 +1831,7 @@
                 "interactionLikes": 36,
                 "interactionComments": 10,
                 "interactionFeatured": true,
-                "interactionViews": 11622,
+                "interactionViews": 11623,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -1870,7 +1870,7 @@
                 "interactionLikes": 25,
                 "interactionComments": 12,
                 "interactionFeatured": true,
-                "interactionViews": 10077,
+                "interactionViews": 10080,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2020,7 +2020,7 @@
                 "interactionLikes": 44,
                 "interactionComments": 17,
                 "interactionFeatured": true,
-                "interactionViews": 12582,
+                "interactionViews": 12583,
                 "category": "Models",
                 "version": "2.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2059,7 +2059,7 @@
                 "interactionLikes": 100,
                 "interactionComments": 26,
                 "interactionFeatured": true,
-                "interactionViews": 27297,
+                "interactionViews": 27301,
                 "category": "Skills",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2176,7 +2176,7 @@
                 "interactionLikes": 58,
                 "interactionComments": 14,
                 "interactionFeatured": true,
-                "interactionViews": 11655,
+                "interactionViews": 11657,
                 "category": "Models",
                 "version": "2.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2215,7 +2215,7 @@
                 "interactionLikes": 83,
                 "interactionComments": 39,
                 "interactionFeatured": true,
-                "interactionViews": 19948,
+                "interactionViews": 19952,
                 "category": "Models",
                 "version": "2.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2293,7 +2293,7 @@
                 "interactionLikes": 34,
                 "interactionComments": 12,
                 "interactionFeatured": true,
-                "interactionViews": 12477,
+                "interactionViews": 12479,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2332,7 +2332,7 @@
                 "interactionLikes": 55,
                 "interactionComments": 22,
                 "interactionFeatured": true,
-                "interactionViews": 11754,
+                "interactionViews": 11758,
                 "category": "Models",
                 "version": "1.03",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2410,7 +2410,7 @@
                 "interactionLikes": 47,
                 "interactionComments": 10,
                 "interactionFeatured": true,
-                "interactionViews": 12739,
+                "interactionViews": 12740,
                 "category": "Models",
                 "version": "2.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2488,7 +2488,7 @@
                 "interactionLikes": 18,
                 "interactionComments": 7,
                 "interactionFeatured": false,
-                "interactionViews": 8474,
+                "interactionViews": 8475,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2527,7 +2527,7 @@
                 "interactionLikes": 66,
                 "interactionComments": 25,
                 "interactionFeatured": false,
-                "interactionViews": 17450,
+                "interactionViews": 17454,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2566,7 +2566,7 @@
                 "interactionLikes": 71,
                 "interactionComments": 36,
                 "interactionFeatured": true,
-                "interactionViews": 15107,
+                "interactionViews": 15109,
                 "category": "Models",
                 "version": "1.03",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2628,7 +2628,7 @@
                 "interactionLikes": 60,
                 "interactionComments": 38,
                 "interactionFeatured": true,
-                "interactionViews": 12498,
+                "interactionViews": 12500,
                 "category": "Models",
                 "version": "2.50",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2700,7 +2700,7 @@
                 "interactionLikes": 65,
                 "interactionComments": 36,
                 "interactionFeatured": false,
-                "interactionViews": 11640,
+                "interactionViews": 11641,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2739,7 +2739,7 @@
                 "interactionLikes": 74,
                 "interactionComments": 33,
                 "interactionFeatured": false,
-                "interactionViews": 20388,
+                "interactionViews": 20390,
                 "category": "Textures",
                 "version": "1.0.0",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2811,7 +2811,7 @@
                 "interactionLikes": 52,
                 "interactionComments": 17,
                 "interactionFeatured": false,
-                "interactionViews": 5461,
+                "interactionViews": 5462,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2850,7 +2850,7 @@
                 "interactionLikes": 20,
                 "interactionComments": 8,
                 "interactionFeatured": false,
-                "interactionViews": 5096,
+                "interactionViews": 5098,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2889,7 +2889,7 @@
                 "interactionLikes": 44,
                 "interactionComments": 15,
                 "interactionFeatured": false,
-                "interactionViews": 5661,
+                "interactionViews": 5662,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2928,7 +2928,7 @@
                 "interactionLikes": 31,
                 "interactionComments": 7,
                 "interactionFeatured": false,
-                "interactionViews": 5002,
+                "interactionViews": 5004,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -2967,7 +2967,7 @@
                 "interactionLikes": 37,
                 "interactionComments": 21,
                 "interactionFeatured": false,
-                "interactionViews": 8512,
+                "interactionViews": 8515,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3006,7 +3006,7 @@
                 "interactionLikes": 50,
                 "interactionComments": 18,
                 "interactionFeatured": true,
-                "interactionViews": 4637,
+                "interactionViews": 4639,
                 "category": "Models",
                 "version": "1.05",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3045,7 +3045,7 @@
                 "interactionLikes": 26,
                 "interactionComments": 9,
                 "interactionFeatured": false,
-                "interactionViews": 3534,
+                "interactionViews": 3536,
                 "category": "Models",
                 "version": "1.01",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3084,7 +3084,7 @@
                 "interactionLikes": 39,
                 "interactionComments": 14,
                 "interactionFeatured": false,
-                "interactionViews": 2952,
+                "interactionViews": 2956,
                 "category": "Models",
                 "version": "1.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3123,7 +3123,7 @@
                 "interactionLikes": 35,
                 "interactionComments": 27,
                 "interactionFeatured": true,
-                "interactionViews": 9198,
+                "interactionViews": 9203,
                 "category": "Models",
                 "version": "1.02",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3162,7 +3162,7 @@
                 "interactionLikes": 41,
                 "interactionComments": 21,
                 "interactionFeatured": true,
-                "interactionViews": 5250,
+                "interactionViews": 5254,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3201,7 +3201,7 @@
                 "interactionLikes": 29,
                 "interactionComments": 5,
                 "interactionFeatured": false,
-                "interactionViews": 4367,
+                "interactionViews": 4371,
                 "category": "Models",
                 "version": "1.00",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3240,7 +3240,7 @@
                 "interactionLikes": 61,
                 "interactionComments": 27,
                 "interactionFeatured": false,
-                "interactionViews": 3657,
+                "interactionViews": 3666,
                 "category": "Models",
                 "version": "1.11",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3300,7 +3300,7 @@
                 "interactionLikes": 23,
                 "interactionComments": 6,
                 "interactionFeatured": false,
-                "interactionViews": 3045,
+                "interactionViews": 3048,
                 "category": "Models",
                 "version": "1.10",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",
@@ -3345,7 +3345,7 @@
                 "interactionLikes": 22,
                 "interactionComments": 18,
                 "interactionFeatured": false,
-                "interactionViews": 811,
+                "interactionViews": 823,
                 "category": "Models",
                 "version": "1.11",
                 "thumbnailBaseUrl": "https://images.gamebanana.com/img/ss/mods",

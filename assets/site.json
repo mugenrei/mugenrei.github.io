@@ -1,0 +1,893 @@
+{
+  "site": {
+    "name": "mugenrei",
+    "tagline": "",
+    "features": {
+      "news": false,
+      "tools": false
+    },
+    "description": "Game mods, character ports, modding guides and tools by me.",
+    "intro": "Welcome to a unified catalog of all the mods I've created and chosen to list here, alongside links to other mod platforms. This list is regularly updated, but for real-time uploads, you can visit the individual mod pages.",
+    "supportText": "The ko-fi page can be used if you want to send me a beverage worth exchange. I also do paid commissions that you will like it for sure!",
+    "bannerAutoplay": true,
+    "about": "Sometimes admins don't want some mods on their websites because it either hurts ad revenue, subjective views on the world or the site's bubble, this usually applies for mods that are too Spicy, too cute, too funny or all the alternatives.\n\nSince I just want to put my mods out there I might just split the sites. I plan to do all types of mods, that's why I've made this \"hub\".",
+    "navigation": [
+      {
+        "label": "Home",
+        "url": "/"
+      },
+      {
+        "label": "Mods",
+        "url": "/mods"
+      },
+      {
+        "label": "Guides",
+        "url": "/guides"
+      },
+      {
+        "label": "Tools",
+        "url": "/tools"
+      },
+      {
+        "label": "News",
+        "url": "/news"
+      },
+      {
+        "label": "About",
+        "url": "/about"
+      },
+      {
+        "label": "Contact",
+        "url": "/contact"
+      }
+    ],
+    "social": [
+      {
+        "label": "GitHub",
+        "url": "https://github.com/mugenrei"
+      },
+      {
+        "label": "GameBanana",
+        "url": "https://gamebanana.com/members/2054898"
+      },
+      {
+        "label": "NexusMods",
+        "url": "https://next.nexusmods.com/profile/mugenreisan"
+      },
+      {
+        "label": "Discord",
+        "url": "https://discord.com/users/878464995984289832"
+      }
+    ],
+    "support": [
+      {
+        "label": "Ko-fi",
+        "url": "https://ko-fi.com/mugenrei"
+      },
+      {
+        "label": "Commissions",
+        "url": "https://ko-fi.com/mugenrei/commissions"
+      }
+    ],
+    "featuredModIds": [
+      107,
+      106,
+      104,
+      103
+    ],
+    "header": {
+      "image": "/assets/uploads/masthead-smt3.png",
+      "mobileImage": "/assets/uploads/masthead-smt3.png",
+      "focalPoint": "50% 15%",
+      "alt": ""
+    },
+    "bannerInterval": 6500,
+    "theme": {
+      "version": 3,
+      "defaultMode": "system",
+      "light": {
+        "canvas": "#050506",
+        "canvasGlow": "#2b080e",
+        "text": "#ececed",
+        "muted": "#c7c7c7",
+        "link": "#dbdbdb",
+        "linkHover": "#757575",
+        "focus": "#94292e",
+        "selection": "#8e1c2d",
+        "selectionText": "#ffffff",
+        "shellTop": "#111214",
+        "shellBottom": "#070708",
+        "shellBorder": "#4d4f54",
+        "shellHighlight": "#7b7d82",
+        "headerStart": "#2b090e",
+        "headerEnd": "#090a0c",
+        "headerOverlay": "#090a0c",
+        "brand": "#f5f2f2",
+        "brandGlow": "#ab2637",
+        "headerRule": "#a82b3b",
+        "tagline": "#d8d5d6",
+        "navTop": "#292a2e",
+        "navMiddle": "#151619",
+        "navBottom": "#090a0b",
+        "navText": "#f1eeee",
+        "navBorder": "#4c4e53",
+        "navItemTop": "#37383d",
+        "navItemMiddle": "#1b1c20",
+        "navItemBottom": "#0c0d0f",
+        "navItemBorder": "#55575c",
+        "navActiveTop": "#7e2532",
+        "navActiveMiddle": "#50141d",
+        "navActiveBottom": "#27090e",
+        "navActiveBorder": "#b6434c",
+        "surfaceTop": "#25262a",
+        "surfaceBottom": "#16171a",
+        "surfaceBorder": "#505157",
+        "surfaceHighlight": "#3b3d42",
+        "panelHeaderTop": "#303136",
+        "panelHeaderMiddle": "#28292d",
+        "panelHeaderBottom": "#1d1e22",
+        "panelHeaderText": "#f1eff0",
+        "softFill": "#202125",
+        "divider": "#47484d",
+        "codeFill": "#0f1012",
+        "darkTop": "#202125",
+        "darkBottom": "#0c0d0f",
+        "darkBorder": "#484a50",
+        "darkText": "#f1efef",
+        "darkMuted": "#aaa7a8",
+        "darkLink": "#dbdbdb",
+        "darkDivider": "#414248",
+        "darkHover": "#521922",
+        "buttonTop": "#812d39",
+        "buttonMiddle": "#591722",
+        "buttonBottom": "#2d0a10",
+        "buttonBorder": "#9d3544",
+        "buttonText": "#ffffff",
+        "inputTop": "#303136",
+        "inputBottom": "#202125",
+        "inputBorder": "#67696f",
+        "inputText": "#f0eff0",
+        "accent": "#c53245",
+        "track": "#040405",
+        "trackBorder": "#484a4f",
+        "bannerTop": "#3e1a20",
+        "bannerBottom": "#101113",
+        "bannerBorder": "#5b5d62",
+        "bannerOverlay": "#050506",
+        "bannerText": "#ffffff",
+        "bannerCaption": "#b5b2b3",
+        "badgeTop": "#54232a",
+        "badgeBottom": "#351419",
+        "badgeBorder": "#8f3d49",
+        "badgeText": "#eadcda",
+        "spicyBg": "#681b29",
+        "spicyBorder": "#a93f49",
+        "spicyText": "#ffffff",
+        "heart": "#c92f3b",
+        "footerTop": "#202125",
+        "footerBottom": "#0c0d0f",
+        "footerBorder": "#4b4d52",
+        "footerText": "#d5d3d4",
+        "footerLink": "#dbdbdb"
+      },
+      "dark": {
+        "canvas": "#050506",
+        "canvasGlow": "#2b080e",
+        "text": "#ececed",
+        "muted": "#c7c7c7",
+        "link": "#dbdbdb",
+        "linkHover": "#757575",
+        "focus": "#94292e",
+        "selection": "#8e1c2d",
+        "selectionText": "#ffffff",
+        "shellTop": "#111214",
+        "shellBottom": "#070708",
+        "shellBorder": "#4d4f54",
+        "shellHighlight": "#7b7d82",
+        "headerStart": "#2b090e",
+        "headerEnd": "#090a0c",
+        "headerOverlay": "#090a0c",
+        "brand": "#f5f2f2",
+        "brandGlow": "#ab2637",
+        "headerRule": "#a82b3b",
+        "tagline": "#d8d5d6",
+        "navTop": "#292a2e",
+        "navMiddle": "#151619",
+        "navBottom": "#090a0b",
+        "navText": "#f1eeee",
+        "navBorder": "#4c4e53",
+        "navItemTop": "#37383d",
+        "navItemMiddle": "#1b1c20",
+        "navItemBottom": "#0c0d0f",
+        "navItemBorder": "#55575c",
+        "navActiveTop": "#7e2532",
+        "navActiveMiddle": "#50141d",
+        "navActiveBottom": "#27090e",
+        "navActiveBorder": "#b6434c",
+        "surfaceTop": "#25262a",
+        "surfaceBottom": "#16171a",
+        "surfaceBorder": "#505157",
+        "surfaceHighlight": "#3b3d42",
+        "panelHeaderTop": "#303136",
+        "panelHeaderMiddle": "#28292d",
+        "panelHeaderBottom": "#1d1e22",
+        "panelHeaderText": "#f1eff0",
+        "softFill": "#202125",
+        "divider": "#47484d",
+        "codeFill": "#0f1012",
+        "darkTop": "#202125",
+        "darkBottom": "#0c0d0f",
+        "darkBorder": "#484a50",
+        "darkText": "#f1efef",
+        "darkMuted": "#aaa7a8",
+        "darkLink": "#dbdbdb",
+        "darkDivider": "#414248",
+        "darkHover": "#521922",
+        "buttonTop": "#812d39",
+        "buttonMiddle": "#591722",
+        "buttonBottom": "#2d0a10",
+        "buttonBorder": "#9d3544",
+        "buttonText": "#ffffff",
+        "inputTop": "#303136",
+        "inputBottom": "#202125",
+        "inputBorder": "#67696f",
+        "inputText": "#f0eff0",
+        "accent": "#c53245",
+        "track": "#040405",
+        "trackBorder": "#484a4f",
+        "bannerTop": "#3e1a20",
+        "bannerBottom": "#101113",
+        "bannerBorder": "#5b5d62",
+        "bannerOverlay": "#050506",
+        "bannerText": "#ffffff",
+        "bannerCaption": "#b5b2b3",
+        "badgeTop": "#54232a",
+        "badgeBottom": "#351419",
+        "badgeBorder": "#8f3d49",
+        "badgeText": "#eadcda",
+        "spicyBg": "#681b29",
+        "spicyBorder": "#a93f49",
+        "spicyText": "#ffffff",
+        "heart": "#c92f3b",
+        "footerTop": "#202125",
+        "footerBottom": "#0c0d0f",
+        "footerBorder": "#4b4d52",
+        "footerText": "#d5d3d4",
+        "footerLink": "#dbdbdb"
+      }
+    },
+    "layout": {
+      "version": 3,
+      "grid": {
+        "gap": 12,
+        "maxWidth": "wide",
+        "align": "start"
+      },
+      "shell": [
+        {
+          "id": "header",
+          "type": "header",
+          "enabled": true,
+          "size": "standard"
+        },
+        {
+          "id": "navigation",
+          "type": "navigation",
+          "enabled": true,
+          "size": "standard"
+        },
+        {
+          "id": "main",
+          "type": "main",
+          "enabled": true,
+          "size": "standard"
+        },
+        {
+          "id": "footer",
+          "type": "footer",
+          "enabled": true,
+          "size": "standard"
+        }
+      ],
+      "home": {
+        "blocks": [
+          {
+            "id": "promo",
+            "enabled": true,
+            "title": "",
+            "surface": "none",
+            "desktop": {
+              "span": 12,
+              "start": 1
+            },
+            "tablet": {
+              "span": 8,
+              "start": 1
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "items",
+                "kind": "items",
+                "source": "banners",
+                "view": "rail",
+                "selection": "all",
+                "sort": "source",
+                "limit": 24,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": false,
+                "emptyText": "",
+                "entries": [],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          },
+          {
+            "id": "browse",
+            "enabled": true,
+            "title": "Browse",
+            "surface": "dark",
+            "desktop": {
+              "span": 2,
+              "start": 1
+            },
+            "tablet": {
+              "span": 4,
+              "start": 1
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "items",
+                "kind": "items",
+                "source": "games",
+                "view": "list",
+                "selection": "all",
+                "sort": "source",
+                "limit": 24,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": true,
+                "emptyText": "",
+                "entries": [],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          },
+          {
+            "id": "support",
+            "enabled": true,
+            "title": "Support",
+            "surface": "dark",
+            "desktop": {
+              "span": 7,
+              "start": 3
+            },
+            "tablet": {
+              "span": 4,
+              "start": 1
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "text",
+                "kind": "text",
+                "body": "The ko-fi page can be used if you want to send me a beverage worth exchange. I also do paid commissions that you will like it for sure!"
+              },
+              {
+                "id": "actions",
+                "kind": "items",
+                "source": "manual",
+                "view": "buttons",
+                "selection": "all",
+                "sort": "source",
+                "limit": 6,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": false,
+                "emptyText": "",
+                "entries": [
+                  {
+                    "id": "entry-1",
+                    "title": "Ko-fi",
+                    "url": "https://ko-fi.com/mugenrei",
+                    "summary": "",
+                    "image": ""
+                  },
+                  {
+                    "id": "entry-2",
+                    "title": "Commissions",
+                    "url": "https://ko-fi.com/mugenrei/commissions",
+                    "summary": "",
+                    "image": ""
+                  }
+                ],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          },
+          {
+            "id": "profiles",
+            "enabled": true,
+            "title": "My profiles",
+            "surface": "dark",
+            "desktop": {
+              "span": 7,
+              "start": 3
+            },
+            "tablet": {
+              "span": 4,
+              "start": 5
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "items",
+                "kind": "items",
+                "source": "social",
+                "view": "list",
+                "selection": "all",
+                "sort": "source",
+                "limit": 6,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": false,
+                "emptyText": "",
+                "entries": [],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          },
+          {
+            "id": "news",
+            "enabled": true,
+            "title": "Latest news",
+            "surface": "light",
+            "desktop": {
+              "span": 6,
+              "start": 3
+            },
+            "tablet": {
+              "span": 5,
+              "start": 4
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "items",
+                "kind": "items",
+                "source": "posts",
+                "view": "list",
+                "selection": "all",
+                "sort": "newest",
+                "limit": 6,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": true,
+                "emptyText": "",
+                "entries": [],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          },
+          {
+            "id": "featured",
+            "enabled": false,
+            "title": "Featured work",
+            "surface": "light",
+            "desktop": {
+              "span": 3,
+              "start": 10
+            },
+            "tablet": {
+              "span": 8,
+              "start": 1
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "items",
+                "kind": "items",
+                "source": "mods",
+                "view": "compact",
+                "selection": "featured",
+                "sort": "source",
+                "limit": 4,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": true,
+                "emptyText": "",
+                "entries": [],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          },
+          {
+            "id": "guides",
+            "enabled": true,
+            "title": "Modding notes & guides",
+            "surface": "light",
+            "desktop": {
+              "span": 3,
+              "start": 10
+            },
+            "tablet": {
+              "span": 4,
+              "start": 5
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "items",
+                "kind": "items",
+                "source": "guides",
+                "view": "list",
+                "selection": "all",
+                "sort": "source",
+                "limit": 6,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": true,
+                "emptyText": "",
+                "entries": [],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          },
+          {
+            "id": "tools",
+            "enabled": true,
+            "title": "At the workbench",
+            "surface": "dark",
+            "desktop": {
+              "span": 4,
+              "start": 9
+            },
+            "tablet": {
+              "span": 4,
+              "start": 1
+            },
+            "mobile": {
+              "span": 4,
+              "start": 1
+            },
+            "minHeight": 0,
+            "pieces": [
+              {
+                "id": "items",
+                "kind": "items",
+                "source": "tools",
+                "view": "compact",
+                "selection": "all",
+                "sort": "source",
+                "limit": 2,
+                "ids": [],
+                "game": "",
+                "category": "",
+                "search": "",
+                "showImages": true,
+                "showSummary": true,
+                "showDates": false,
+                "showAll": true,
+                "emptyText": "",
+                "entries": [],
+                "overrides": {}
+              }
+            ],
+            "design": {
+              "version": 1,
+              "base": {},
+              "tablet": {},
+              "mobile": {},
+              "css": ""
+            }
+          }
+        ]
+      }
+    }
+  },
+  "banners": [
+    {
+      "id": "mod-107",
+      "title": "Velvet Forge",
+      "subtitle": "Tales of Berseria Remastered",
+      "image": "/assets/banners/mod-107.webp",
+      "mobileImage": "",
+      "alt": "Velvet Forge",
+      "url": "/mods/107",
+      "order": 0,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "mod-106",
+      "title": "WW Zani",
+      "subtitle": "Shin Megami Tensei V: Vengeance",
+      "image": "/assets/banners/mod-106.webp",
+      "mobileImage": "",
+      "alt": "WW Zani",
+      "url": "/mods/106",
+      "order": 1,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "mod-104",
+      "title": "Fate Archer",
+      "subtitle": "Shin Megami Tensei V: Vengeance",
+      "image": "/assets/banners/mod-104.webp",
+      "mobileImage": "",
+      "alt": "Fate Archer",
+      "url": "/mods/104",
+      "order": 2,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "mod-103",
+      "title": "God Eater Ciel",
+      "subtitle": "Shin Megami Tensei V: Vengeance",
+      "image": "/assets/banners/mod-103.webp",
+      "mobileImage": "",
+      "alt": "God Eater Ciel",
+      "url": "/mods/103",
+      "order": 3,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "mod-100",
+      "title": "Demonica Tachi",
+      "subtitle": "Shin Megami Tensei V: Vengeance",
+      "image": "/assets/banners/mod-100.webp",
+      "mobileImage": "",
+      "alt": "Demonica Tachi",
+      "url": "/mods/100",
+      "order": 4,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "mod-99",
+      "title": "HSR Hyacine",
+      "subtitle": "Shin Megami Tensei V: Vengeance",
+      "image": "/assets/banners/mod-99.webp",
+      "mobileImage": "",
+      "alt": "HSR Hyacine",
+      "url": "/mods/99",
+      "order": 5,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "mod-98",
+      "title": "Eversoul Linzy Thanatos",
+      "subtitle": "Shin Megami Tensei V: Vengeance",
+      "image": "/assets/banners/mod-98.webp",
+      "mobileImage": "",
+      "alt": "Eversoul Linzy Thanatos",
+      "url": "/mods/98",
+      "order": 6,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    },
+    {
+      "id": "mod-96",
+      "title": "PGR Nanami Startrail",
+      "subtitle": "Shin Megami Tensei V: Vengeance",
+      "image": "/assets/banners/mod-96.webp",
+      "mobileImage": "",
+      "alt": "PGR Nanami Startrail",
+      "url": "/mods/96",
+      "order": 7,
+      "enabled": true,
+      "isSpicy": false,
+      "focalPoint": "50% 50%",
+      "startDate": "",
+      "endDate": ""
+    }
+  ],
+  "games": [
+    {
+      "id": 1,
+      "name": "Shin Megami Tensei V",
+      "shortName": "Shin Megami Tensei V",
+      "description": "",
+      "image": "",
+      "order": 0
+    },
+    {
+      "id": 2,
+      "name": "Shin Megami Tensei V: Vengeance",
+      "shortName": "Shin Megami Tensei V: Vengeance",
+      "description": "",
+      "image": "",
+      "order": 1
+    },
+    {
+      "id": 3,
+      "name": "Metaphor: ReFantazio",
+      "shortName": "Metaphor: ReFantazio",
+      "description": "",
+      "image": "",
+      "order": 2
+    },
+    {
+      "id": 4,
+      "name": "FINAL FANTASY VII REBIRTH",
+      "shortName": "FINAL FANTASY VII REBIRTH",
+      "description": "",
+      "image": "",
+      "order": 3
+    },
+    {
+      "id": 5,
+      "name": "Tales of Berseria Remastered",
+      "shortName": "Tales of Berseria Remastered",
+      "description": "",
+      "image": "",
+      "order": 4
+    }
+  ],
+  "posts": [],
+  "guides": [
+    {
+      "slug": "gamebanana-tutorials",
+      "title": "GameBanana tutorials",
+      "summary": "Tutorials published by mugenrei on GameBanana.",
+      "date": "",
+      "status": "published",
+      "category": "Tutorials",
+      "externalUrl": "https://gamebanana.com/members/submissions/tuts/2054898",
+      "source": "src/views/GuidesView.vue",
+      "body": "Tutorials that I posted on GameBanana.\n\n[Browse the tutorials](https://gamebanana.com/members/submissions/tuts/2054898)."
+    },
+    {
+      "slug": "modding-wiki",
+      "title": "Modding wiki",
+      "summary": "Game modding tutorials and reference notes on GitHub.",
+      "date": "",
+      "status": "published",
+      "category": "Tutorials",
+      "externalUrl": "https://github.com/mugenrei/mugenrei.github.io/wiki",
+      "source": "src/views/GuidesView.vue",
+      "body": "Most of the tutorials are in the GitHub Wiki.\n\n[Open the modding wiki](https://github.com/mugenrei/mugenrei.github.io/wiki)."
+    }
+  ],
+  "tools": [],
+  "widgetCss": ""
+}

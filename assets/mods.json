@@ -43,14 +43,32 @@
         "gamebanana": {
           "id": 346576,
           "url": "https://gamebanana.com/mods/346576",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 43,
+            "views": 27975,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61cc02af54e61.jpg",
+          "version": "1.0",
+          "dateAdded": 1640760464,
+          "dateModified": 1664236914,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Cleopatra_Newborn[1.00]#1#1",
+              "path": "SMTV/Demon/com_mugenrei_Cleopatra_Newborn[1.00]#1#1.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Cleopatra_Newborn%5B1.00%5D%231%231.7z"
+            },
+            {
+              "name": "com_mugenrei_Cleopatra_Newborn_LowTextures[1.00]#1#1",
+              "path": "SMTV/Demon/com_mugenrei_Cleopatra_Newborn_LowTextures[1.00]#1#1.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Cleopatra_Newborn_LowTextures%5B1.00%5D%231%231.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -79,14 +97,27 @@
         "gamebanana": {
           "id": 348219,
           "url": "https://gamebanana.com/mods/348219",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 43,
+            "views": 19142,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61d4bff021d69.jpg",
+          "version": "1.0",
+          "dateAdded": 1641333976,
+          "dateModified": 1664236938,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Ishtar_Newborn[1.00]#1#2",
+              "path": "SMTV/Demon/com_mugenrei_Ishtar_Newborn[1.00]#1#2.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ishtar_Newborn%5B1.00%5D%231%232.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -115,14 +146,32 @@
         "gamebanana": {
           "id": 349175,
           "url": "https://gamebanana.com/mods/349175",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 43,
+            "views": 23124,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61da1dd938b11.jpg",
+          "version": "1.0",
+          "dateAdded": 1641684941,
+          "dateModified": 1664236583,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Joka1st_Newborn[1.00]#1#3",
+              "path": "SMTV/Demon/com_mugenrei_Joka1st_Newborn[1.00]#1#3.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Newborn%5B1.00%5D%231%233.7z"
+            },
+            {
+              "name": "com_mugenrei_Joka1st_Newborn_LowTextures[1.00]#1#3",
+              "path": "SMTV/Demon/com_mugenrei_Joka1st_Newborn_LowTextures[1.00]#1#3.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Newborn_LowTextures%5B1.00%5D%231%233.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -151,14 +200,27 @@
         "gamebanana": {
           "id": 349945,
           "url": "https://gamebanana.com/mods/349945",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 42,
+            "views": 17776,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61deb9fd4343d.jpg",
+          "version": "1.0",
+          "dateAdded": 1641986864,
+          "dateModified": 1664236952,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Joka2nd_Newborn[1.00]#1#4",
+              "path": "SMTV/Demon/com_mugenrei_Joka2nd_Newborn[1.00]#1#4.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka2nd_Newborn%5B1.00%5D%231%234.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -185,14 +247,27 @@
         "gamebanana": {
           "id": 350380,
           "url": "https://gamebanana.com/mods/350380",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 18,
+            "views": 12900,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61e1650a33ccd.jpg",
+          "version": "1.0",
+          "dateAdded": 1642161779,
+          "dateModified": 1664236653,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Joka1st_Unveiled_NoSleeves[1.00]#1#5",
+              "path": "SMTV/Demon/com_mugenrei_Joka1st_Unveiled_NoSleeves[1.00]#1#5.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Unveiled_NoSleeves%5B1.00%5D%231%235.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -219,14 +294,27 @@
         "gamebanana": {
           "id": 350584,
           "url": "https://gamebanana.com/mods/350584",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 23,
+            "views": 12299,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61e27673df35c.jpg",
+          "version": "1.03",
+          "dateAdded": 1642231665,
+          "dateModified": 1643529073,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Abdiel2nd_JuriHanMecha[1.03]#1#6",
+              "path": "SMTV/Demon/com_mugenrei_Abdiel2nd_JuriHanMecha[1.03]#1#6.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Abdiel2nd_JuriHanMecha%5B1.03%5D%231%236.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -255,14 +343,32 @@
         "gamebanana": {
           "id": 351930,
           "url": "https://gamebanana.com/mods/351930",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 52,
+            "views": 20436,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61ea505f2e48f.jpg",
+          "version": "1.0",
+          "dateAdded": 1642746209,
+          "dateModified": 1664236981,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Succubus_Newborn[1.00]#1#7",
+              "path": "SMTV/Demon/com_mugenrei_Succubus_Newborn[1.00]#1#7.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Succubus_Newborn%5B1.00%5D%231%237.7z"
+            },
+            {
+              "name": "com_mugenrei_Succubus_Newborn_Thicc[1.00]#1#7",
+              "path": "SMTV/Demon/com_mugenrei_Succubus_Newborn_Thicc[1.00]#1#7.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Succubus_Newborn_Thicc%5B1.00%5D%231%237.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -291,14 +397,37 @@
         "gamebanana": {
           "id": 352748,
           "url": "https://gamebanana.com/mods/352748",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 54,
+            "views": 31042,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61eee45565d17.jpg",
+          "version": "1.10",
+          "dateAdded": 1643046560,
+          "dateModified": 1712894013,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Mermaid_Newborn[1.10]#1#8",
+              "path": "SMTV/Demon/com_mugenrei_Mermaid_Newborn[1.10]#1#8.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mermaid_Newborn%5B1.10%5D%231%238.7z"
+            },
+            {
+              "name": "com_mugenrei_Mermaid_Newborn_Thicc[1.10]#1#8",
+              "path": "SMTV/Demon/com_mugenrei_Mermaid_Newborn_Thicc[1.10]#1#8.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mermaid_Newborn_Thicc%5B1.10%5D%231%238.7z"
+            },
+            {
+              "name": "com_mugenrei_Mermaid_Newborn_z_PinkNips[1.10]#1#8",
+              "path": "SMTV/Demon/com_mugenrei_Mermaid_Newborn_z_PinkNips[1.10]#1#8.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mermaid_Newborn_z_PinkNips%5B1.10%5D%231%238.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -325,14 +454,27 @@
         "gamebanana": {
           "id": 354227,
           "url": "https://gamebanana.com/mods/354227",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 43,
+            "views": 27987,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61f63fee155c3.jpg",
+          "version": "1.0",
+          "dateAdded": 1643528565,
+          "dateModified": 1643529777,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_MotherHarlot_Bowsette[1.00]#1#9",
+              "path": "SMTV/Demon/com_mugenrei_MotherHarlot_Bowsette[1.00]#1#9.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_MotherHarlot_Bowsette%5B1.00%5D%231%239.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -359,14 +501,27 @@
         "gamebanana": {
           "id": 355539,
           "url": "https://gamebanana.com/mods/355539",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 7,
+            "views": 8713,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/61fdae506b29e.jpg",
+          "version": "1.00",
+          "dateAdded": 1644015540,
+          "dateModified": 1644015540,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_CuChulainn_Fate[1.00]#1#10",
+              "path": "SMTV/Demon/com_mugenrei_CuChulainn_Fate[1.00]#1#10.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_CuChulainn_Fate%5B1.00%5D%231%2310.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -393,14 +548,27 @@
         "gamebanana": {
           "id": 356586,
           "url": "https://gamebanana.com/mods/356586",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 12,
+            "views": 9191,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6203cabc04bf2.jpg",
+          "version": "1.05",
+          "dateAdded": 1644416170,
+          "dateModified": 1644416170,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Zeus_MechaNemesisOC[1.05]#1#11",
+              "path": "SMTV/Demon/com_mugenrei_Zeus_MechaNemesisOC[1.05]#1#11.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_MechaNemesisOC%5B1.05%5D%231%2311.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -427,14 +595,27 @@
         "gamebanana": {
           "id": 359625,
           "url": "https://gamebanana.com/mods/359625",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 17,
+            "views": 11883,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6214544976961.jpg",
+          "version": "1.00",
+          "dateAdded": 1645499897,
+          "dateModified": 1645650609,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Joka1st_Ahri[1.00]#1#12",
+              "path": "SMTV/Demon/com_mugenrei_Joka1st_Ahri[1.00]#1#12.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Joka1st_Ahri%5B1.00%5D%231%2312.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -463,14 +644,37 @@
         "gamebanana": {
           "id": 362023,
           "url": "https://gamebanana.com/mods/362023",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 35,
+            "views": 17778,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/622225bda092c.jpg",
+          "version": "1.00",
+          "dateAdded": 1646405924,
+          "dateModified": 1675791022,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Artemis_Newborn[1.00]#1#13",
+              "path": "SMTV/Demon/com_mugenrei_Artemis_Newborn[1.00]#1#13.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Artemis_Newborn%5B1.00%5D%231%2313.7z"
+            },
+            {
+              "name": "com_mugenrei_Artemis_Newborn_Thicc[1.00]#1#13",
+              "path": "SMTV/Demon/com_mugenrei_Artemis_Newborn_Thicc[1.00]#1#13.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Artemis_Newborn_Thicc%5B1.00%5D%231%2313.7z"
+            },
+            {
+              "name": "com_mugenrei_Artemis_Newborn_z_PinkNips[1.00]#1#13",
+              "path": "SMTV/Demon/com_mugenrei_Artemis_Newborn_z_PinkNips[1.00]#1#13.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Artemis_Newborn_z_PinkNips%5B1.00%5D%231%2313.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -497,14 +701,32 @@
         "gamebanana": {
           "id": 366061,
           "url": "https://gamebanana.com/mods/366061",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 27,
+            "views": 18429,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/62396942a691a.jpg",
+          "version": "1.2",
+          "dateAdded": 1647931448,
+          "dateModified": 1669900957,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Idun_Booette[1.20]#1#14",
+              "path": "SMTV/Demon/com_mugenrei_Idun_Booette[1.20]#1#14.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Booette%5B1.20%5D%231%2314.7z"
+            },
+            {
+              "name": "com_mugenrei_Idun_Booette_LowTextures[1.20]#1#14",
+              "path": "SMTV/Demon/com_mugenrei_Idun_Booette_LowTextures[1.20]#1#14.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Booette_LowTextures%5B1.20%5D%231%2314.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -531,14 +753,27 @@
         "gamebanana": {
           "id": 367883,
           "url": "https://gamebanana.com/mods/367883",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 15,
+            "views": 18308,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/62445f72059fe.jpg",
+          "version": "1.10",
+          "dateAdded": 1648648409,
+          "dateModified": 1655566688,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Ishtar_Fate[1.10]#1#15",
+              "path": "SMTV/Demon/com_mugenrei_Ishtar_Fate[1.10]#1#15.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ishtar_Fate%5B1.10%5D%231%2315.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -565,14 +800,32 @@
         "gamebanana": {
           "id": 393984,
           "url": "https://gamebanana.com/mods/393984",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 11,
+            "views": 6029,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/62ec68eb67da6.jpg",
+          "version": "1.06",
+          "dateAdded": 1659660946,
+          "dateModified": 1659662722,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Atavaka_Sun[1.06]#1#16",
+              "path": "SMTV/Demon/com_mugenrei_Atavaka_Sun[1.06]#1#16.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Atavaka_Sun%5B1.06%5D%231%2316.7z"
+            },
+            {
+              "name": "com_mugenrei_Atavaka_Sun_LowTextures[1.06]#1#16",
+              "path": "SMTV/Demon/com_mugenrei_Atavaka_Sun_LowTextures[1.06]#1#16.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Atavaka_Sun_LowTextures%5B1.06%5D%231%2316.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -599,14 +852,27 @@
         "gamebanana": {
           "id": 393988,
           "url": "https://gamebanana.com/mods/393988",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 9,
+            "views": 7406,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/62ec6fd23dec8.jpg",
+          "version": "1.00",
+          "dateAdded": 1659662414,
+          "dateModified": 1659662414,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_HellsAngel_Yusei[1.00]#1#17",
+              "path": "SMTV/Demon/com_mugenrei_HellsAngel_Yusei[1.00]#1#17.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Yusei%5B1.00%5D%231%2317.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -633,14 +899,37 @@
         "gamebanana": {
           "id": 396723,
           "url": "https://gamebanana.com/mods/396723",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 42,
+            "views": 30769,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/62fd6cc031d16.jpg",
+          "version": "1.20",
+          "dateAdded": 1660776145,
+          "dateModified": 1660776474,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Amanozako_NyoC7[1.20]#1#18",
+              "path": "SMTV/Demon/com_mugenrei_Amanozako_NyoC7[1.20]#1#18.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Amanozako_NyoC7%5B1.20%5D%231%2318.7z"
+            },
+            {
+              "name": "com_mugenrei_Amanozako_NyoC7_BigGirl_Patch[1.05]#1#18",
+              "path": "SMTV/Demon/com_mugenrei_Amanozako_NyoC7_BigGirl_Patch[1.05]#1#18.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Amanozako_NyoC7_BigGirl_Patch%5B1.05%5D%231%2318.7z"
+            },
+            {
+              "name": "com_mugenrei_Amanozako_NyoC7_LowTextures[1.20]#1#18",
+              "path": "SMTV/Demon/com_mugenrei_Amanozako_NyoC7_LowTextures[1.20]#1#18.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Amanozako_NyoC7_LowTextures%5B1.20%5D%231%2318.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -667,14 +956,32 @@
         "gamebanana": {
           "id": 402632,
           "url": "https://gamebanana.com/mods/402632",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 14,
+            "views": 25977,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6328d5ac92565.jpg",
+          "version": "1.06",
+          "dateAdded": 1663621149,
+          "dateModified": 1663631349,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Ookuninushi_RyoReiki[1.06]#1#19",
+              "path": "SMTV/Demon/com_mugenrei_Ookuninushi_RyoReiki[1.06]#1#19.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ookuninushi_RyoReiki%5B1.06%5D%231%2319.7z"
+            },
+            {
+              "name": "com_mugenrei_Ookuninushi_RyoReiki_LowTextures[1.06]#1#19",
+              "path": "SMTV/Demon/com_mugenrei_Ookuninushi_RyoReiki_LowTextures[1.06]#1#19.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ookuninushi_RyoReiki_LowTextures%5B1.06%5D%231%2319.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -701,14 +1008,32 @@
         "gamebanana": {
           "id": 402644,
           "url": "https://gamebanana.com/mods/402644",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 14,
+            "views": 6350,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6328e8f550d9b.jpg",
+          "version": "1.00",
+          "dateAdded": 1663625666,
+          "dateModified": 1663631376,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Kali_Smite[1.00]#1#20",
+              "path": "SMTV/Demon/com_mugenrei_Kali_Smite[1.00]#1#20.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Kali_Smite%5B1.00%5D%231%2320.7z"
+            },
+            {
+              "name": "com_mugenrei_Kali_Smite_LowTextures[1.00]#1#20",
+              "path": "SMTV/Demon/com_mugenrei_Kali_Smite_LowTextures[1.00]#1#20.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Kali_Smite_LowTextures%5B1.00%5D%231%2320.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -735,14 +1060,32 @@
         "gamebanana": {
           "id": 408951,
           "url": "https://gamebanana.com/mods/408951",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 8,
+            "views": 4370,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/635b24caa2b69.jpg",
+          "version": "1.01",
+          "dateAdded": 1666918293,
+          "dateModified": 1666918390,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Inanna_Astarte[1.01]#1#21",
+              "path": "SMTV/Demon/com_mugenrei_Inanna_Astarte[1.01]#1#21.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Inanna_Astarte%5B1.01%5D%231%2321.7z"
+            },
+            {
+              "name": "com_mugenrei_Inanna_Astarte_S[1.01]#1#21",
+              "path": "SMTV/Demon/com_mugenrei_Inanna_Astarte_S[1.01]#1#21.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Inanna_Astarte_S%5B1.01%5D%231%2321.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -769,14 +1112,27 @@
         "gamebanana": {
           "id": 415891,
           "url": "https://gamebanana.com/mods/415891",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 17,
+            "views": 10108,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/639201309eed1.jpg",
+          "version": "1.00",
+          "dateAdded": 1670513321,
+          "dateModified": 1670513321,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Alice_Lavenza[1.00]#1#22",
+              "path": "SMTV/Demon/com_mugenrei_Alice_Lavenza[1.00]#1#22.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Alice_Lavenza%5B1.00%5D%231%2322.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -803,14 +1159,32 @@
         "gamebanana": {
           "id": 416473,
           "url": "https://gamebanana.com/mods/416473",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 12,
+            "views": 14674,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6396a7f1bde61.jpg",
+          "version": "1.01",
+          "dateAdded": 1670818026,
+          "dateModified": 1670818026,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Orobas_Dehya[1.01]#1#23",
+              "path": "SMTV/Demon/com_mugenrei_Orobas_Dehya[1.01]#1#23.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Orobas_Dehya%5B1.01%5D%231%2323.7z"
+            },
+            {
+              "name": "com_mugenrei_Orobas_Dehya_WithSkillTable[1.01]#1#23",
+              "path": "SMTV/Demon/com_mugenrei_Orobas_Dehya_WithSkillTable[1.01]#1#23.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Orobas_Dehya_WithSkillTable%5B1.01%5D%231%2323.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -837,14 +1211,27 @@
         "gamebanana": {
           "id": 455289,
           "url": "https://gamebanana.com/mods/455289",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 10,
+            "views": 4010,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/64ac1d65ba5be.jpg",
+          "version": "1.00",
+          "dateAdded": 1689001625,
+          "dateModified": 1712893814,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Mithras_TateEboshi[1.00]#1#24",
+              "path": "SMTV/Demon/com_mugenrei_Mithras_TateEboshi[1.00]#1#24.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Mithras_TateEboshi%5B1.00%5D%231%2324.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -871,14 +1258,27 @@
         "gamebanana": {
           "id": 455291,
           "url": "https://gamebanana.com/mods/455291",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 11,
+            "views": 8225,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/64ac21eecd3a6.jpg",
+          "version": "1.11",
+          "dateAdded": 1689002742,
+          "dateModified": 1712893513,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Idun_Ereshkigal[1.11]#1#25",
+              "path": "SMTV/Demon/com_mugenrei_Idun_Ereshkigal[1.11]#1#25.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Idun_Ereshkigal%5B1.11%5D%231%2325.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -905,14 +1305,27 @@
         "gamebanana": {
           "id": 506744,
           "url": "https://gamebanana.com/mods/506744",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 22,
+            "views": 10629,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6618855a44893.jpg",
+          "version": "1.00",
+          "dateAdded": 1712883150,
+          "dateModified": 1712893477,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Hariti_Hades[1.00]#1#26",
+              "path": "SMTV/Demon/com_mugenrei_Hariti_Hades[1.00]#1#26.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Hariti_Hades%5B1.00%5D%231%2326.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -939,14 +1352,27 @@
         "gamebanana": {
           "id": 506747,
           "url": "https://gamebanana.com/mods/506747",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 6,
+            "views": 3460,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6618897c108cf.jpg",
+          "version": "1.00",
+          "dateAdded": 1712884193,
+          "dateModified": 1712893428,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Ose_Nameless[1.00]#1#27",
+              "path": "SMTV/Demon/com_mugenrei_Ose_Nameless[1.00]#1#27.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Ose_Nameless%5B1.00%5D%231%2327.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -973,14 +1399,32 @@
         "gamebanana": {
           "id": 513372,
           "url": "https://gamebanana.com/mods/513372",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 12,
+            "views": 3524,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6641d1738de11.jpg",
+          "version": "1.00",
+          "dateAdded": 1715589654,
+          "dateModified": 1715778208,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Zeus_Kuroi[1.00]#1#28",
+              "path": "SMTV/Demon/com_mugenrei_Zeus_Kuroi[1.00]#1#28.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_Kuroi%5B1.00%5D%231%2328.7z"
+            },
+            {
+              "name": "com_mugenrei_Zeus_Shiroi[1.00]#1#28",
+              "path": "SMTV/Demon/com_mugenrei_Zeus_Shiroi[1.00]#1#28.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Zeus_Shiroi%5B1.00%5D%231%2328.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -1007,14 +1451,27 @@
         "gamebanana": {
           "id": 515646,
           "url": "https://gamebanana.com/mods/515646",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 10,
+            "views": 4039,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/665163df39215.jpg",
+          "version": "1.00",
+          "dateAdded": 1716610470,
+          "dateModified": 1716610470,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_Fionn_Ike[1.00]#1#29",
+              "path": "SMTV/Demon/com_mugenrei_Fionn_Ike[1.00]#1#29.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_Fionn_Ike%5B1.00%5D%231%2329.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -1041,14 +1498,32 @@
         "gamebanana": {
           "id": 516897,
           "url": "https://gamebanana.com/mods/516897",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 17,
+            "views": 8399,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/665873845793d.jpg",
+          "version": "1.15",
+          "dateAdded": 1717073018,
+          "dateModified": 1717073076,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_HellsAngel_Queen[1.15]#1#30",
+              "path": "SMTV/Demon/com_mugenrei_HellsAngel_Queen[1.15]#1#30.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Queen%5B1.15%5D%231%2330.7z"
+            },
+            {
+              "name": "com_mugenrei_HellsAngel_Queen_S[1.15]#1#30",
+              "path": "SMTV/Demon/com_mugenrei_HellsAngel_Queen_S[1.15]#1#30.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMTV/Demon/com_mugenrei_HellsAngel_Queen_S%5B1.15%5D%231%2330.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -1075,12 +1550,17 @@
         "gamebanana": {
           "id": 520542,
           "url": "https://gamebanana.com/mods/520542",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 186,
+            "views": 38027,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/666c53aeb248a.jpg",
+          "version": "2.20",
+          "dateAdded": 1718376013,
+          "dateModified": 1718618199,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1109,12 +1589,17 @@
         "gamebanana": {
           "id": 520563,
           "url": "https://gamebanana.com/mods/520563",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 25,
+            "views": 14628,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/666c6a4fece1e.jpg",
+          "version": "2.05",
+          "dateAdded": 1718381486,
+          "dateModified": 1719843263,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1143,12 +1628,17 @@
         "gamebanana": {
           "id": 521914,
           "url": "https://gamebanana.com/mods/521914",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 168,
+            "views": 67010,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/666ec4c4d0d6a.jpg",
+          "version": "1.00",
+          "dateAdded": 1718535487,
+          "dateModified": 1737469255,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1177,12 +1667,17 @@
         "gamebanana": {
           "id": 522563,
           "url": "https://gamebanana.com/mods/522563",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 175,
+            "views": 30500,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6672abd815757.jpg",
+          "version": "1.01",
+          "dateAdded": 1718791220,
+          "dateModified": 1718887034,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1211,12 +1706,17 @@
         "gamebanana": {
           "id": 523082,
           "url": "https://gamebanana.com/mods/523082",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 32,
+            "views": 6407,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66760c5f147b0.jpg",
+          "version": "2.00",
+          "dateAdded": 1719012675,
+          "dateModified": 1719012675,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1245,12 +1745,17 @@
         "gamebanana": {
           "id": 523792,
           "url": "https://gamebanana.com/mods/523792",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 70,
+            "views": 17376,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/667a25af0690a.jpg",
+          "version": "2.01",
+          "dateAdded": 1719285133,
+          "dateModified": 1719403500,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1279,12 +1784,17 @@
         "gamebanana": {
           "id": 523806,
           "url": "https://gamebanana.com/mods/523806",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 72,
+            "views": 15673,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/667a4b9783562.jpg",
+          "version": "1.00",
+          "dateAdded": 1719291197,
+          "dateModified": 1719291197,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1313,12 +1823,17 @@
         "gamebanana": {
           "id": 524459,
           "url": "https://gamebanana.com/mods/524459",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 198,
+            "views": 44383,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/667eef5d713db.jpg",
+          "version": "1.02",
+          "dateAdded": 1719595420,
+          "dateModified": 1761382660,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1347,12 +1862,17 @@
         "gamebanana": {
           "id": 526732,
           "url": "https://gamebanana.com/mods/526732",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 82,
+            "views": 15113,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/668c8c6ec74dc.jpg",
+          "version": "1.00",
+          "dateAdded": 1720484684,
+          "dateModified": 1720489650,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1381,12 +1901,17 @@
         "gamebanana": {
           "id": 526746,
           "url": "https://gamebanana.com/mods/526746",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 104,
+            "views": 17784,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/668c937110fc2.jpg",
+          "version": "1.00",
+          "dateAdded": 1720489466,
+          "dateModified": 1720489466,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1415,12 +1940,17 @@
         "gamebanana": {
           "id": 527164,
           "url": "https://gamebanana.com/mods/527164",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 44,
+            "views": 17607,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/668f316c0a580.jpg",
+          "version": "1.01",
+          "dateAdded": 1720660763,
+          "dateModified": 1731193047,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1449,12 +1979,17 @@
         "gamebanana": {
           "id": 527636,
           "url": "https://gamebanana.com/mods/527636",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 31,
+            "views": 16026,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6691f3483e2b7.jpg",
+          "version": "1.01",
+          "dateAdded": 1720841106,
+          "dateModified": 1731193491,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1483,12 +2018,17 @@
         "gamebanana": {
           "id": 528453,
           "url": "https://gamebanana.com/mods/528453",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 91,
+            "views": 17163,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6696b8e336558.jpg",
+          "version": "1.11",
+          "dateAdded": 1721153987,
+          "dateModified": 1721233809,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1517,12 +2057,17 @@
         "gamebanana": {
           "id": 528683,
           "url": "https://gamebanana.com/mods/528683",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 91,
+            "views": 15730,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66980781c21e6.jpg",
+          "version": "2.00",
+          "dateAdded": 1721239361,
+          "dateModified": 1721290781,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1551,12 +2096,17 @@
         "gamebanana": {
           "id": 529640,
           "url": "https://gamebanana.com/mods/529640",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 84,
+            "views": 15214,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/669d4c7d30ffd.jpg",
+          "version": "1.10",
+          "dateAdded": 1721585295,
+          "dateModified": 1721684306,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1585,12 +2135,17 @@
         "gamebanana": {
           "id": 529694,
           "url": "https://gamebanana.com/mods/529694",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 50,
+            "views": 18940,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/669d8214e619f.jpg",
+          "version": "2.02",
+          "dateAdded": 1721598699,
+          "dateModified": 1746822619,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1619,12 +2174,17 @@
         "gamebanana": {
           "id": 530182,
           "url": "https://gamebanana.com/mods/530182",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 128,
+            "views": 45329,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66a067532b506.jpg",
+          "version": "1.00",
+          "dateAdded": 1721788682,
+          "dateModified": 1721788682,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1653,12 +2213,17 @@
         "gamebanana": {
           "id": 531429,
           "url": "https://gamebanana.com/mods/531429",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 64,
+            "views": 16250,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66a994e33da45.jpg",
+          "version": "2.02",
+          "dateAdded": 1722206129,
+          "dateModified": 1731193994,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1687,12 +2252,17 @@
         "gamebanana": {
           "id": 531431,
           "url": "https://gamebanana.com/mods/531431",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 32,
+            "views": 8746,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66a6ca096eeb9.jpg",
+          "version": "2.01",
+          "dateAdded": 1722206809,
+          "dateModified": 1731193781,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1721,12 +2291,17 @@
         "gamebanana": {
           "id": 531664,
           "url": "https://gamebanana.com/mods/531664",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 71,
+            "views": 18767,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66a80f1985fd5.jpg",
+          "version": "2.01",
+          "dateAdded": 1722290626,
+          "dateModified": 1731193883,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1755,12 +2330,17 @@
         "gamebanana": {
           "id": 533254,
           "url": "https://gamebanana.com/mods/533254",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 105,
+            "views": 31646,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66b0bca8b35b7.jpg",
+          "version": "2.01",
+          "dateAdded": 1722858825,
+          "dateModified": 1731194145,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1789,12 +2369,17 @@
         "gamebanana": {
           "id": 533660,
           "url": "https://gamebanana.com/mods/533660",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 91,
+            "views": 17053,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66b2ad3d392e6.jpg",
+          "version": "1.02",
+          "dateAdded": 1722986051,
+          "dateModified": 1723037842,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1823,12 +2408,17 @@
         "gamebanana": {
           "id": 535610,
           "url": "https://gamebanana.com/mods/535610",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 43,
+            "views": 20580,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66bea9df02710.jpg",
+          "version": "1.01",
+          "dateAdded": 1723771523,
+          "dateModified": 1746822629,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1857,12 +2447,17 @@
         "gamebanana": {
           "id": 537175,
           "url": "https://gamebanana.com/mods/537175",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 65,
+            "views": 19585,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66c76bd6963de.jpg",
+          "version": "1.03",
+          "dateAdded": 1724346230,
+          "dateModified": 1746822641,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1891,12 +2486,17 @@
         "gamebanana": {
           "id": 538498,
           "url": "https://gamebanana.com/mods/538498",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 31,
+            "views": 6103,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66cf339cde2e9.jpg",
+          "version": "2.11",
+          "dateAdded": 1724855555,
+          "dateModified": 1746822671,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1925,12 +2525,17 @@
         "gamebanana": {
           "id": 538804,
           "url": "https://gamebanana.com/mods/538804",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 53,
+            "views": 20000,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66d1007f28700.jpg",
+          "version": "2.02",
+          "dateAdded": 1724973391,
+          "dateModified": 1736379176,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1959,12 +2564,17 @@
         "gamebanana": {
           "id": 539781,
           "url": "https://gamebanana.com/mods/539781",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 32,
+            "views": 6824,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66d65cf017ce2.jpg",
+          "version": "2.07",
+          "dateAdded": 1725324885,
+          "dateModified": 1731194683,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -1993,12 +2603,17 @@
         "gamebanana": {
           "id": 541956,
           "url": "https://gamebanana.com/mods/541956",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 23,
+            "views": 16113,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66e4b2a86474d.jpg",
+          "version": "1.01",
+          "dateAdded": 1726264487,
+          "dateModified": 1746822675,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2027,12 +2642,17 @@
         "gamebanana": {
           "id": 542916,
           "url": "https://gamebanana.com/mods/542916",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 84,
+            "views": 27017,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66ea13b6d7b29.jpg",
+          "version": "1.01",
+          "dateAdded": 1726617006,
+          "dateModified": 1746822688,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2061,12 +2681,17 @@
         "gamebanana": {
           "id": 543437,
           "url": "https://gamebanana.com/mods/543437",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 91,
+            "views": 25599,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/66ee460130ac2.jpg",
+          "version": "1.03",
+          "dateAdded": 1726891727,
+          "dateModified": 1735336702,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2124,12 +2749,17 @@
         "gamebanana": {
           "id": 546286,
           "url": "https://gamebanana.com/mods/546286",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 77,
+            "views": 20110,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6744bd9eab21f.jpg",
+          "version": "2.50",
+          "dateAdded": 1727986068,
+          "dateModified": 1732558708,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2158,12 +2788,17 @@
         "gamebanana": {
           "id": 547332,
           "url": "https://gamebanana.com/mods/547332",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 71,
+            "views": 10875,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6704e581a89e1.jpg",
+          "version": "1.00",
+          "dateAdded": 1728374209,
+          "dateModified": 1728374417,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2192,12 +2827,17 @@
         "gamebanana": {
           "id": 549306,
           "url": "https://gamebanana.com/mods/549306",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 76,
+            "views": 20437,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6711d87d6a010.jpg",
+          "version": "1.01",
+          "dateAdded": 1729222903,
+          "dateModified": 1731195252,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2226,12 +2866,17 @@
         "gamebanana": {
           "id": 550808,
           "url": "https://gamebanana.com/mods/550808",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 79,
+            "views": 28508,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/671adbb2198b8.jpg",
+          "version": "1.0.0",
+          "dateAdded": 1729814039,
+          "dateModified": 1729885494,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2260,12 +2905,17 @@
         "gamebanana": {
           "id": 553855,
           "url": "https://gamebanana.com/mods/553855",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 32,
+            "views": 9694,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/672adf7139d5b.jpg",
+          "version": "2.01",
+          "dateAdded": 1730863656,
+          "dateModified": 1746822696,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2294,12 +2944,17 @@
         "gamebanana": {
           "id": 554946,
           "url": "https://gamebanana.com/mods/554946",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 66,
+            "views": 9547,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/67316de67d384.jpg",
+          "version": "1.00",
+          "dateAdded": 1731294593,
+          "dateModified": 1731294623,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2328,12 +2983,17 @@
         "gamebanana": {
           "id": 559663,
           "url": "https://gamebanana.com/mods/559663",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 25,
+            "views": 8394,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/674c963202e42.jpg",
+          "version": "1.00",
+          "dateAdded": 1733073020,
+          "dateModified": 1733073020,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2362,12 +3022,17 @@
         "gamebanana": {
           "id": 561900,
           "url": "https://gamebanana.com/mods/561900",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 58,
+            "views": 12662,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/675bf4c564384.jpg",
+          "version": "1.00",
+          "dateAdded": 1734079823,
+          "dateModified": 1734080308,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2396,12 +3061,17 @@
         "gamebanana": {
           "id": 563288,
           "url": "https://gamebanana.com/mods/563288",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 41,
+            "views": 11337,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6764f0c014a5b.jpg",
+          "version": "1.00",
+          "dateAdded": 1734668643,
+          "dateModified": 1734668643,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2430,12 +3100,17 @@
         "gamebanana": {
           "id": 564428,
           "url": "https://gamebanana.com/mods/564428",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 50,
+            "views": 16867,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/676b1baca5499.jpg",
+          "version": "1.00",
+          "dateAdded": 1735072808,
+          "dateModified": 1746822706,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2464,12 +3139,17 @@
         "gamebanana": {
           "id": 569008,
           "url": "https://gamebanana.com/mods/569008",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 69,
+            "views": 10941,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6787985176b6b.jpg",
+          "version": "1.05",
+          "dateAdded": 1736939848,
+          "dateModified": 1736939848,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2498,12 +3178,17 @@
         "gamebanana": {
           "id": 569453,
           "url": "https://gamebanana.com/mods/569453",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 30,
+            "views": 8289,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/678a9e0920abb.jpg",
+          "version": "1.01",
+          "dateAdded": 1737137934,
+          "dateModified": 1737213552,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2532,12 +3217,17 @@
         "gamebanana": {
           "id": 569642,
           "url": "https://gamebanana.com/mods/569642",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 60,
+            "views": 8322,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/678bba4b9f2a8.jpg",
+          "version": "1.02",
+          "dateAdded": 1737211101,
+          "dateModified": 1737213575,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2566,12 +3256,17 @@
         "gamebanana": {
           "id": 573258,
           "url": "https://gamebanana.com/mods/573258",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 49,
+            "views": 22742,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/67a154c681b94.jpg",
+          "version": "1.02",
+          "dateAdded": 1738626966,
+          "dateModified": 1746822714,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2600,12 +3295,17 @@
         "gamebanana": {
           "id": 575769,
           "url": "https://gamebanana.com/mods/575769",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 64,
+            "views": 21834,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/67b1497f6d5a1.jpg",
+          "version": "1.00",
+          "dateAdded": 1739672239,
+          "dateModified": 1739680450,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2634,12 +3334,17 @@
         "gamebanana": {
           "id": 579356,
           "url": "https://gamebanana.com/mods/579356",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 48,
+            "views": 13763,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/67c82427645d7.jpg",
+          "version": "1.00",
+          "dateAdded": 1741169982,
+          "dateModified": 1741169982,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2668,12 +3373,17 @@
         "gamebanana": {
           "id": 580443,
           "url": "https://gamebanana.com/mods/580443",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 73,
+            "views": 14265,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/67f82bfeaca3f.jpg",
+          "version": "1.11",
+          "dateAdded": 1741549475,
+          "dateModified": 1744317890,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2729,12 +3439,17 @@
         "gamebanana": {
           "id": 584573,
           "url": "https://gamebanana.com/mods/584573",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 35,
+            "views": 14432,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/67e782c2d3d7e.jpg",
+          "version": "1.10",
+          "dateAdded": 1743225585,
+          "dateModified": 1743225585,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2769,12 +3484,17 @@
         "gamebanana": {
           "id": 588175,
           "url": "https://gamebanana.com/mods/588175",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 78,
+            "views": 11754,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/67fc283d7dcae.jpg",
+          "version": "1.11",
+          "dateAdded": 1744579182,
+          "dateModified": 1744579182,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2803,14 +3523,37 @@
         "gamebanana": {
           "id": 592955,
           "url": "https://gamebanana.com/mods/592955",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 43,
+            "views": 15149,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/681a76a0b7ed7.jpg",
+          "version": "1.02",
+          "dateAdded": 1746564920,
+          "dateModified": 1746564920,
+          "category": "Mod",
+          "isSpicy": false
         },
-        "github": null,
+        "github": {
+          "files": [
+            {
+              "name": "com_mugenrei_PaleRider_DeadMaster[1.02]#2#82",
+              "path": "SMT5V/Demon/com_mugenrei_PaleRider_DeadMaster[1.02]#2#82.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMT5V/Demon/com_mugenrei_PaleRider_DeadMaster%5B1.02%5D%232%2382.7z"
+            },
+            {
+              "name": "com_mugenrei_PaleRider_DeadMaster_2012Anime[VoicePack]#2#82",
+              "path": "SMT5V/Demon/com_mugenrei_PaleRider_DeadMaster_2012Anime[VoicePack]#2#82.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMT5V/Demon/com_mugenrei_PaleRider_DeadMaster_2012Anime%5BVoicePack%5D%232%2382.7z"
+            },
+            {
+              "name": "com_mugenrei_PaleRider_DeadMaster_DawnFall[VoicePack]#2#82",
+              "path": "SMT5V/Demon/com_mugenrei_PaleRider_DeadMaster_DawnFall[VoicePack]#2#82.7z",
+              "url": "https://raw.githubusercontent.com/mugenrei/mods/main/SMT5V/Demon/com_mugenrei_PaleRider_DeadMaster_DawnFall%5BVoicePack%5D%232%2382.7z"
+            }
+          ]
+        },
         "nexusmods": null
       },
       "submitter": {
@@ -2837,12 +3580,17 @@
         "gamebanana": {
           "id": 595702,
           "url": "https://gamebanana.com/mods/595702",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 26,
+            "views": 12267,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/682d78bd3a39b.jpg",
+          "version": "1.20",
+          "dateAdded": 1747810806,
+          "dateModified": 1747902569,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2871,12 +3619,17 @@
         "gamebanana": {
           "id": 597885,
           "url": "https://gamebanana.com/mods/597885",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 34,
+            "views": 12131,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/683b927566498.jpg",
+          "version": "1.10",
+          "dateAdded": 1748734890,
+          "dateModified": 1750100566,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2905,12 +3658,17 @@
         "gamebanana": {
           "id": 598351,
           "url": "https://gamebanana.com/mods/598351",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 35,
+            "views": 12596,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/683eb2a2333a0.jpg",
+          "version": "1.15",
+          "dateAdded": 1748939899,
+          "dateModified": 1749436827,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2939,12 +3697,17 @@
         "gamebanana": {
           "id": 599498,
           "url": "https://gamebanana.com/mods/599498",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 45,
+            "views": 15590,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/684660f21e775.jpg",
+          "version": "1.05",
+          "dateAdded": 1749442930,
+          "dateModified": 1749442930,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -2973,12 +3736,17 @@
         "gamebanana": {
           "id": 603417,
           "url": "https://gamebanana.com/mods/603417",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 11,
+            "views": 6972,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/685f6aa558077.jpg",
+          "version": "1.00",
+          "dateAdded": 1751084000,
+          "dateModified": 1751084000,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3007,12 +3775,17 @@
         "gamebanana": {
           "id": 604718,
           "url": "https://gamebanana.com/mods/604718",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 46,
+            "views": 9424,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6867812b2a9b9.jpg",
+          "version": "1.03",
+          "dateAdded": 1751613923,
+          "dateModified": 1751613923,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3041,12 +3814,17 @@
         "gamebanana": {
           "id": 604933,
           "url": "https://gamebanana.com/mods/604933",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 44,
+            "views": 17421,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/686885e99e642.jpg",
+          "version": "1.01",
+          "dateAdded": 1751681194,
+          "dateModified": 1751681194,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3075,12 +3853,17 @@
         "gamebanana": {
           "id": 606984,
           "url": "https://gamebanana.com/mods/606984",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 41,
+            "views": 10819,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/68758635c542b.jpg",
+          "version": "1.10",
+          "dateAdded": 1752532646,
+          "dateModified": 1761532289,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3109,12 +3892,17 @@
         "gamebanana": {
           "id": 613000,
           "url": "https://gamebanana.com/mods/613000",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 7,
+            "views": 3657,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6899214bf01cb.jpg",
+          "version": "1.00",
+          "dateAdded": 1754866279,
+          "dateModified": 1754866279,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3143,12 +3931,17 @@
         "gamebanana": {
           "id": 616778,
           "url": "https://gamebanana.com/mods/616778",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 54,
+            "views": 8083,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/68b0fac5b6823.jpg",
+          "version": "1.00",
+          "dateAdded": 1756431375,
+          "dateModified": 1756431375,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3177,12 +3970,17 @@
         "gamebanana": {
           "id": 623521,
           "url": "https://gamebanana.com/mods/623521",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 23,
+            "views": 10726,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/68da0a93a6c91.jpg",
+          "version": "1.13 & 1.02",
+          "dateAdded": 1759121693,
+          "dateModified": 1759577563,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3211,12 +4009,17 @@
         "gamebanana": {
           "id": 626894,
           "url": "https://gamebanana.com/mods/626894",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 33,
+            "views": 4773,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/68edd7951a91e.jpg",
+          "version": "1.20 & 1.14",
+          "dateAdded": 1760417884,
+          "dateModified": 1760417884,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3245,12 +4048,17 @@
         "gamebanana": {
           "id": 628227,
           "url": "https://gamebanana.com/mods/628227",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 18,
+            "views": 9337,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/68f5ab9f42ddf.jpg",
+          "version": "1.02",
+          "dateAdded": 1760930832,
+          "dateModified": 1760944724,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3279,12 +4087,17 @@
         "gamebanana": {
           "id": 629478,
           "url": "https://gamebanana.com/mods/629478",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 27,
+            "views": 7053,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/68fdc7a7286e4.jpg",
+          "version": "1.00",
+          "dateAdded": 1761462486,
+          "dateModified": 1761462486,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3313,12 +4126,17 @@
         "gamebanana": {
           "id": 637120,
           "url": "https://gamebanana.com/mods/637120",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 55,
+            "views": 7009,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/692e5c5148eab.jpg",
+          "version": "1.06",
+          "dateAdded": 1764646099,
+          "dateModified": 1764646154,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3347,12 +4165,17 @@
         "gamebanana": {
           "id": 637469,
           "url": "https://gamebanana.com/mods/637469",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 38,
+            "views": 10658,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6931276022fa3.jpg",
+          "version": "1.00",
+          "dateAdded": 1764829283,
+          "dateModified": 1764829283,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3381,12 +4204,17 @@
         "gamebanana": {
           "id": 638118,
           "url": "https://gamebanana.com/mods/638118",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 33,
+            "views": 7661,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/693574e064f12.jpg",
+          "version": "1.00",
+          "dateAdded": 1765111201,
+          "dateModified": 1765111201,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3415,12 +4243,17 @@
         "gamebanana": {
           "id": 646194,
           "url": "https://gamebanana.com/mods/646194",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 29,
+            "views": 4477,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/6967f864ace8c.jpg",
+          "version": "1.02",
+          "dateAdded": 1768421532,
+          "dateModified": 1768421532,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3476,12 +4309,17 @@
         "gamebanana": {
           "id": 660704,
           "url": "https://gamebanana.com/mods/660704",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 39,
+            "views": 10259,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/69b8018824b02.jpg",
+          "version": "1.02",
+          "dateAdded": 1773667395,
+          "dateModified": 1773874454,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3510,12 +4348,17 @@
         "gamebanana": {
           "id": 660710,
           "url": "https://gamebanana.com/mods/660710",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 34,
+            "views": 4313,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/69b80748881a3.jpg",
+          "version": "1.01",
+          "dateAdded": 1773747121,
+          "dateModified": 1773785776,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3544,12 +4387,17 @@
         "gamebanana": {
           "id": 661149,
           "url": "https://gamebanana.com/mods/661149",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 27,
+            "views": 3602,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/69b9cf4490812.jpg",
+          "version": "1.05",
+          "dateAdded": 1773785735,
+          "dateModified": 1773785735,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3578,12 +4426,17 @@
         "gamebanana": {
           "id": 661440,
           "url": "https://gamebanana.com/mods/661440",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 29,
+            "views": 4263,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/69bb01cbbfe81.jpg",
+          "version": "1.02",
+          "dateAdded": 1773863671,
+          "dateModified": 1774060820,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3612,12 +4465,17 @@
         "gamebanana": {
           "id": 663613,
           "url": "https://gamebanana.com/mods/663613",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 39,
+            "views": 8906,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/69c49c515d359.jpg",
+          "version": "1.00",
+          "dateAdded": 1774493032,
+          "dateModified": 1774493032,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
@@ -3648,12 +4506,17 @@
         "gamebanana": {
           "id": 667685,
           "url": "https://gamebanana.com/mods/667685",
-          "stats": null,
-          "thumbnailUrl": null,
-          "version": null,
-          "dateModified": null,
-          "category": null,
-          "isSpicy": null
+          "stats": {
+            "likes": 1,
+            "views": 2890,
+            "downloads": 0
+          },
+          "thumbnailUrl": "https://images.gamebanana.com/img/ss/mods/69d6a68fdaeae.jpg",
+          "version": "1.01",
+          "dateAdded": 1775675252,
+          "dateModified": 1779618933,
+          "category": "Mod",
+          "isSpicy": false
         },
         "github": null,
         "nexusmods": null
